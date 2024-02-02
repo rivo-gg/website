@@ -48,7 +48,7 @@ export const Hero = () => {
           <div className="flex flex-col gap-2 sm:flex-row mt-14 mb-24 sm:mb-40 justify-center">
             <div
               className="custom-button-colored w-64 sm:w-52 h-12 mr-0 sm:mr-4 lg:mr-6 mb-2 sm:mb-0"
-              onClick={() => window.location.href = "#features"}
+              onClick={() => window.location.href = "#projects"}
             >
               See Projects
             </div>

@@ -20,10 +20,23 @@ const { title } = Astro.props;
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/ico" href="/favicon.ico" />
     <meta name="generator" content={Astro.generator} />
+    <script
+          defer
+          data-domain="rivo.gg"
+          src="https://stats.wouldyoubot.gg/js/script.js"
+        ></script>
+        <meta name="robots" content="index, follow" />
     <meta
       name="description"
-      content="Dark themed website template built on AstroJS, designed for technological startup business."
+      content="Discover how Rivo, the leading online software company, is revolutionizing the tech industry with cutting-edge innovations and solutions."
     />
+    <meta
+    property="og:description"
+    content="Discover how Rivo, the leading online software company, is revolutionizing the tech industry with cutting-edge innovations and solutions."
+  />
+  <meta property="og:title" content={title} />
+  <meta name="theme-color" content="#354590" />
+  <meta name="msapplication-TileColor" content="#354590" />
     <title>{title}</title>
   </head>
   <body>

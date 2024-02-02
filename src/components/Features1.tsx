@@ -9,9 +9,8 @@ import { CheckArrowIcon } from "../assets/icons/CheckArrowIcon";
 export const Features1 = () => {
   return (
     <section
-      className="w-full bg-customDarkBg2 mt-20 mb-8 sm:mt-16 sm:mb-16 xl:mt-0  xl:m pt-[2rem]  md:pt-[12vw] lg:pt-0"
-      id="features"
-    >
+      className="w-full bg-customDarkBg2 mt-20 mb-8 sm:mt-16 sm:mb-16 xl:mt-0  xl:m pt-[2rem]  md:pt-[12vw] lg:pt-0">
+      <div className="absolute -top-10" id="features" />
       <motion.div
         initial={{ opacity: 0 }}
         whileInView={{ opacity: 1 }}

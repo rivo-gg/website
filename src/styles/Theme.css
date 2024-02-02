@@ -47,7 +47,7 @@ html {
 /* Buttons */
 
 .custom-button-colored {
-  @apply rounded-lg font-bold bg-customPrimary text-white flex justify-center items-center hover:bg-[#7274f3] cursor-pointer transition;
+  @apply rounded-lg font-bold bg-customPrimary text-white flex justify-center items-center hover:bg-[#273474] cursor-pointer transition;
 }
 
 /* Navbar */

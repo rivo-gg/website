@@ -13,7 +13,7 @@ Astro, React, Tailwind, Framer Motion
 
 ```
 ├── public/
-│   └── favicon.svg
+│   └── favicon.ico
 ├── src/
 │   ├── assets
 │   │   ├── icons

@@ -13,7 +13,6 @@ const footerData = [
     items: [
       "Organization Team",
       "Our Journeys",
-      "Pricing Plans",
       "Roadmap",
       "Terms & Conditions",
       "Privacy Policy",

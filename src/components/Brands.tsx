@@ -1,13 +1,9 @@
 import { motion } from "framer-motion";
+import { RivoLogo } from "../assets/logos/RivoLogo";
 
-import { AmazonLogo } from "../assets/logos/AmazonLogo";
-import { DropboxLogo } from "../assets/logos/DropboxLogo";
-import { NetflixLogo } from "../assets/logos/NetflixLogo";
-import { SlackLogo } from "../assets/logos/SlackLogo";
-import { SpotifyLogo } from "../assets/logos/SpotifyLogo";
-import { StripeLogo } from "../assets/logos/StripeLogo";
 
-export const Brands = () => (
+export function Brands() {
+  return(
   <section className="py-12 sm:py-24 bg-customDarkBg1 w-full mt-16 mb-16">
     <motion.div
       initial={{ opacity: 0 }}
@@ -22,7 +18,7 @@ export const Brands = () => (
               <h2 className="mb-2  text-4xl sm:text-5xl 2xl:text-6xl font-bold tracking-normal text-white">
                 Trusted by brands
               </h2>
-              <h2 className=" text-4xl  sm:text-5xl 2xl:text-6xl font-bold tracking-normal text-customSecondary">
+              <h2 className="text-4xl  sm:text-5xl 2xl:text-6xl font-bold tracking-normal text-customSecondary">
                 all over the world
               </h2>
             </div>
@@ -30,23 +26,23 @@ export const Brands = () => (
           <div className="w-2/3 sm:w-[620px] lg:w-1/2 mx-auto lg:mx-0 lg:pl-10">
             <div className="flex flex-wrap -m-4">
               <div className="w-1/2 sm:w-1/3 py-6 flex justify-center">
-                <AmazonLogo />
+                <RivoLogo />
               </div>
               <div className="w-1/2 sm:w-1/3 py-6 flex  justify-center">
-                <DropboxLogo />
+                <RivoLogo />
               </div>
               <div className="w-1/2 sm:w-1/3 py-6 flex  justify-center">
-                <NetflixLogo />
+                <RivoLogo />
               </div>
               <div className="w-1/2 sm:w-1/3 py-6 flex justify-center">
-                <StripeLogo />
+                <RivoLogo />
               </div>
 
               <div className="w-1/2 sm:w-1/3 py-6 flex justify-center">
-                <SpotifyLogo />
+                <RivoLogo />
               </div>
               <div className="w-1/2 sm:w-1/3  py-6 flex  justify-center">
-                <SlackLogo />
+                <RivoLogo />
               </div>
             </div>
           </div>
@@ -54,4 +50,5 @@ export const Brands = () => (
       </div>
     </motion.div>
   </section>
-);
+  );
+};

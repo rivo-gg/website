@@ -47,9 +47,7 @@ export const FAQ = () => (
                 <FAQBox
                   title={item.question}
                   content={item.answer}
-                  key={`${item.question}-${item.answer}`}
-                  defaultOpen={index === 0}
-                />
+                  key={`${item.question}-${item.answer}`} defaultOpen={null} />
               </div>
             ))}
           </div>

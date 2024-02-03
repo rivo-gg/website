@@ -14,11 +14,12 @@ const testimonialsData = [
     image: testimonial1,
   },
   {
-    customerName: "John Watkins",
-    customerTitle: "Founder of Dashflow",
+    customerName: "Gabrielle P.",
+    customerTitle: "Discord Partner & Streamer",
     content:
-      "The powerful analytic tools have helped us streamline our processes and make data-driven decisions that positively impact our efficiency. Rivo has been a game-changer for our business. The platform is easy to use, and the insights we've gained have driven significant improvements.",
+      "I can't express how much fun our Discord community is having since we added Rivo's WouldYou bot. It's simplicity meets fun in the best way possible. The easy-to-use interface makes the bot really pleasant to use . Our members love the daily dose of dilemmas, sparking fun discussions and laughs. Rivo nailed it with the diverse and entertaining prompts that keep the vibe fresh for our Discord.",
     image: testimonial2,
+    link: "https://discord.gg/staar",
   },
   {
     customerName: "John Watkins",
@@ -59,9 +60,9 @@ export const Testimonials = () => (
                 "{testimonial.content}"
               </div>
               <div className="flex mt-4 mb-2 xl:mt-8 xl:mb-4">
-                <img src={testimonial.image.src} alt="" width="45px" />
+                <img src={testimonial.image.src} alt="testomonial image" className="rounded-full" height="45px" width="45px" />
                 <div className="flex flex-col ml-4">
-                  <div className="custom-content-text-white font-medium">
+                  <div className="custom-content-text-white font-medium cursor-pointer" onClick={() => window.open(testimonial.link)}>
                     {testimonial.customerName}
                   </div>
                   <div className="custom-content-text-gray">

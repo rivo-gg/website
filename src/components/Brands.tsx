@@ -3,8 +3,8 @@ import { motion } from "framer-motion";
 import { PartnerIcon } from "../assets/icons/PartnerIcon";
 import { VerifiedIcon } from "../assets/icons/VerifiedIcon";
 
-import StaarLogo from "../assets/logos/staar.png";
-import NovaLogo from "../assets/logos/nova.png";
+import StaarLogo from "../assets/logos/staar.webp";
+import NovaLogo from "../assets/logos/nova.webp";
 
 export function Brands() {
   return (

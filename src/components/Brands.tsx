@@ -8,6 +8,7 @@ import NovaLogo from "../assets/logos/nova.webp";
 import FishWikiLogo from "../assets/logos/fishwiki.webp";
 import SpongeBobLogo from "../assets/logos/spongebob.webp";
 import IkariuLogo from "../assets/logos/ikariu.webp";
+import AltraxLogo from "../assets/logos/altrax.webp";
 
 export function Brands() {
   return (
@@ -54,7 +55,7 @@ export function Brands() {
                 </div>
                 <div className="w-1/2 sm:w-1/3 py-6 flex justify-center">
                   <img
-                  
+
                         className="w-[75px] h-[75px]  z-0"
                     src={IkariuLogo.src}
                     alt="ikariu logo"
@@ -67,8 +68,8 @@ export function Brands() {
                 <div className="w-1/2 sm:w-1/3 py-6 flex justify-center">
                   <img
                     className="w-[75px] h-[75px]  z-0"
-                    src={NovaLogo.src}
-                    alt="macros logo"
+                    src={AltraxLogo.src}
+                    alt="altrax logo"
                   />
                   <div className="p-[60px] pr-[130px] z-1 absolute">
                     <PartnerIcon />

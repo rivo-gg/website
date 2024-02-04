@@ -60,7 +60,7 @@ export const Testimonials = () => (
                 "{testimonial.content}"
               </div>
               <div className="flex mt-4 mb-2 xl:mt-8 xl:mb-4">
-                <img src={testimonial.image.src} alt="testomonial image" className="rounded-full" height="45px" width="45px" />
+                <img src={testimonial.image.src} alt="testomonial image" className="max-h-[50px] max-w-[50px] origin-center" height="50px" width="50px" />
                 <div className="flex flex-col ml-4">
                   <div className="custom-content-text-white font-medium cursor-pointer" onClick={() => window.open(testimonial.link)}>
                     {testimonial.customerName}

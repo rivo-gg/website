@@ -1,0 +1,16 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { Navbar } from "../components/Navbar.tsx";
+import { Footer } from "../components/Footer.tsx";
+import { Legal } from "../components/LegalPages/Imprint-de.tsx";
+import "../styles/Theme.css";
+import "../styles/Diagonals.css";
+
+---
+
+<Layout title="Rivo - Riding on Innovation">
+  <Navbar client:load />
+  <Legal />
+  <Footer />
+</Layout>
+../components/LegalPages/Imprint.js

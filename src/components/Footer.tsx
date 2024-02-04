@@ -6,23 +6,30 @@ import { TwitterIcon } from "../assets/icons/TwitterIcon";
 const footerData = [
   {
     title: "Products",
-    items: ["Services", "About Us", "News and Stories", "Roadmap"],
+    items: [
+      { name: "Would You", link: "https://discord.com/oauth2/authorize?client_id=981649513427111957&permissions=275415247936&scope=bot%20applications.commands" },
+      { name: "Clash Commander", link: "https://discord.com/oauth2/authorize?client_id=1057995097167368222&scope=bot&permissions=277025770560" },
+      { name: "Ghibli.rest", link: "https://discord.com/oauth2/authorize?client_id=1112770259024351252&scope=bot&permissions=2147862592" },
+      { name: "Crypto Helper", link: "https://discord.com/oauth2/authorize?client_id=747050613656911892&permissions=274878294080&scope=bot%20applications.commands" },
+    ],
   },
   {
     title: "Important Links",
     items: [
-      "Organization Team",
-      "Our Journeys",
-      "Roadmap",
-      "Terms & Conditions",
-      "Privacy Policy",
+      { name: "Legal Notice", link: "/legal" },
+      { name: "Privacy Policy", link: "/privacy" },
     ],
   },
   {
     title: "Company",
-    items: ["About Us", "Jobs", "Press", "Contact Us"],
+    items: [
+      { name: "About Us", link: "/about" },
+      { name: "Jobs", link: "/jobs" },
+      { name: "Contact Us", link: "/contact" },
+    ],
   },
 ];
+
 
 export const Footer = () => {
   return (
@@ -40,16 +47,7 @@ export const Footer = () => {
                 </div>
               </div>
               <p className="mb-10 mt-4 sm:w-[22rem] lg:w-[20rem] xl:w-[24rem] text-gray-400 leading-loose text-center lg:text-left mx-auto lg:mx-0">
-                Dashboard images were made using free Dark Admin dashboard that
-                you can find
-                <a
-                  href="https://bootstrapious.com/p/bootstrap-4-dark-admin"
-                  target="_blank"
-                  className="text-gray-100 ml-1.5 "
-                  aria-label="DarkAdmin"
-                >
-                  here.
-                </a>
+                Rivo is not affiliated with Discord. We're a third-party service!
               </p>
               <div className="w-36 mx-auto lg:mx-0">
                 <a
@@ -80,10 +78,11 @@ export const Footer = () => {
                     <li key={i} className="mb-4">
                       <a
                         className="text-gray-400 hover:text-gray-300"
-                        href="#"
-                        aria-label=""
+                        href={item.link}
+                        aria-label={item.name}
+                        target="_blank"
                       >
-                        {item}
+                        {item.name}
                       </a>
                     </li>
                   ))}
@@ -98,10 +97,10 @@ export const Footer = () => {
                     <li key={i} className="mb-4">
                       <a
                         className="text-gray-400 hover:text-gray-300"
-                        href="#"
-                        aria-label=""
+                        href={item.link}
+                        aria-label={item.name}
                       >
-                        {item}
+                        {item.name}
                       </a>
                     </li>
                   ))}
@@ -114,10 +113,10 @@ export const Footer = () => {
                     <li key={i} className="mb-4">
                       <a
                         className="text-gray-400 hover:text-gray-300"
-                        href="#"
-                        aria-label=""
+                        href={item.link}
+                        aria-label={item.name}
                       >
-                        {item}
+                        {item.name}
                       </a>
                     </li>
                   ))}
@@ -126,7 +125,7 @@ export const Footer = () => {
             </div>
           </div>
           <p className="lg:text-center text-sm text-gray-400 border-t border-[rgb(255,255,255,0.2)] pt-12 mt-16 hidden lg:block">
-            &copy; 2022. MIT license.
+            &copy; 2024. Rivo & MIT license.
           </p>
         </div>
       </div>

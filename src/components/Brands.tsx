@@ -5,6 +5,9 @@ import { VerifiedIcon } from "../assets/icons/VerifiedIcon";
 
 import StaarLogo from "../assets/logos/staar.webp";
 import NovaLogo from "../assets/logos/nova.webp";
+import FishWikiLogo from "../assets/logos/fishwiki.webp";
+import SpongeBobLogo from "../assets/logos/spongebob.webp";
+import IkariuLogo from "../assets/logos/ikariu.webp";
 
 export function Brands() {
   return (
@@ -46,14 +49,15 @@ export function Brands() {
                     alt="staar logo"
                   />
                   <div className="p-[60px] pr-[130px] z-1 absolute">
-                    <VerifiedIcon />
+                    <PartnerIcon />
                   </div>
                 </div>
                 <div className="w-1/2 sm:w-1/3 py-6 flex justify-center">
                   <img
+                  
                         className="w-[75px] h-[75px]  z-0"
-                    src={NovaLogo.src}
-                    alt="nova logo"
+                    src={IkariuLogo.src}
+                    alt="ikariu logo"
                   />
                   <div className="p-[60px] pr-[130px] z-1 absolute">
                     <PartnerIcon />
@@ -64,7 +68,7 @@ export function Brands() {
                   <img
                     className="w-[75px] h-[75px]  z-0"
                     src={NovaLogo.src}
-                    alt="nova logo"
+                    alt="macros logo"
                   />
                   <div className="p-[60px] pr-[130px] z-1 absolute">
                     <PartnerIcon />
@@ -73,8 +77,8 @@ export function Brands() {
                 <div className="w-1/2 sm:w-1/3 py-6 flex  justify-center">
                   <img
                     className="w-[75px] h-[75px]  z-0"
-                    src={StaarLogo.src}
-                    alt="staar logo"
+                    src={SpongeBobLogo.src}
+                    alt="spongebob logo"
                   />
                   <div className="p-[60px] pr-[130px] z-1 absolute">
                     <VerifiedIcon />
@@ -83,12 +87,9 @@ export function Brands() {
                 <div className="w-1/2 sm:w-1/3 py-6 flex justify-center">
                   <img
                         className="w-[75px] h-[75px]  z-0"
-                    src={NovaLogo.src}
-                    alt="nova logo"
+                    src={FishWikiLogo.src}
+                    alt="fishwiki logo"
                   />
-                  <div className="p-[60px] pr-[130px] z-1 absolute">
-                    <PartnerIcon />
-                  </div>
                   
                 </div>
               </div>

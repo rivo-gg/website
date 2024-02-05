@@ -128,7 +128,7 @@ export const Footer = () => {
               </div>
             </div>
           </div>
-          <p className="text-center text-sm text-gray-400 border-t border-[rgb(255,255,255,0.2)] pt-12 mt-12 md:pb-5 lg:text-center lg:block">
+          <p className="text-center text-sm text-gray-400 border-t border-[rgb(255,255,255,0.2)] pt-12 mt-12 pb-5 lg:pb-1 lg:text-center lg:block">
             &copy; 2024. Rivo & MIT license.
           </p>
         </div>

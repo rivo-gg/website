@@ -2,13 +2,11 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
 import { RivoLogo } from "../assets/logos/RivoLogo";
-import { GithubIcon } from "../assets/icons/GithubIcon";
 
 const navbarLinks = [
-  { label: "Home", href: "#home", ariaLabel: "Home" },
+  { label: "Home", href: "/", ariaLabel: "Home" },
   { label: "Features", href: "#features", ariaLabel: "Features" },
-  { label: "Pricing", href: "#pricing", ariaLabel: "Pricing" },
-  { label: "Feedback", href: "#feedback", ariaLabel: "Feedback" },
+  { label: "Testimonials", href: "#feedback", ariaLabel: "Testimonials" },
   { label: "FAQ", href: "#FAQ", ariaLabel: "FAQ" },
 ];
 
@@ -63,13 +61,12 @@ export const Navbar = () => {
           <div className="grow basis-0 justify-end hidden lg:flex">
             <a
               className="text-white custom-border-gray rounded-xl
-           bg-customDarkBg2 hover:bg-customDarkBg3  border-gray-700 pl-6 pr-8 pt-2 pb-2 text-sm flex"
-              href="https://github.com/matt765/Tidestream"
+           bg-customDarkBg2 hover:bg-customDarkBg3  border-gray-700 pl-6 pr-6 pt-2 pb-2 text-sm flex"
+              href="https://discord.com/invite/vMyXAxEznS"
               target="_blank"
-              aria-label="source code"
+              aria-label="discord server"
             >
-              <GithubIcon />
-              <span className="pt-px">Source code</span>
+              Discord
             </a>
           </div>
         </motion.div>
@@ -109,12 +106,11 @@ export const Navbar = () => {
               ))}
               <a
                 className="text-white custom-border-gray rounded-xl
-           bg-customDarkBg2 hover:bg-customDarkBg3  border-gray-700 pl-6 pr-8 pt-2 pb-2 text-sm flex"
-                href="https://github.com/matt765/Tidestream"
+           bg-customDarkBg2 hover:bg-customDarkBg3  border-gray-700 pl-8 pr-8 pt-2 pb-2 text-sm flex"
+                href="https://discord.com/invite/vMyXAxEznS"
                 target="_blank"
               >
-                <GithubIcon />
-                Source code
+                Discord
               </a>
             </div>
           </motion.div>

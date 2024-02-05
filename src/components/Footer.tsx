@@ -1,7 +1,8 @@
-import { FacebookIcon } from "../assets/icons/FacebookIcon";
-import { InstagramIcon } from "../assets/icons/InstagramIcon";
+import { DiscordIcon } from "../assets/icons/DiscordIcon";
+import { GithubIcon } from "../assets/icons/GithubIcon";
+import { LinkedInIcon } from "../assets/icons/LinkedInIcon";
 import { RivoLogo } from "../assets/logos/RivoLogo"
-import { TwitterIcon } from "../assets/icons/TwitterIcon";
+
 
 const footerData = [
   {
@@ -51,27 +52,30 @@ export const Footer = () => {
               </p>
               <div className="w-36 mx-auto lg:mx-0">
                 <a
-                  className="inline-block w-10  h-10 mr-2 p-2 bg-customDarkBg2 custom-border-gray  hover:bg-gray-700 rounded-xl"
-                  href="#"
+                  className="inline-block w-10 h-10 mr-2 p-2 bg-customDarkBg2 custom-border-gray  hover:bg-gray-700 rounded-xl"
+                  href="https://discord.com/invite/vMyXAxEznS"
+                  target="_blank"
                 >
-                  <FacebookIcon />
+                  <DiscordIcon />
                 </a>
                 <a
-                  className="inline-block w-10  h-10 mr-2 p-2 bg-customDarkBg2 custom-border-gray  hover:bg-gray-700 rounded-xl"
-                  href="#"
+                  className="inline-block w-10 h-10 mr-2 p-2 bg-customDarkBg2 custom-border-gray  hover:bg-gray-700 rounded-xl"
+                  href="https://www.linkedin.com/company/rivo-gg/"
+                  target="_blank"
                 >
-                  <TwitterIcon />
+                  <LinkedInIcon />
                 </a>
                 <a
-                  className="inline-block w-10  h-10 mr-2 p-2 bg-customDarkBg2 custom-border-gray  hover:bg-gray-700 rounded-xl"
-                  href="#"
+                  className="inline-block w-10 h-10 mr-2 p-2 bg-customDarkBg2 custom-border-gray  hover:bg-gray-700 rounded-xl"
+                  href="https://github.com/rivo-gg"
+                  target="_blank"
                 >
-                  <InstagramIcon />
+                  <GithubIcon />
                 </a>
               </div>
             </div>
-            <div className="w-full lg:w-2/3  lg:pl-16 hidden lg:flex flex-wrap justify-between">
-              <div className="w-full md:w-1/3 lg:w-auto mb-16 md:mb-0">
+            <div className="w-full lg:w-2/3  lg:pl-16 lg:flex flex-wrap justify-between md:align-center">
+              <div className="w-full md:w-1/3 lg:w-auto mb-16 md:pb-5">
                 <h3 className="mb-6 text-2xl font-bold text-white">Products</h3>
                 <ul>
                   {footerData[0].items.map((item, i) => (
@@ -124,7 +128,7 @@ export const Footer = () => {
               </div>
             </div>
           </div>
-          <p className="lg:text-center text-sm text-gray-400 border-t border-[rgb(255,255,255,0.2)] pt-12 mt-16 hidden lg:block">
+          <p className="text-center text-sm text-gray-400 border-t border-[rgb(255,255,255,0.2)] pt-12 mt-12 md:pb-5 lg:text-center lg:block">
             &copy; 2024. Rivo & MIT license.
           </p>
         </div>

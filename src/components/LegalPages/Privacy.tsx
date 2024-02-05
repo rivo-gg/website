@@ -6,7 +6,7 @@ export function Privacy() {
       </h1>
       <div>
         <h3 className="mb-4 text-lg font-bold text-white">
-          Last updated and effective July 27, 2023
+          Last updated and effective February 05, 2024
         </h3>
         <p>
           Thank you for choosing to be part of our community at Would

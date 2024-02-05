@@ -4,3 +4,6 @@ Allow: /
 
 # Host
 Host: https://rivo.gg/
+
+# Sitemap
+Sitemap: https://rivo.gg/sitemap-index.

@@ -5,5 +5,6 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://rivo.gg',
   integrations: [react(), tailwind(), sitemap()]
 });

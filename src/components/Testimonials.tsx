@@ -7,11 +7,12 @@ import testimonial3 from "../assets/images/testimonial3.webp";
 
 const testimonialsData = [
   {
-    customerName: "John Watkins",
-    customerTitle: "Founder of Dashflow",
+    customerName: "Shulkercraft",
+    customerTitle: "Youtube Creator",
     content:
-      "The powerful analytic tools have helped us streamline our processes and make data-driven decisions that positively impact our efficiency. Rivo has been a game-changer for our business. The platform is easy to use, and the insights we've gained have driven significant improvements.",
+      "In the last 2 years Rivo helped my channel get one of the longest lasting brand sponsorships, which helped my brand to grow and be financially stable. They are always quick to solve any problems, which is important in the creator space where everything moves fast.",
     image: testimonial1,
+    link: "https://youtube.com/@Shulkercraft"
   },
   {
     customerName: "Gabrielle P.",

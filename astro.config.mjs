@@ -9,7 +9,7 @@ export default defineConfig({
   site: 'https://rivo.gg',
   integrations: [react(), tailwind(), sitemap(), compress({
     CSS: true,
-    HTML: true,
+    HTML: false,
     Image: true,
     JavaScript: false,
     SVG: true,

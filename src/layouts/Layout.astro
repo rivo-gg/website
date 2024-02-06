@@ -21,12 +21,24 @@ const { title } = Astro.props;
     <link rel="icon" type="image/ico" href="/favicon.ico" />
     <meta name="generator" content={Astro.generator} />
     <link rel="sitemap" href="/sitemap-index.xml" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Rivo",
+        "alternateName": "RivoGG",
+        "url": "https://rivo.gg/",
+        "logo": "https://rivo.gg/icon.png"
+      }
+      </script>
     <script
           defer
           data-domain="rivo.gg"
           src="https://stats.wouldyoubot.gg/js/script.js"
         ></script>
-        <meta name="robots" content="index, follow" />
+    <meta name="robots" content="index, follow" />
+    <link rel="icon" href="/icon.png">
+    <meta property="og:image" content="/icon.png">
     <meta
       name="description"
       content="Discover how Rivo, the leading online software company, is revolutionizing the tech industry with cutting-edge innovations and solutions."
@@ -38,6 +50,7 @@ const { title } = Astro.props;
   <meta property="og:title" content={title} />
   <meta name="theme-color" content="#354590" />
   <meta name="msapplication-TileColor" content="#354590" />
+  
     <title>{title}</title>
   </head>
   <body>

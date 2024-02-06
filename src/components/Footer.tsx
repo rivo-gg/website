@@ -1,17 +1,28 @@
 import { DiscordIcon } from "../assets/icons/DiscordIcon";
 import { GithubIcon } from "../assets/icons/GithubIcon";
 import { LinkedInIcon } from "../assets/icons/LinkedInIcon";
-import { RivoLogo } from "../assets/logos/RivoLogo"
-
+import { RivoLogo } from "../assets/logos/RivoLogo";
 
 const footerData = [
   {
     title: "Products",
     items: [
-      { name: "Would You", link: "https://discord.com/oauth2/authorize?client_id=981649513427111957&permissions=275415247936&scope=bot%20applications.commands" },
-      { name: "Clash Commander", link: "https://discord.com/oauth2/authorize?client_id=1057995097167368222&scope=bot&permissions=277025770560" },
-      { name: "Ghibli.rest", link: "https://discord.com/oauth2/authorize?client_id=1112770259024351252&scope=bot&permissions=2147862592" },
-      { name: "Crypto Helper", link: "https://discord.com/oauth2/authorize?client_id=747050613656911892&permissions=274878294080&scope=bot%20applications.commands" },
+      {
+        name: "Would You",
+        link: "https://discord.com/oauth2/authorize?client_id=981649513427111957&permissions=275415247936&scope=bot%20applications.commands",
+      },
+      {
+        name: "Clash Commander",
+        link: "https://discord.com/oauth2/authorize?client_id=1057995097167368222&scope=bot&permissions=277025770560",
+      },
+      {
+        name: "Ghibli.rest",
+        link: "https://discord.com/oauth2/authorize?client_id=1112770259024351252&scope=bot&permissions=2147862592",
+      },
+      {
+        name: "Crypto Helper",
+        link: "https://discord.com/oauth2/authorize?client_id=747050613656911892&permissions=274878294080&scope=bot%20applications.commands",
+      },
     ],
   },
   {
@@ -31,7 +42,6 @@ const footerData = [
   },
 ];
 
-
 export const Footer = () => {
   return (
     <footer>
@@ -48,13 +58,15 @@ export const Footer = () => {
                 </div>
               </div>
               <p className="mb-10 mt-4 sm:w-[22rem] lg:w-[20rem] xl:w-[24rem] text-gray-400 leading-loose text-center lg:text-left mx-auto lg:mx-0">
-                Rivo is not affiliated with Discord. We're a third-party service!
+                Rivo is not affiliated with Discord. We're a third-party
+                service!
               </p>
               <div className="w-36 mx-auto lg:mx-0">
                 <a
                   className="inline-block w-10 h-10 mr-2 p-2 bg-customDarkBg2 custom-border-gray  hover:bg-gray-700 rounded-xl"
                   href="https://discord.com/invite/vMyXAxEznS"
                   target="_blank"
+                  aria-label="discord link"
                 >
                   <DiscordIcon />
                 </a>
@@ -62,6 +74,7 @@ export const Footer = () => {
                   className="inline-block w-10 h-10 mr-2 p-2 bg-customDarkBg2 custom-border-gray  hover:bg-gray-700 rounded-xl"
                   href="https://www.linkedin.com/company/rivo-gg/"
                   target="_blank"
+                  aria-label="lnkedin link"
                 >
                   <LinkedInIcon />
                 </a>
@@ -69,6 +82,7 @@ export const Footer = () => {
                   className="inline-block w-10 h-10 mr-2 p-2 bg-customDarkBg2 custom-border-gray  hover:bg-gray-700 rounded-xl"
                   href="https://github.com/rivo-gg"
                   target="_blank"
+                  aria-label="github link"
                 >
                   <GithubIcon />
                 </a>

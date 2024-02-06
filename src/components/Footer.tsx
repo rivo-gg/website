@@ -9,19 +9,19 @@ const footerData = [
     items: [
       {
         name: "Would You",
-        link: "https://discord.com/oauth2/authorize?client_id=981649513427111957&permissions=275415247936&scope=bot%20applications.commands",
+        link: "https://wouldyoubot.gg/",
       },
       {
         name: "Clash Commander",
-        link: "https://discord.com/oauth2/authorize?client_id=1057995097167368222&scope=bot&permissions=277025770560",
+        link: "https://wumpus.store/bot/1057995097167368222",
       },
       {
         name: "Ghibli.rest",
-        link: "https://discord.com/oauth2/authorize?client_id=1112770259024351252&scope=bot&permissions=2147862592",
+        link: "https://wumpus.store/bot/1112770259024351252",
       },
       {
         name: "Crypto Helper",
-        link: "https://discord.com/oauth2/authorize?client_id=747050613656911892&permissions=274878294080&scope=bot%20applications.commands",
+        link: "https://wumpus.store/bot/747050613656911892",
       },
     ],
   },

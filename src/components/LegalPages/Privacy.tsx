@@ -1,7 +1,7 @@
 export function Privacy() {
   return (
-    <main className="flex flex-col gap-8 px-8 text-neutral-300 xl:px-[17vw] mb-10">
-      <h1 className="mt-36 text-4xl font-bold text-brand-red-100 drop-shadow-red-glow">
+    <main className="mb-10 flex flex-col gap-8 px-8 text-neutral-300 xl:px-[17vw]">
+      <h1 className="text-brand-red-100 drop-shadow-red-glow mt-36 text-4xl font-bold">
         Privacy Policy
       </h1>
       <div>
@@ -29,7 +29,8 @@ export function Privacy() {
               className="text-white underline"
             >
               https://rivo.gg
-            </a>.
+            </a>
+            .
           </li>
           <li>
             - Engage with us in other related ways — including any sales,
@@ -292,11 +293,7 @@ export function Privacy() {
           <br />
           We may also use or disclose information to resolve disputes,
           investigate problems or enforce our{" "}
-          <a
-            href="/terms"
-            target={"_blank"}
-            className="text-white underline"
-          >
+          <a href="/terms" target={"_blank"} className="text-white underline">
             Terms of Service
           </a>
           . At times, we may review status or activity of multiple users to do
@@ -361,11 +358,7 @@ export function Privacy() {
           change that information, or delete it in some circumstances. To
           request to review, update, or delete your personal Information, please
           visit:{" "}
-          <a
-            href="/discord"
-            target={"_blank"}
-            className="text-white underline"
-          >
+          <a href="/discord" target={"_blank"} className="text-white underline">
             https://wouldyoubot.gg/discord
           </a>
           .

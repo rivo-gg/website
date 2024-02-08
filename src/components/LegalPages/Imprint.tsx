@@ -1,7 +1,7 @@
 export function Legal() {
   return (
-    <section className="flex flex-col gap-8 px-8 text-neutral-300 xl:px-[17vw] mb-10">
-      <h1 className="mt-36 text-4xl font-bold text-brand-red-100 drop-shadow-red-glow">
+    <section className="mb-10 flex flex-col gap-8 px-8 text-neutral-300 xl:px-[17vw]">
+      <h1 className="text-brand-red-100 drop-shadow-red-glow mt-36 text-4xl font-bold">
         Legal Notice
       </h1>
       <p>
@@ -45,10 +45,7 @@ export function Legal() {
       </div>
       <div>
         <h3 className="text-lg font-bold text-white">Privacy Policy</h3>
-        <a
-          href="https://rivo.gg/privacy/"
-          className="text-white underline"
-        >
+        <a href="https://rivo.gg/privacy/" className="text-white underline">
           https://rivo.gg/privacy/
         </a>
       </div>

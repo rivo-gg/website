@@ -12,7 +12,7 @@ const testimonialsData = [
     content:
       "In the last 2 years Rivo helped my channel get one of the longest lasting brand sponsorships, which helped my brand to grow and be financially stable. They are always quick to solve any problems, which is important in the creator space where everything moves fast.",
     image: testimonial1,
-    link: "https://youtube.com/@Shulkercraft"
+    link: "https://youtube.com/@Shulkercraft",
   },
   {
     customerName: "Gabrielle P.",
@@ -32,38 +32,47 @@ const testimonialsData = [
 ];
 
 export const Testimonials = () => (
-  <section className="w-full flex justify-center pt-10 mb-16 lg:mb-32 bg-customDarkBg2 relative">
+  <section className="relative mb-16 flex w-full justify-center bg-customDarkBg2 pt-10 lg:mb-32">
     <div className="absolute -top-16" id="feedback" />
-    <div className="flex flex-col w-full lg:w-[1150px] justify-center">
+    <div className="flex w-full flex-col justify-center lg:w-[1150px]">
       <motion.div
         initial={{ opacity: 0 }}
         whileInView={{ opacity: 1 }}
         viewport={{ once: true }}
         transition={{ duration: 0.4, delay: 0.3 }}
       >
-        <div className="custom-block-subtitle text-center mb-6">
+        <div className="custom-block-subtitle mb-6 text-center">
           Testimonials
         </div>
-        <div className="custom-block-big-title text-center mb-16 px-8 sm:px-24 md:px-48">
+        <div className="custom-block-big-title mb-16 px-8 text-center sm:px-24 md:px-48">
           People like you love Rivo
         </div>
 
-        <div className="flex flex-col lg:flex-row gap-8 lg:gap-5 xl:gap-10 px-6 xl:px-0 items-center">
+        <div className="flex flex-col items-center gap-8 px-6 lg:flex-row lg:gap-5 xl:gap-10 xl:px-0">
           {testimonialsData.map((testimonial, index) => (
             <div
-              className="w-11/12 sm:w-4/5 md:w-[560px] lg:w-1/3 custom-border-gray-darker rounded-xl bg-customDarkBg3 flex flex-col px-6 py-4"
+              className="custom-border-gray-darker flex w-11/12 flex-col rounded-xl bg-customDarkBg3 px-6 py-4 sm:w-4/5 md:w-[560px] lg:w-1/3"
               key={`${testimonial.customerName}-${index}`}
             >
-              <div className="flex mb-2">
+              <div className="mb-2 flex">
                 <QuoteIcon />
               </div>
               <div className="custom-content-text-white">
                 "{testimonial.content}"
               </div>
-              <div className="flex mt-4 mb-2 xl:mt-8 xl:mb-4">
-                <img src={testimonial.image.src} alt="testomonial image" className="max-h-[50px] max-w-[50px] min-w-[50px] min-h-[50px] origin-center" height="50px" width="50px" />
-                <div className="flex flex-col ml-4">
-                  <div className="custom-content-text-white font-medium cursor-pointer" onClick={() => window.open(testimonial.link)}>
+              <div className="mb-2 mt-4 flex xl:mb-4 xl:mt-8">
+                <img
+                  src={testimonial.image.src}
+                  alt="testomonial image"
+                  className="max-h-[50px] min-h-[50px] min-w-[50px] max-w-[50px] origin-center"
+                  height="50px"
+                  width="50px"
+                />
+                <div className="ml-4 flex flex-col">
+                  <div
+                    className="custom-content-text-white cursor-pointer font-medium"
+                    onClick={() => window.open(testimonial.link)}
+                  >
                     {testimonial.customerName}
                   </div>
                   <div className="custom-content-text-gray">

@@ -89,11 +89,13 @@ export const Footer = () => {
               </div>
             </div>
             <div className="md:align-center w-full  flex-wrap justify-between lg:flex lg:w-2/3 lg:pl-16">
-              <div className="mb-16 w-full md:w-1/3 md:pb-5 lg:w-auto">
-                <h3 className="mb-6 text-2xl font-bold text-white">Products</h3>
+              <div className="mb-16 w-full md:w-1/3 md:pb-5 lg:w-auto ">
+                <h3 className="mb-6 text-center text-2xl font-bold text-white">
+                  Products
+                </h3>
                 <ul>
                   {footerData[0].items.map((item, i) => (
-                    <li key={i} className="mb-4">
+                    <li key={i} className="mb-4 text-center">
                       <a
                         className="text-gray-400 hover:text-gray-300"
                         href={item.link}
@@ -107,12 +109,12 @@ export const Footer = () => {
                 </ul>
               </div>
               <div className="mb-16 w-full md:mb-0 md:w-1/3 lg:w-auto">
-                <h3 className="mb-6 text-2xl font-bold text-white">
+                <h3 className="mb-6 text-center text-2xl font-bold text-white">
                   Important Links
                 </h3>
                 <ul>
                   {footerData[1].items.map((item, i) => (
-                    <li key={i} className="mb-4">
+                    <li key={i} className="mb-4 text-center">
                       <a
                         className="text-gray-400 hover:text-gray-300"
                         href={item.link}
@@ -125,10 +127,12 @@ export const Footer = () => {
                 </ul>
               </div>
               <div className="w-full md:w-1/3 lg:w-auto">
-                <h3 className="mb-6 text-2xl font-bold text-white">Company</h3>
+                <h3 className="mb-6 text-center text-2xl font-bold text-white">
+                  Company
+                </h3>
                 <ul>
                   {footerData[2].items.map((item, i) => (
-                    <li key={i} className="mb-4">
+                    <li key={i} className="mb-4 text-center">
                       <a
                         className="text-gray-400 hover:text-gray-300"
                         href={item.link}

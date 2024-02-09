@@ -72,5 +72,6 @@ html {
   left: calc(var(--circle-size) / 2 * -1);
   pointer-events: none;
   filter: invert(0);
+  z-index: 1000;
   mix-blend-mode: difference;
 }

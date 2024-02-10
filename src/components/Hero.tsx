@@ -5,7 +5,7 @@ import dashboard from "../assets/images/dashboard.webp";
 export const Hero = () => {
   return (
     <section
-      className="hero-bg-gradient  mb-[28vw] flex w-screen items-center justify-center bg-customDarkBg1 pb-24 sm:pb-32 md:mb-[18vw] md:pb-44 lg:mb-[10vw] lg:pb-0 xl:mb-[13vw] 2xl:mb-60"
+      className="hero-bg-gradient mb-[20vw] flex w-screen items-center justify-center bg-customDarkBg1 pb-24 sm:pb-32 md:mb-[18vw] md:pb-44 lg:mb-[10vw] lg:pb-0 xl:mb-[13vw] 2xl:mb-60"
       id="home"
     >
       <div className="flex w-full flex-col items-center justify-center pt-16 text-center md:w-[800px] md:pt-16 lg:pt-20 xl:w-[900px]">
@@ -67,6 +67,7 @@ export const Hero = () => {
           animate={{ opacity: 1, y: 0, zIndex: 20 }}
           transition={{ duration: 0.5, delay: 0.15 }}
         ></motion.div>
+    
         <div className="relative flex w-screen justify-center ">
           <div className="custom-shape-divider-bottom-1665343298 mt-4 hidden sm:mt-16 md:mt-52 lg:block">
             <svg

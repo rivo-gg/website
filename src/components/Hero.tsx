@@ -67,7 +67,7 @@ export const Hero = () => {
           animate={{ opacity: 1, y: 0, zIndex: 20 }}
           transition={{ duration: 0.5, delay: 0.15 }}
         ></motion.div>
-    
+
         <div className="relative flex w-screen justify-center ">
           <div className="custom-shape-divider-bottom-1665343298 mt-4 hidden sm:mt-16 md:mt-52 lg:block">
             <svg

@@ -3,7 +3,10 @@ import { cn } from '@/lib/utils'
 import { Barlow } from 'next/font/google'
 import Image from 'next/image'
 
-const barlow = Barlow({ subsets: ['latin'], weight: '400' })
+const barlow = Barlow({
+  subsets: ['latin'],
+  weight: ['400', '500', '600', '700']
+})
 
 export function Hero() {
   return (
@@ -17,7 +20,7 @@ export function Hero() {
             <span>The </span>
             <span className="text-primary">Digital </span>
             <span>
-              Agency <br /> you can{' '}
+              Product Agency <br /> you can{' '}
             </span>
             <span className="text-primary">trust</span>
           </div>
@@ -41,7 +44,7 @@ export function Hero() {
           </div>
         </div>
         <div className="flex justify-center gap-4">
-          <Button variant="outline">Our Works</Button>
+          <Button variant="outline">Our Work</Button>
           <Button>Contact Us</Button>
         </div>
       </div>
@@ -50,7 +53,7 @@ export function Hero() {
         alt="Hero Abstract Graph"
         width={1920}
         height={1080}
-        className="absolute bottom-0 left-1/2 h-full w-10/12 -translate-x-1/2"
+        className="opacity-100% absolute bottom-0 left-1/2 h-full w-10/12 -translate-x-1/2"
       />
     </section>
   )

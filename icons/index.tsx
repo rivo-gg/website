@@ -11,7 +11,7 @@ export function Rivo(props: SVGProps<SVGSVGElement>) {
       {...props}
     >
       <g
-        clip-path="url(#clip0_57_3)"
+        clipPath="url(#clip0_57_3)"
         filter="url(#filter0_d_57_3)"
       >
         <path
@@ -487,10 +487,10 @@ export function Rivo(props: SVGProps<SVGSVGElement>) {
           width="808"
           height="808"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
           <feFlood
-            flood-opacity="0"
+            floodOpacity="0"
             result="BackgroundImageFix"
           />
           <feColorMatrix

@@ -1,5 +1,8 @@
+'use client'
+
 import { Button } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
+import { useTheme } from 'next-themes'
 import { Barlow } from 'next/font/google'
 import Image from 'next/image'
 
@@ -9,6 +12,7 @@ const barlow = Barlow({
 })
 
 export function Hero() {
+  const { theme } = useTheme()
   return (
     <section
       id="hero"
@@ -49,7 +53,7 @@ export function Hero() {
         </div>
       </div>
       <Image
-        src="/abstract.svg"
+        src={theme === 'light' ? '/abstract_white.svg' : '/abstract.svg'}
         alt="Hero Abstract Graph"
         width={1920}
         height={1080}

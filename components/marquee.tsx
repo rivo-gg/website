@@ -4,8 +4,8 @@ import Marquee from 'react-fast-marquee'
 
 export function MarqueeWrapper() {
   return (
-    <div className="mt-28 w-full">
-      <div className="-ml-[2.5%] w-[105%] rotate-3">
+    <div className="my-28 w-full">
+      <div className="relative -ml-[2.5%] w-[105%] rotate-3">
         <div className="pointer-events-none absolute left-0 top-0 z-10 h-full w-1/3 bg-gradient-to-r from-background via-background/70 to-transparent" />
         <div className="pointer-events-none absolute right-0 top-0 z-10 h-full w-1/3 bg-gradient-to-l from-background via-background/70 to-transparent" />
         <Marquee

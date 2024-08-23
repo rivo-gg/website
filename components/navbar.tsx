@@ -45,16 +45,12 @@ export function Navbar() {
             <Link
               key={index}
               href={item.href}
-              className={cn('group relative text-base', poppins.className)}
+              className={cn(
+                'nav-link relative text-base',
+                pathname === item.href && 'active',
+                poppins.className
+              )}
             >
-              <span
-                className={cn(
-                  'absolute bottom-0.5 h-0.5 rounded bg-primary transition-all duration-300 group-hover:w-full',
-                  pathname === item.href ?
-                    'left-0 w-1/2'
-                  : 'right-0 w-0 group-hover:left-0'
-                )}
-              ></span>
               {item.label}
             </Link>
           ))}

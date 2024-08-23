@@ -65,6 +65,53 @@
   body {
     @apply overflow-x-hidden bg-background text-foreground;
     scroll-behavior: smooth;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+  }
+
+  .nav-link::before {
+    @apply absolute bottom-0 block h-0.5 w-0 bg-primary transition-[width] duration-300;
+    content: '';
+  }
+
+  .nav-link.active::before {
+    @apply left-0 w-1/2;
+  }
+
+  .nav-link:hover::before {
+    @apply left-0 w-full;
+  }
+
+  h1 {
+    @apply mb-3 text-4xl font-semibold text-primary;
+  }
+
+  h2 {
+    @apply mb-2 text-3xl font-semibold text-primary;
+  }
+
+  h3 {
+    @apply mb-1 text-2xl font-semibold text-foreground;
+  }
+
+  h4 {
+    @apply text-xl font-semibold text-foreground;
+  }
+
+  h5 {
+    @apply text-lg font-semibold text-foreground;
+  }
+
+  h6 {
+    @apply font-semibold text-foreground;
+  }
+
+  .legals {
+    @apply mb-8 mt-32 flex flex-col items-center p-6;
+  }
+
+  .legals a {
+    @apply text-blue-400 hover:underline;
   }
 }
 

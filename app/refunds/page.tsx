@@ -30,7 +30,7 @@ export default function Page() {
             You have the right to cancel your subscription or purchase of Rivo
             Premium within 14 days without giving any reason. The withdrawal
             period expires 14 days after the date of conclusion of the contract.
-            How to exercise your right of withdrawal
+            How to exercise your right of withdrawal.
           </span>
         </div>
         <div className="flex flex-col gap-4">

@@ -1,3 +1,4 @@
+import { Footer } from '@/components/footer'
 import { Navbar } from '@/components/navbar'
 import type { Metadata } from 'next'
 import { ThemeProvider } from 'next-themes'
@@ -31,6 +32,7 @@ export default function RootLayout({
         >
           <Navbar />
           {children}
+          <Footer />
         </ThemeProvider>
       </body>
     </html>

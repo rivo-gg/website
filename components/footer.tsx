@@ -6,8 +6,8 @@ import React from 'react'
 export function Footer() {
   return (
     <footer className="mt-24 flex items-center justify-center border-t-2 px-6 pb-12 pt-24">
-      <div className="flex w-fit max-w-7xl flex-col items-center gap-12 sm:flex-wrap md:w-full md:items-start md:justify-between md:gap-4">
-        <div className="order-last flex flex-col gap-2 md:order-first">
+      <div className="flex w-fit max-w-7xl flex-col items-center gap-12 md:w-full md:flex-row md:items-start md:justify-between md:gap-4">
+        <div className="order-last flex flex-col items-center gap-2 md:order-first md:items-start">
           <Link
             href="/"
             className="flex items-center gap-2"
@@ -15,7 +15,7 @@ export function Footer() {
             <Rivo className="h-12 w-12" />
             <span className="text-3xl font-bold">Rivo</span>
           </Link>
-          <span className="ml-3 text-foreground/70">
+          <span className="ml-3 max-w-[175px] text-center text-foreground/70 md:max-w-full md:text-start">
             © 2023 - Present Rivo. All rights reserved.
           </span>
           <div className="ml-2 flex gap-1">
@@ -31,7 +31,7 @@ export function Footer() {
           <FooterLink href="/tos">Terms of Service</FooterLink>
           <FooterLink href="/refunds">Refunds</FooterLink>
         </FooterList>
-        <FooterList>
+        <FooterList className="pr-3">
           <FooterTitle>Contacts</FooterTitle>
           <FooterLink
             href="mailto:hello@rivo.gg"
@@ -56,7 +56,13 @@ const FooterList = ({
 }: {
   children: React.ReactNode
   className?: string
-}) => <div className={cn('flex flex-col gap-2', className)}>{children}</div>
+}) => (
+  <div
+    className={cn('flex flex-col items-center gap-2 md:items-start', className)}
+  >
+    {children}
+  </div>
+)
 
 const FooterTitle = ({
   children,

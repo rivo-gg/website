@@ -3,11 +3,11 @@ import { cn } from '@/lib/utils'
 
 export function Testimonials() {
   return (
-    <section className="my-20 flex w-full max-w-6xl flex-col gap-20">
+    <section className="my-20 flex w-full max-w-6xl flex-col gap-20 px-6">
       <span className="text-center text-6xl">
         Hear it from <span className="text-primary">Others</span>
       </span>
-      <div className="flex flex-wrap justify-between gap-4">
+      <div className="flex flex-wrap justify-around gap-8">
         {testimonials.map((testimonial, index) => (
           <TestimonialCard
             key={index}

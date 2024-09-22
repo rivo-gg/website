@@ -1,5 +1,6 @@
 import { Footer } from '@/components/footer'
 import { Navbar } from '@/components/navbar'
+import { cn } from '@/lib/utils'
 import type { Metadata } from 'next'
 import { ThemeProvider } from 'next-themes'
 import { Barlow } from 'next/font/google'
@@ -23,7 +24,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={barlow.className}>
+      <body className={cn('w-screen overflow-x-hidden', barlow.className)}>
         <ThemeProvider
           attribute="class"
           defaultTheme="dark"

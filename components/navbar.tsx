@@ -1,5 +1,8 @@
 'use client'
 
+import { MobileMenu } from '@/components/mobile-menu'
+import RivoLogo from '@/components/rivo-logo'
+import { Button } from '@/components/ui/button'
 import { navItems } from '@/data/nav-items'
 import { cn } from '@/lib/utils'
 import { Moon, Sun } from 'lucide-react'
@@ -8,8 +11,6 @@ import { Poppins } from 'next/font/google'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 import { useEffect, useState } from 'react'
-import RivoLogo from './rivo-logo'
-import { Button } from './ui/button'
 
 const poppins = Poppins({ subsets: ['latin'], weight: '400' })
 
@@ -31,16 +32,18 @@ export function Navbar() {
     }
   }, [])
 
+  const [open, setOpen] = useState(false)
+
   return (
     <nav
       className={cn(
-        'fixed left-0 top-0 z-[100] flex h-auto w-full items-center justify-center bg-background transition-all duration-300',
+        'fixed left-0 top-0 z-20 flex h-auto w-screen items-center justify-center bg-background transition-all duration-300',
         isScrolled ? 'px-6 py-3' : 'p-6'
       )}
     >
       <div className="flex w-full max-w-7xl items-center justify-between gap-4">
         <RivoLogo />
-        <div className="flex items-center gap-6">
+        <div className="hidden items-center gap-6 sm:flex">
           {navItems.map((item, index) => (
             <Link
               key={index}
@@ -66,6 +69,25 @@ export function Navbar() {
           </button>
           <Button>Contact Us</Button>
         </div>
+        <MobileMenu
+          open={open}
+          setOpen={setOpen}
+        >
+          {navItems.map((item, index) => (
+            <Link
+              key={index}
+              href={item.href}
+              className={cn(
+                'relative text-base hover:text-primary',
+                pathname === item.href && 'text-primary',
+                poppins.className
+              )}
+              onClick={() => setOpen(false)}
+            >
+              {item.label}
+            </Link>
+          ))}
+        </MobileMenu>
       </div>
     </nav>
   )

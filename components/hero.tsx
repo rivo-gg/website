@@ -16,7 +16,7 @@ export function Hero() {
   return (
     <section
       id="hero"
-      className="relative mt-52 flex min-h-[80vh] w-full flex-1 justify-center"
+      className="relative mt-52 flex min-h-[60vh] w-full flex-1 justify-center md:min-h-[80vh]"
     >
       <div className="z-10 flex w-auto flex-col gap-12">
         <div className={cn('flex flex-col gap-8', barlow.className)}>
@@ -55,9 +55,9 @@ export function Hero() {
       <Image
         src={theme === 'light' ? '/abstract_white.svg' : '/abstract.svg'}
         alt="Hero Abstract Graph"
-        width={1920}
-        height={1080}
-        className="opacity-100% absolute bottom-0 left-1/2 h-full w-10/12 -translate-x-1/2"
+        width={9999}
+        height={9999}
+        className="opacity-100% absolute bottom-0 left-1/2 h-full !w-[1800px] -translate-x-1/2 md:w-10/12"
       />
     </section>
   )

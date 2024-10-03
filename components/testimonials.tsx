@@ -1,5 +1,6 @@
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar'
 import { cn } from '@/lib/utils'
+import Link from 'next/link'
 
 export function Testimonials() {
   return (
@@ -26,30 +27,31 @@ export function Testimonials() {
 interface Testimonial {
   author: string
   job: string
+  link: string
   avatar: string
   content: string
 }
 
 const testimonials: Testimonial[] = [
   {
-    author: 'Shulker craft',
+    author: 'Shulkercraft',
     job: 'YouTube Creator',
-    avatar:
-      'https://s3-alpha-sig.figma.com/img/35c1/7af6/fae9ef814c73afbce6628f46143bc7d0?Expires=1725235200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=VpYFi~fcMu~IU5vcDnOx3gBulTsM9-il3IY4zm0kYpfcnWpphDFxsYpZG5NqMzCra8eX-KTHZvKAIqKG6LF2GPERcs-j~ApcsbOyMlqijaTK2Vt4gQkcmkZMNP65CkdqzHxcOZWyc8Agb-RolXBbhXaq6iwrY-HptEzDrILTQ6CczcaeePQi0vT9tkPlVNRbSN1-f5-U7L5OmpwKEnJWPLkbHA8PE--Zh43tx3XFsFCoQ7vnreNKDK2yEbFd0egwvijOCoS5n14-aByWXFUTAf5Wcl94POrHbpmSNqAajKj4qYYOYhhXIrbxY9OlNfO2ZYbfD8NUpqXFUK5wVADWLQ__',
+    link: 'https://www.youtube.com/@Shulkercraft',
+    avatar: 'Shulkercraft.webp',
     content: `In the last 2 years Rivo helped my channel get one of the longest lasting brand sponsorships, which helped my brand to grow and be financially stable. They are always quick to solve any problems, which is important in the creator space where everything moves fast.`
   },
   {
     author: 'Dylan',
     job: 'Community Manager at Universal Music Group',
-    avatar:
-      'https://s3-alpha-sig.figma.com/img/3282/d067/580b7915a9f698d7abbc07391e7fbed7?Expires=1725235200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=F3KW4Z6mRI1EgLVUvFRCNsBAkcApEZQircAkaOaa-Y~MHTkANGEYlliiGolK2gujG5QBr7vOeIhJMVwk0GLmETj5rTHyvwEhMX3Ek3HjyFbtJBDaJGyq07JJC9cYnlZYRzvIiaor5lqiousZLGJytuBy1C9sg5RQOMPSVKon4iDlu04aqQXF6c3y-fRBUJAOouSTi25AtxHYi3pMSXYZekSeymHe9UDdfSS2DYmLwI5X0c4sDuI4ZLFKPrmnGOlQ7T-archqaSFmuQALCj8rUiWxH5nMOCfu0cPWngyUl6tlXK1uHD-gEDqiIsSOE2iTgsTuoQ5zA9P1ZU4IWYa9XQ__',
+    link: 'https://www.youtube.com/@fxtch',
+    avatar: 'Dylan.webp',
     content: `Working with the team at Rivo has been an opportunity I did not expect. Rivo kindly worked on a tight deadline to rigorously create & develop an interactive application for a world leading talent in music - the experience now being enjoyed in one of the largest gaming communities in Discord! Couldn't recommend their innovative solutions enough!`
   },
   {
     author: 'Tsundown',
-    job: 'Game Developer',
-    avatar:
-      'https://s3-alpha-sig.figma.com/img/172d/7301/9dfc3d79170542f35c1d95a67b3ec5e1?Expires=1725235200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SaE5oNwBfW5YTEg6C0DQrwx9Cgp-1~fQArykAY65p6mbDUzGdHhFwrY1g0edgmuN1VtzgWv6WyVEw7G6uwXODlor5n27oF0RHgo6E6BlEG2hh5nKGSemn3Gnn32TyH72XHxIfbrmQdsXaVcmohb34g83rtFU9~JG03ZTtsA7MP0s8CgA9pirh2TtnGdFW8Gk3gEVt6XEWwErKS2TlKfvSRcMSZ2EGdW7F59JRI~ddBfcIoCd62d18ZBI2fFd-ktvNYnnhwfuRih1ez84JYjk-WWfIcvb4L1NBHSl0Xnv9SN3TepItyTIhm-z05HRgOyYQZ9JO5h3WZubXTOfJJsRYA__',
+    job: 'Game Developer & Publisher',
+    link: 'https://tsundown.itch.io/',
+    avatar: 'Tsundown.webp',
     content: `Rivo made sure to help out my channel and game every step of the way! They not only made things easy and simple, but made sure I knew what the best things moving forward were. I cannot say enough good things about all thay they have done for me, and how they made growth simpler and more effective.`
   }
 ]
@@ -57,6 +59,7 @@ const testimonials: Testimonial[] = [
 interface TestimonialCardProps {
   author: string
   job: string
+  link: string
   avatar: string
   content: string
   className?: string
@@ -65,6 +68,7 @@ interface TestimonialCardProps {
 const TestimonialCard = ({
   author,
   job,
+  link,
   avatar,
   content,
   className
@@ -94,7 +98,7 @@ const TestimonialCard = ({
         </AvatarFallback>
       </Avatar>
       <div className="flex flex-col">
-        <span className="font-bold">{author}</span>
+        <Link className="font-bold"href={link} target='_blank'>{author}</Link>
         <span className="text-sm text-foreground/50">{job}</span>
       </div>
     </div>

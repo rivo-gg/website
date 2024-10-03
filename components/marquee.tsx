@@ -1,4 +1,5 @@
 import { marqueeItems } from '@/data/marquee'
+import Link from 'next/link'
 
 export function MarqueeWrapper() {
   return (
@@ -11,9 +12,13 @@ export function MarqueeWrapper() {
       </div>
       <div className="relative flex gap-16 overflow-x-hidden sm:gap-24">
         {marqueeItems.map((item, index) => (
-          <div key={index}>
+          <Link
+            href={item.href}
+            key={index}
+            target="_blank"
+          >
             <item.svg className="h-28 w-28" />
-          </div>
+          </Link>
         ))}
       </div>
     </div>

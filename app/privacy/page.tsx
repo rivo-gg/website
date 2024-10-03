@@ -134,11 +134,11 @@ export default function Page() {
 				<div className="flex flex-col gap-4">
 					<h4>Information We Collect and How We Collect It</h4>
 					<span>
-						On our website, we only collect personally identifiable information	from individuals that they provide to us voluntarily. 
-						This means we do not require you to register or
-						provide information to us in order to view our website. Rivo only gathers personally identifiable data
-						through our website, such as an email address, when voluntarily submitted by a visitor. Once collected, we
-						may combine this information with other information collected from external sources.
+						On our website, we only collect personally identifiable information from individuals that they provide to us
+						voluntarily. This means we do not require you to register or provide information to us in order to view our
+						website. Rivo only gathers personally identifiable data through our website, such as an email address, when
+						voluntarily submitted by a visitor. Once collected, we may combine this information with other information
+						collected from external sources.
 					</span>
 					<h5>Third-Party Websites</h5>
 					<span>

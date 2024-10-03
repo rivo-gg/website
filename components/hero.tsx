@@ -16,7 +16,7 @@ export function Hero() {
   return (
     <section
       id="hero"
-      className="relative mt-52 flex min-h-[60vh] w-full flex-1 justify-center px-6 md:min-h-[80vh]"
+      className="relative mt-52 flex min-h-[60vh] w-full flex-1 justify-center overflow-x-hidden px-6 md:min-h-[80vh]"
     >
       <div className="z-10 flex w-auto flex-col gap-12 md:mt-16">
         <div

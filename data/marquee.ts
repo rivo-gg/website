@@ -1,4 +1,4 @@
-import { Polydor, Quataun, UniversalMusicGroup } from "@/icons/brands";
+import { KochBautechnik, Polydor, Quataun, UniversalMusicGroup } from "@/icons/brands";
 
 interface MarqueeItem {
 	label: string;
@@ -14,4 +14,5 @@ export const marqueeItems: MarqueeItem[] = [
 		svg: UniversalMusicGroup,
 	},
 	{ label: "Polydor", href: "https://www.polydor.co.uk/", svg: Polydor },
+	{ label: "Koch-Bautechnik", href: "https://koch-bautechnik.de/", svg: KochBautechnik },
 ];

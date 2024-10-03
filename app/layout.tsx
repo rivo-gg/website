@@ -1,7 +1,7 @@
 import { Footer } from "@/components/footer";
 import { Navbar } from "@/components/navbar";
 import { cn } from "@/lib/utils";
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { ThemeProvider } from "next-themes";
 import { Barlow } from "next/font/google";
 import "./globals.css";
@@ -12,9 +12,28 @@ const barlow = Barlow({
 });
 
 export const metadata: Metadata = {
+	metadataBase: new URL("https://rivo.gg"),
+	alternates: {
+		canonical: "/",
+	},
 	title: "Rivo - The Digital Product Agency you can trust",
 	description:
 		"Rivo is a digital agency that you can trust. We work with community managers, creators, game developers, and entrepreneurs to help them achieve their goals faster.",
+	twitter: {
+		title: "Rivo - The Digital Product Agency you can trust",
+		description:
+			"Rivo is a digital agency that you can trust. We work with community managers, creators, game developers, and entrepreneurs to help them achieve their goals faster.",
+	},
+	openGraph: {
+		title: "Rivo - The Digital Product Agency you can trust",
+		description:
+			"Rivo is a digital agency that you can trust. We work with community managers, creators, game developers, and entrepreneurs to help them achieve their goals faster.",
+	},
+};
+
+export const viewport: Viewport = {
+	maximumScale: 1,
+	themeColor: "#4876F2",
 };
 
 export default function RootLayout({

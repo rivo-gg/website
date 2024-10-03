@@ -85,7 +85,7 @@ const TestimonialCard = ({ author, job, link, avatar, content, className }: Test
 			</span>
 			<div className="flex items-center gap-2">
 				<Avatar className="h-12 w-12 select-none">
-					<AvatarImage src={avatar} />
+					<AvatarImage alt={`${author}s Logo`} src={avatar} />
 					<AvatarFallback>
 						{author.split(" ").map((name, index) => index < 2 && <span key={name}>{name[0]}</span>)}
 					</AvatarFallback>

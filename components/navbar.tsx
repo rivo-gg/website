@@ -67,6 +67,7 @@ export function Navbar() {
 				<MobileMenu open={open} setOpen={setOpen} className="flex md:hidden">
 					{navItems.map((item) => (
 						<Link
+							aria-label="Mobile Nav Menu"
 							key={item.label}
 							href={item.href}
 							className={cn(

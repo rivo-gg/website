@@ -19,7 +19,7 @@ export function MobileMenu({
 	return (
 		<div className={cn(className)}>
 			<Sheet open={open} onOpenChange={setOpen}>
-				<SheetTrigger>
+				<SheetTrigger aria-label="Mobile Hamburger Menu">
 					<Menu className="h-12 w-12 p-2" />
 				</SheetTrigger>
 				<SheetContent side="right" className={cn("flex flex-col items-center pt-16", className)}>

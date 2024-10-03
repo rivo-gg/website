@@ -57,6 +57,7 @@ export function Navbar() {
 				<div className="hidden h-auto min-w-fit items-center justify-end gap-2 md:flex md:basis-1/5">
 					<button
 						type="button"
+						aria-label="Theme Switcher Button"
 						className="hover:bg-hover-light flex h-12 w-12 items-center justify-center rounded-xl text-foreground/70 transition hover:text-primary"
 						onClick={() => setTheme(theme === "light" ? "dark" : "light")}
 					>
@@ -67,7 +68,6 @@ export function Navbar() {
 				<MobileMenu open={open} setOpen={setOpen} className="flex md:hidden">
 					{navItems.map((item) => (
 						<Link
-							aria-label="Mobile Nav Menu"
 							key={item.label}
 							href={item.href}
 							className={cn(
@@ -82,6 +82,7 @@ export function Navbar() {
 					))}
 					<button
 						type="button"
+						aria-label="Theme Switcher Button"
 						className="hover:bg-hover-light flex w-fit items-center justify-center rounded-xl text-foreground/70 transition hover:text-primary"
 						onClick={() => setTheme(theme === "light" ? "dark" : "light")}
 					>

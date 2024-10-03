@@ -24,6 +24,7 @@ export default function RootLayout({
 }>) {
 	return (
 		<html lang="en">
+			<script defer data-domain="rivo.gg" src="https://stats.wouldyoubot.gg/js/script.js" />
 			<body className={cn("flex min-h-screen w-screen flex-col", barlow.className)}>
 				<ThemeProvider attribute="class" defaultTheme="dark" enableSystem disableTransitionOnChange>
 					<Navbar />

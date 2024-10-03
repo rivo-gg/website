@@ -1,4 +1,4 @@
-import { LinkedinIcon, LocationIcon, MailIcon, Rivo } from '@/icons'
+import { LinkedinIcon, GithubIcon, LocationIcon, MailIcon, Rivo } from '@/icons'
 import { cn } from '@/lib/utils'
 import Link from 'next/link'
 import React from 'react'
@@ -19,8 +19,11 @@ export function Footer() {
             © 2023 - Present Rivo. All rights reserved.
           </span>
           <div className="ml-2 flex gap-1">
-            <Link href="https://www.linkedin.com/company/rivo-gg/">
+            <Link href="https://www.linkedin.com/company/rivo-gg/" target='_blank'>
               <LinkedinIcon className="h-8 w-8 text-primary transition hover:-translate-y-0.5" />
+            </Link>
+            <Link href="https://github.com/rivo-gg" target='_blank'>
+              <GithubIcon className="h-8 w-8 text-primary transition hover:-translate-y-0.5" />
             </Link>
           </div>
         </div>

@@ -23,6 +23,7 @@ export default function Home() {
       logo="https://rivo.gg/Logo.png"
       legalName="Dominik Koch"
       name="Rivo"
+			useAppDir={true}
       address={{
         streetAddress: 'Parkstraße 5',
         addressLocality: 'Riedlingen',

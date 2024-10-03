@@ -21,6 +21,7 @@ export const metadata: Metadata = {
 		"Rivo is a digital agency that you can trust. We work with community managers, creators, game developers, and entrepreneurs to help them achieve their goals faster.",
 	twitter: {
 		title: "Rivo - The Digital Product Agency you can trust",
+		card: "summary_large_image",
 		description:
 			"Rivo is a digital agency that you can trust. We work with community managers, creators, game developers, and entrepreneurs to help them achieve their goals faster.",
 	},

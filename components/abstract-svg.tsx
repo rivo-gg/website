@@ -13514,11 +13514,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="317.894"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13529,11 +13529,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="317.894"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13544,11 +13544,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="317.872"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13559,11 +13559,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="317.84"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13574,11 +13574,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="317.792"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13589,11 +13589,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="317.738"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13604,11 +13604,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="317.661"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13619,11 +13619,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="317.568"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13634,11 +13634,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="317.454"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13649,11 +13649,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="317.326"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13664,11 +13664,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="317.16"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13679,11 +13679,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="316.969"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13694,11 +13694,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="316.758"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13709,11 +13709,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="316.49"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13724,11 +13724,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="316.187"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13739,11 +13739,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="315.92"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13754,11 +13754,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="315.683"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13769,11 +13769,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="315.406"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13784,11 +13784,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="315.147"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13799,11 +13799,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="314.94"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13814,11 +13814,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="314.688"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13829,11 +13829,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="314.471"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13844,11 +13844,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="314.207"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13859,11 +13859,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="313.945"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13874,11 +13874,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="313.677"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13889,11 +13889,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="313.336"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13904,11 +13904,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="313.042"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13919,11 +13919,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.851"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13934,11 +13934,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.927"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13949,11 +13949,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.959"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13964,11 +13964,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.959"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13979,11 +13979,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.963"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -13994,11 +13994,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="313.055"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14009,11 +14009,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="313.055"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14024,11 +14024,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.905"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14039,11 +14039,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.883"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14054,11 +14054,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.883"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14069,11 +14069,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.682"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14084,11 +14084,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.494"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14099,11 +14099,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.494"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14114,11 +14114,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.455"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14129,11 +14129,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.446"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14144,11 +14144,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.334"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14159,11 +14159,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.066"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14174,11 +14174,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.025"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14189,11 +14189,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="311.384"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14204,11 +14204,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="311.473"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14219,11 +14219,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.538"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14234,11 +14234,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="313.68"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14249,11 +14249,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="314.123"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14264,11 +14264,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="314.146"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14279,11 +14279,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="314.191"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14294,11 +14294,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="314.21"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14309,11 +14309,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="313.849"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14324,11 +14324,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="313.342"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14339,11 +14339,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.688"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14354,11 +14354,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.344"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14369,11 +14369,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="311.884"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14384,11 +14384,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="311.754"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14399,11 +14399,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.05"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14414,11 +14414,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.057"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14429,11 +14429,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="311.833"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14444,11 +14444,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.458"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14459,11 +14459,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.599"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14474,11 +14474,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.602"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14489,11 +14489,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.545"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14504,11 +14504,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.535"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14519,11 +14519,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.545"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14534,11 +14534,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.5"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14549,11 +14549,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.5"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14564,11 +14564,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.37"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14579,11 +14579,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.379"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14594,11 +14594,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.513"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14609,11 +14609,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.522"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14624,11 +14624,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.494"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14639,11 +14639,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="312.459"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14654,11 +14654,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="314.095"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14669,11 +14669,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="314.519"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14684,11 +14684,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="314.944"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14699,11 +14699,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="315.256"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14714,11 +14714,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="315.559"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14729,11 +14729,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="315.77"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14744,11 +14744,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="316.114"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14759,11 +14759,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="316.507"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14774,11 +14774,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="316.873"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14789,11 +14789,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="317.183"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14804,11 +14804,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="317.438"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14819,11 +14819,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="317.664"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14834,11 +14834,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="317.916"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14849,11 +14849,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="318.172"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14864,11 +14864,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="318.433"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14879,11 +14879,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="318.621"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14894,11 +14894,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="318.819"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14909,11 +14909,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="319.017"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14924,11 +14924,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="319.253"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14939,11 +14939,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="319.473"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14954,11 +14954,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="319.652"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14969,11 +14969,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="319.798"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14984,11 +14984,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="319.923"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -14999,11 +14999,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="320.025"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15014,11 +15014,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="320.114"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15029,11 +15029,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="320.181"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15044,11 +15044,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="320.239"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15059,11 +15059,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="320.274"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15074,11 +15074,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="320.29"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15089,11 +15089,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="326.038"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15104,11 +15104,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="326.032"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15119,11 +15119,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="325.99"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15134,11 +15134,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="325.92"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15149,11 +15149,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="325.808"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15164,11 +15164,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="325.655"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15179,11 +15179,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="325.445"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15194,11 +15194,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="325.205"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15209,11 +15209,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="324.928"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15224,11 +15224,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="324.644"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15239,11 +15239,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="324.363"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15254,11 +15254,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="324.066"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15269,11 +15269,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="323.779"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15284,11 +15284,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="323.384"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15299,11 +15299,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="322.928"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15314,11 +15314,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="322.51"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15329,11 +15329,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="321.843"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15344,11 +15344,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="321.1"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15359,11 +15359,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="320.344"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15374,11 +15374,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="319.862"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15389,11 +15389,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="319.342"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15404,11 +15404,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="318.956"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15419,11 +15419,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="318.44"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15434,11 +15434,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="317.849"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15449,11 +15449,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="298.426"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15464,11 +15464,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="300.021"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15479,11 +15479,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="300.564"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15494,11 +15494,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="300.56"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15509,11 +15509,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="314.025"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15524,11 +15524,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="317.435"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15539,11 +15539,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="318.797"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15554,11 +15554,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="320.803"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15569,11 +15569,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="321.636"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15584,11 +15584,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="322.318"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15599,11 +15599,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="323.023"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15614,11 +15614,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="323.623"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15629,11 +15629,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="324.086"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15644,11 +15644,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="324.453"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15659,11 +15659,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="324.708"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15674,11 +15674,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="325.03"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15689,11 +15689,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="325.362"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15704,11 +15704,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="325.617"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15719,11 +15719,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="325.882"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15734,11 +15734,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="326.204"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15749,11 +15749,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="326.532"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15764,11 +15764,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="326.893"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15779,11 +15779,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="327.186"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15794,11 +15794,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="327.489"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15809,11 +15809,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="327.786"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15824,11 +15824,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="328.07"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15839,11 +15839,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="328.303"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15854,11 +15854,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="328.485"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15869,11 +15869,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="328.603"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15884,11 +15884,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="328.673"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15899,11 +15899,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="328.701"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15914,11 +15914,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="335.107"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15929,11 +15929,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="335.091"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15944,11 +15944,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="335.037"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15959,11 +15959,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="334.922"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15974,11 +15974,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="334.746"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -15989,11 +15989,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="334.523"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16004,11 +16004,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="334.284"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16019,11 +16019,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="333.965"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16034,11 +16034,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="333.608"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16049,11 +16049,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="333.167"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16064,11 +16064,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="332.686"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16079,11 +16079,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="332.159"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16094,11 +16094,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="331.697"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16109,11 +16109,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="331.189"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16124,11 +16124,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="330.529"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16139,11 +16139,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="329.847"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16154,11 +16154,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="329.534"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16169,11 +16169,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="328.918"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16184,11 +16184,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="328.456"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16199,11 +16199,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="327.971"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16214,11 +16214,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="327.786"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16229,11 +16229,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="327.429"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16244,11 +16244,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="327.084"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16259,11 +16259,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="326.956"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16274,11 +16274,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="326.593"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16289,11 +16289,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="326.204"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16304,11 +16304,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="326.201"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16319,11 +16319,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="326"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16334,11 +16334,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="325.859"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16349,11 +16349,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="325.917"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16364,11 +16364,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="326.302"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16379,11 +16379,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="326.319"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16394,11 +16394,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="326.36"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16409,11 +16409,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="326.277"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16424,11 +16424,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="326.293"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16439,11 +16439,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="326.357"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16454,11 +16454,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="326.376"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16469,11 +16469,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="326.242"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16484,11 +16484,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="325.818"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16499,11 +16499,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="325.569"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16514,11 +16514,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="324.976"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16529,11 +16529,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="324.041"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16544,11 +16544,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="322.864"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16559,11 +16559,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="321.32"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16574,11 +16574,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="319.543"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16589,11 +16589,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="316.797"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16604,11 +16604,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="278.693"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16619,11 +16619,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="279.641"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16634,11 +16634,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="277.648"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16649,11 +16649,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="281.411"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16664,11 +16664,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="283.38"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16679,11 +16679,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="283.345"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16694,11 +16694,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="282.34"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16709,11 +16709,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="331.247"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16724,11 +16724,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="332.175"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16739,11 +16739,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="333.033"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16754,11 +16754,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="333.831"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16769,11 +16769,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="334.571"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16784,11 +16784,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="335.267"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16799,11 +16799,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="335.908"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16814,11 +16814,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="336.446"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16829,11 +16829,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="336.874"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16844,11 +16844,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="337.279"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16859,11 +16859,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="337.569"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16874,11 +16874,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="337.799"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16889,11 +16889,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="337.955"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16904,11 +16904,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="338.041"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16919,11 +16919,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="338.077"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16934,11 +16934,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="345.251"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16949,11 +16949,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="345.235"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16964,11 +16964,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="345.132"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16979,11 +16979,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="344.957"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -16994,11 +16994,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="344.715"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17009,11 +17009,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="344.345"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17024,11 +17024,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="343.837"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17039,11 +17039,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="343.206"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17054,11 +17054,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="342.45"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17069,11 +17069,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="341.502"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17084,11 +17084,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="340.268"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17099,11 +17099,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="326.201"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17114,11 +17114,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="325.859"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17129,11 +17129,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="325.913"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17144,11 +17144,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="326.318"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17159,11 +17159,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="326.274"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17174,11 +17174,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="240.048"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17189,11 +17189,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="239.917"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17204,11 +17204,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="240.759"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17219,11 +17219,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="243.608"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17234,11 +17234,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="243.573"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17249,11 +17249,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="241.627"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17264,11 +17264,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="236.466"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17279,11 +17279,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="233.018"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17294,11 +17294,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="230.565"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17309,11 +17309,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="225.276"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17324,11 +17324,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="320.184"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17339,11 +17339,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="343.308"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17354,11 +17354,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="344.482"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17369,11 +17369,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="345.522"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17384,11 +17384,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="346.29"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17399,11 +17399,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="346.941"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17414,11 +17414,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="347.442"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17429,11 +17429,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="347.838"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17444,11 +17444,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="348.128"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17459,11 +17459,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="348.351"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17474,11 +17474,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="348.488"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17489,11 +17489,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="348.565"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17504,11 +17504,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="348.594"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17519,11 +17519,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="356.686"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17534,11 +17534,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="356.642"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17549,11 +17549,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="356.485"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17564,11 +17564,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="356.192"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17579,11 +17579,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="355.768"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17594,11 +17594,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="355.244"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17609,11 +17609,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="354.574"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17624,11 +17624,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="353.742"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17639,11 +17639,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="352.843"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17654,11 +17654,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="326.497"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17669,11 +17669,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="222.405"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17684,11 +17684,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="225.812"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17699,11 +17699,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="226.329"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17714,11 +17714,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="226.807"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17729,11 +17729,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="226.797"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17744,11 +17744,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="225.04"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17759,11 +17759,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="144.584"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17774,11 +17774,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="148.933"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17789,11 +17789,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="154.282"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17804,11 +17804,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="162.524"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17819,11 +17819,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="168.895"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17834,11 +17834,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="172.059"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17849,11 +17849,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="172.254"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17864,11 +17864,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="172.288"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17879,11 +17879,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="171.705"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17894,11 +17894,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="169.536"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17909,11 +17909,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="161.718"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17924,11 +17924,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="154.413"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17939,11 +17939,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="145.353"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17954,11 +17954,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="136.313"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17969,11 +17969,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="124.536"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17984,11 +17984,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="49.724"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -17999,11 +17999,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="64.161"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18014,11 +18014,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="54.212"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18029,11 +18029,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="64.085"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18044,11 +18044,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="74.86"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18059,11 +18059,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="179.061"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18074,11 +18074,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="171.689"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18089,11 +18089,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="183.766"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18104,11 +18104,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="188.331"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18119,11 +18119,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="188.42"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18134,11 +18134,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="191.702"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18149,11 +18149,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="199.348"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18164,11 +18164,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="191.546"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18179,11 +18179,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="211.856"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18194,11 +18194,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="203.422"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18209,11 +18209,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="211.977"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18224,11 +18224,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="215.524"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18239,11 +18239,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="219.454"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18254,11 +18254,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="231.767"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18269,11 +18269,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="221.202"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18284,11 +18284,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="233.483"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18299,11 +18299,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="238.594"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18314,11 +18314,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="238.743"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18329,11 +18329,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="238.843"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18344,11 +18344,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="236.9"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18359,11 +18359,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="232.041"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18374,11 +18374,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="227.101"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18389,11 +18389,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="225.773"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18404,11 +18404,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="227.142"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18419,11 +18419,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="227.244"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18434,11 +18434,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="226.555"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18449,11 +18449,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="226.303"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18464,11 +18464,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="224.067"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18479,11 +18479,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="224.143"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18494,11 +18494,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="222.07"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18509,11 +18509,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="221.171"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18524,11 +18524,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="223.362"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18539,11 +18539,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="223.493"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18554,11 +18554,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="228.491"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18569,11 +18569,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="234.507"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18584,11 +18584,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="238.986"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18599,11 +18599,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="243.666"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18614,11 +18614,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="248.052"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18629,11 +18629,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="247.707"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18644,11 +18644,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="247.576"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18659,11 +18659,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="247.541"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18674,11 +18674,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="245.356"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18689,11 +18689,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="241.666"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18704,11 +18704,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="237.94"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18719,11 +18719,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="231.41"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18734,11 +18734,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="226.408"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18749,11 +18749,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="225.062"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18764,11 +18764,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="222.415"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18779,11 +18779,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="222.45"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18794,11 +18794,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="218.896"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18809,11 +18809,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="217.451"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18824,11 +18824,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="213.199"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18839,11 +18839,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="215.228"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18854,11 +18854,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="220.232"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18869,11 +18869,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="228.223"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18884,11 +18884,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="233.869"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18899,11 +18899,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="238.134"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18914,11 +18914,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="242.054"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18929,11 +18929,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="243.86"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18944,11 +18944,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="245.034"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18959,11 +18959,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="246.144"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18974,11 +18974,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="246.061"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -18989,11 +18989,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="244.747"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19004,11 +19004,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="239.458"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19019,11 +19019,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="235.675"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19034,11 +19034,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="245.155"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19049,11 +19049,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="246.875"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19064,11 +19064,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="269.283"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19079,11 +19079,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="291.351"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19094,11 +19094,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="319.799"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19109,11 +19109,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="322.15"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19124,11 +19124,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="325.85"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19139,11 +19139,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="328.277"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19154,11 +19154,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="331.882"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19169,11 +19169,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="334.673"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19184,11 +19184,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="337.518"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19199,11 +19199,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="339.582"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19214,11 +19214,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="340.195"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19229,11 +19229,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="341.161"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19244,11 +19244,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="342.858"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19259,11 +19259,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="343.965"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19274,11 +19274,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="344.724"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19289,11 +19289,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="345.729"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19304,11 +19304,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="346.747"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19319,11 +19319,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="348.147"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19334,11 +19334,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="349.311"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19349,11 +19349,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="350.271"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19364,11 +19364,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="351.366"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19379,11 +19379,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="352.013"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19394,11 +19394,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="352.594"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19409,11 +19409,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="353.286"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19424,11 +19424,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="354.565"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19439,11 +19439,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="355.404"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19454,11 +19454,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="356.042"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19469,11 +19469,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="356.616"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19484,11 +19484,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="357.222"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19499,11 +19499,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="357.787"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19514,11 +19514,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="358.317"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19529,11 +19529,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="358.83"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19544,11 +19544,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="359.296"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19559,11 +19559,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="359.736"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19574,11 +19574,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="360.074"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19589,11 +19589,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="360.301"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19604,11 +19604,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="360.422"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19619,11 +19619,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="360.476"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19634,11 +19634,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="369.679"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19649,11 +19649,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="369.644"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19664,11 +19664,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="369.522"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19679,11 +19679,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="369.305"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19694,11 +19694,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="368.967"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19709,11 +19709,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="368.508"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19724,11 +19724,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="367.927"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19739,11 +19739,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="367.175"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19754,11 +19754,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="366.243"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19769,11 +19769,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="365.35"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19784,11 +19784,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="364.393"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19799,11 +19799,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="355.283"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19814,11 +19814,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="349.924"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19829,11 +19829,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="348.061"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19844,11 +19844,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="346.163"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19859,11 +19859,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="342.137"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19874,11 +19874,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="273.475"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19889,11 +19889,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="270.687"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19904,11 +19904,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="263.669"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19919,11 +19919,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="260.99"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19934,11 +19934,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="255.098"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19949,11 +19949,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="222.389"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19964,11 +19964,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="225.774"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19979,11 +19979,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="226.325"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -19994,11 +19994,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="227.177"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20009,11 +20009,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="232.124"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20024,11 +20024,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="232.093"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20039,11 +20039,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="238.255"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20054,11 +20054,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="239.914"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20069,11 +20069,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="240.453"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20084,11 +20084,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="246.205"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20099,11 +20099,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="247.318"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20114,11 +20114,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="247.289"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20129,11 +20129,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="247.468"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20144,11 +20144,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="244.256"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20159,11 +20159,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="244.128"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20174,11 +20174,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="244.237"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20189,11 +20189,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="241.675"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20204,11 +20204,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="241.691"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20219,11 +20219,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="241.35"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20234,11 +20234,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="237.311"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20249,11 +20249,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="235.499"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20264,11 +20264,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="230.367"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20279,11 +20279,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="220.529"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20294,11 +20294,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="209.684"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20309,11 +20309,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="194.072"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20324,11 +20324,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="161.944"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20339,11 +20339,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="162.429"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20354,11 +20354,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="168.939"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20369,11 +20369,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="52.221"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20384,11 +20384,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="56.426"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20399,11 +20399,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="61.096"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20414,11 +20414,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="68.975"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20429,11 +20429,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="68.761"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20444,11 +20444,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="66.876"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20459,11 +20459,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="66.965"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20474,11 +20474,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="65.019"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20489,11 +20489,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="58.196"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20504,11 +20504,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="49.615"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20519,11 +20519,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="49.689"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20534,11 +20534,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="54.362"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20549,11 +20549,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="63.989"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20564,11 +20564,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="67.16"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20579,11 +20579,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="68.86"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20594,11 +20594,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="74.378"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20609,11 +20609,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="74.356"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20624,11 +20624,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="71.29"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20639,11 +20639,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="78.93"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20654,11 +20654,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="87.575"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20669,11 +20669,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="87.253"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20684,11 +20684,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="85.613"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20699,11 +20699,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="79.961"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20714,11 +20714,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="60.678"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20729,11 +20729,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="56.722"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20744,11 +20744,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="163.331"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20759,11 +20759,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="153.52"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20774,11 +20774,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="170.18"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20789,11 +20789,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="193.664"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20804,11 +20804,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="179.179"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20819,11 +20819,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="143.851"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20834,11 +20834,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="131.972"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20849,11 +20849,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="206.689"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20864,11 +20864,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="197.093"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20879,11 +20879,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="212.66"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20894,11 +20894,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="212.446"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20909,11 +20909,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="232.109"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20924,11 +20924,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="221.63"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20939,11 +20939,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="210.299"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20954,11 +20954,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="238.07"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20969,11 +20969,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="237.688"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20984,11 +20984,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="236.976"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -20999,11 +20999,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="235.905"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21014,11 +21014,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="235.837"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21029,11 +21029,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="234.508"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21044,11 +21044,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="232.294"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21059,11 +21059,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="222.348"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21074,11 +21074,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="214.931"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21089,11 +21089,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="213.161"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21104,11 +21104,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="284.177"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21119,11 +21119,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="292.921"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21134,11 +21134,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="299.948"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21149,11 +21149,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="304.742"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21164,11 +21164,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="308.857"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21179,11 +21179,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="310.784"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21194,11 +21194,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="314.462"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21209,11 +21209,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="315.049"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21224,11 +21224,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="323.598"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21239,11 +21239,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="328.603"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21254,11 +21254,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="334.721"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21269,11 +21269,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="338.545"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21284,11 +21284,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="339.911"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21299,11 +21299,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="339.821"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21314,11 +21314,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="344.511"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21329,11 +21329,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="346.396"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21344,11 +21344,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="347.866"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21359,11 +21359,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="348.326"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21374,11 +21374,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="350.026"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21389,11 +21389,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="349.911"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21404,11 +21404,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="349.228"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21419,11 +21419,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="348.871"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21434,11 +21434,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="351.043"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21449,11 +21449,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="351.072"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21464,11 +21464,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="351.557"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21479,11 +21479,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="351.477"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21494,11 +21494,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="351.012"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21509,11 +21509,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="349.299"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21524,11 +21524,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="348.776"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21539,11 +21539,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="349.213"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21554,11 +21554,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="349.238"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21569,11 +21569,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="350.536"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21584,11 +21584,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="360.951"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21599,11 +21599,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="362.795"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21614,11 +21614,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="363.803"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21629,11 +21629,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="364.285"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21644,11 +21644,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="366.467"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21659,11 +21659,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="368.269"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21674,11 +21674,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="369.717"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21689,11 +21689,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="370.508"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21704,11 +21704,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="370.747"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21719,11 +21719,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="371.162"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21734,11 +21734,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="371.398"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21749,11 +21749,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="371.829"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21764,11 +21764,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="372.272"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21779,11 +21779,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="372.581"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21794,11 +21794,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="372.926"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21809,11 +21809,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="373.149"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21824,11 +21824,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="373.341"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21839,11 +21839,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="373.529"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21854,11 +21854,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="373.637"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21869,11 +21869,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="373.794"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21884,11 +21884,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="373.861"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21899,11 +21899,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="373.937"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21914,11 +21914,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="373.976"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21929,11 +21929,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="373.998"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21944,11 +21944,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="384.553"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21959,11 +21959,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="384.531"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21974,11 +21974,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="384.419"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -21989,11 +21989,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="384.241"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22004,11 +22004,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="383.982"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22019,11 +22019,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="383.666"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22034,11 +22034,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="383.296"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22049,11 +22049,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="382.865"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22064,11 +22064,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="382.381"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22079,11 +22079,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="381.928"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22094,11 +22094,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="381.284"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22109,11 +22109,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="380.818"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22124,11 +22124,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="380.228"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22139,11 +22139,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="379.599"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22154,11 +22154,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="379.038"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22169,11 +22169,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="378.658"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22184,11 +22184,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="378.279"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22199,11 +22199,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="377.759"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22214,11 +22214,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="377.21"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22229,11 +22229,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="376.735"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22244,11 +22244,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="376.001"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22259,11 +22259,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="375.558"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22274,11 +22274,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="374.859"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22289,11 +22289,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="374.224"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22304,11 +22304,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="374.138"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22319,11 +22319,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="373.471"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22334,11 +22334,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="373.213"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22349,11 +22349,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="372.652"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22364,11 +22364,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="372.026"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22379,11 +22379,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="371.054"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22394,11 +22394,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="369.943"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22409,11 +22409,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="368.524"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22424,11 +22424,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="367.975"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22439,11 +22439,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="367.682"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22454,11 +22454,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="366.508"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22469,11 +22469,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="364.881"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22484,11 +22484,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="363.018"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22499,11 +22499,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="361.375"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22514,11 +22514,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="358.798"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22529,11 +22529,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="353.624"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22544,11 +22544,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="349.222"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22559,11 +22559,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="346.153"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22574,11 +22574,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="343.034"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22589,11 +22589,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="338.558"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22604,11 +22604,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="333.084"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22619,11 +22619,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="327.658"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22634,11 +22634,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="323.097"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22649,11 +22649,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="291.96"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22664,11 +22664,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="293.507"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22679,11 +22679,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="296.117"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22694,11 +22694,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="297.345"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22709,11 +22709,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="297.82"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22724,11 +22724,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="299.712"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22739,11 +22739,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="300.378"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22754,11 +22754,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="303.549"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22769,11 +22769,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="303.699"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22784,11 +22784,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="301.406"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22799,11 +22799,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="301.052"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22814,11 +22814,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="303.351"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22829,11 +22829,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="304.602"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22844,11 +22844,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="304.627"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22859,11 +22859,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="307.033"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22874,11 +22874,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="307.001"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22889,11 +22889,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="306.321"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22904,11 +22904,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="303.128"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22919,11 +22919,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="302.165"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22934,11 +22934,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="297.766"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22949,11 +22949,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="291.734"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22964,11 +22964,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="288.279"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22979,11 +22979,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="282.075"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -22994,11 +22994,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="277.14"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23009,11 +23009,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="275.593"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23024,11 +23024,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="257.759"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23039,11 +23039,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="255.258"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23054,11 +23054,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="177.351"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23069,11 +23069,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="177.306"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23084,11 +23084,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="176.135"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23099,11 +23099,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="166.703"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23114,11 +23114,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="164.429"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23129,11 +23129,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="164.002"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23144,11 +23144,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="163.867"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23159,11 +23159,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="159.874"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23174,11 +23174,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="149.606"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23189,11 +23189,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="140.543"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23204,11 +23204,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="127.12"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23219,11 +23219,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="115.015"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23234,11 +23234,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="109.802"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23249,11 +23249,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="105.627"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23264,11 +23264,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="104.067"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23279,11 +23279,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="107.19"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23294,11 +23294,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="108.408"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23309,11 +23309,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="115.681"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23324,11 +23324,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="121.216"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23339,11 +23339,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="120.986"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23354,11 +23354,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="124.591"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23369,11 +23369,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="124.393"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23384,11 +23384,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="124.255"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23399,11 +23399,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="125.576"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23414,11 +23414,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="125.636"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23429,11 +23429,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="127.972"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23444,11 +23444,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="127.847"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23459,11 +23459,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="126.641"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23474,11 +23474,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="123.384"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23489,11 +23489,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="115.037"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23504,11 +23504,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="114.912"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23519,11 +23519,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="122.759"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23534,11 +23534,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="111.046"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23549,11 +23549,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="103.984"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23564,11 +23564,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="127.952"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23579,11 +23579,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="128.032"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23594,11 +23594,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="123.436"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23609,11 +23609,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="120.938"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23624,11 +23624,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="114.102"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23639,11 +23639,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="108.497"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23654,11 +23654,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="98.615"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23669,11 +23669,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="97.26"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23684,11 +23684,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="168.994"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23699,11 +23699,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="158.32"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23714,11 +23714,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="176.886"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23729,11 +23729,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="148.419"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23744,11 +23744,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="95.275"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23759,11 +23759,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="137.066"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23774,11 +23774,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="103.773"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23789,11 +23789,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="124.922"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23804,11 +23804,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="112.548"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23819,11 +23819,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="180.758"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23834,11 +23834,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="185.348"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23849,11 +23849,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="190.602"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23864,11 +23864,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="197.702"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23879,11 +23879,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="205.269"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23894,11 +23894,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="213.007"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23909,11 +23909,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="220.772"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23924,11 +23924,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="221.882"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23939,11 +23939,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="227.499"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23954,11 +23954,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="235.984"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23969,11 +23969,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="244.68"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23984,11 +23984,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="250.83"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -23999,11 +23999,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="268.199"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24014,11 +24014,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="255.892"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24029,11 +24029,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="273.536"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24044,11 +24044,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="273.395"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24059,11 +24059,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="274.837"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24074,11 +24074,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="278.378"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24089,11 +24089,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="278.933"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24104,11 +24104,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="281.791"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24119,11 +24119,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="286.538"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24134,11 +24134,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="286.311"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24149,11 +24149,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="285.354"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24164,11 +24164,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="285.479"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24179,11 +24179,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="286.317"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24194,11 +24194,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="287.996"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24209,11 +24209,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="287.954"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24224,11 +24224,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="286.946"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24239,11 +24239,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="284.605"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24254,11 +24254,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="284.088"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24269,11 +24269,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="283.042"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24284,11 +24284,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="279.74"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24299,11 +24299,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="273.593"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24314,11 +24314,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="264.116"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24329,11 +24329,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="257.184"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24344,11 +24344,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="254.246"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24359,11 +24359,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="247.177"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24374,11 +24374,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="248.763"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24389,11 +24389,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="250.817"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24404,11 +24404,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="250.801"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24419,11 +24419,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="246.9"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24434,11 +24434,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="247.143"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24449,11 +24449,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="250.201"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24464,11 +24464,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="250.125"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24479,11 +24479,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="253.899"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24494,11 +24494,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="254.129"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24509,11 +24509,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="250.83"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24524,11 +24524,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="245.363"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24539,11 +24539,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="241.707"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24554,11 +24554,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="238.67"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24569,11 +24569,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="229.758"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24584,11 +24584,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="227.528"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24599,11 +24599,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="227.455"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24614,11 +24614,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="225.263"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24629,11 +24629,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="226.29"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24644,11 +24644,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="226.268"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24659,11 +24659,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="224.896"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24674,11 +24674,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="218.772"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24689,11 +24689,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="218.909"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24704,11 +24704,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="213.719"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24719,11 +24719,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="209.84"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24734,11 +24734,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="209.977"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24749,11 +24749,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="205.259"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24764,11 +24764,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="201.116"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24779,11 +24779,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="200.803"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24794,11 +24794,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="233.369"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24809,11 +24809,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="242.02"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24824,11 +24824,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="250.699"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24839,11 +24839,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="200.794"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24854,11 +24854,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="223.917"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24869,11 +24869,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="208.481"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24884,11 +24884,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="257.666"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24899,11 +24899,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="264.878"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24914,11 +24914,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="273.233"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24929,11 +24929,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="281.46"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24944,11 +24944,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="290.787"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24959,11 +24959,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="299.632"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24974,11 +24974,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="309.572"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -24989,11 +24989,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="317.964"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25004,11 +25004,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="323.655"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25019,11 +25019,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="327.005"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25034,11 +25034,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="328.647"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25049,11 +25049,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="328.618"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25064,11 +25064,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="329.604"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25079,11 +25079,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="329.709"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25094,11 +25094,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="325.834"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25109,11 +25109,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="321.304"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25124,11 +25124,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="317.961"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25139,11 +25139,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="317.968"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25154,11 +25154,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="317.884"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25169,11 +25169,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="316.054"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25184,11 +25184,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="315.987"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25199,11 +25199,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="314.66"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25214,11 +25214,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="362.476"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25229,11 +25229,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="365.069"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25244,11 +25244,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="368.011"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25259,11 +25259,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="370.25"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25274,11 +25274,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="372.148"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25289,11 +25289,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="374.007"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25304,11 +25304,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="375.149"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25319,11 +25319,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="375.159"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25334,11 +25334,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="374.642"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25349,11 +25349,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="374.288"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25364,11 +25364,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="374.275"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25379,11 +25379,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="373.733"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25394,11 +25394,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="374.221"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25409,11 +25409,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="375.465"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25424,11 +25424,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="375.701"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25439,11 +25439,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="376.327"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25454,11 +25454,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="380.531"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25469,11 +25469,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="381.759"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25484,11 +25484,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="383.507"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25499,11 +25499,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="384.662"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25514,11 +25514,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="385.842"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25529,11 +25529,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="386.604"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25544,11 +25544,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="387.041"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25559,11 +25559,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="387.765"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25574,11 +25574,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="388.394"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25589,11 +25589,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="388.671"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25604,11 +25604,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="388.895"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25619,11 +25619,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="389.131"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25634,11 +25634,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="389.332"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25649,11 +25649,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="389.335"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25664,11 +25664,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="389.354"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25679,11 +25679,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="389.354"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25694,11 +25694,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="389.274"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25709,11 +25709,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="389.3"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25724,11 +25724,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="389.379"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25739,11 +25739,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="389.402"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25754,11 +25754,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="389.434"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25769,11 +25769,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="389.456"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25784,11 +25784,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="389.482"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25799,11 +25799,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="389.51"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25814,11 +25814,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="389.539"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25829,11 +25829,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="401.766"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25844,11 +25844,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="401.753"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25859,11 +25859,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="401.686"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25874,11 +25874,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="401.565"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25889,11 +25889,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="401.389"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25904,11 +25904,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="401.166"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25919,11 +25919,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="400.895"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25934,11 +25934,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="400.595"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25949,11 +25949,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="400.244"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25964,11 +25964,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="399.785"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25979,11 +25979,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="399.262"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -25994,11 +25994,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="398.834"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26009,11 +26009,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="398.416"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26024,11 +26024,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="398.021"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26039,11 +26039,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="397.603"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26054,11 +26054,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="397.083"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26069,11 +26069,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="396.359"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26084,11 +26084,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="395.823"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26099,11 +26099,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="395.137"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26114,11 +26114,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="394.314"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26129,11 +26129,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="393.494"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26144,11 +26144,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="392.435"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26159,11 +26159,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="391.146"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26174,11 +26174,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="389.705"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26189,11 +26189,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="388.024"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26204,11 +26204,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="386.342"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26219,11 +26219,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="384.942"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26234,11 +26234,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="378.888"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26249,11 +26249,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="378.515"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26264,11 +26264,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="378.304"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26279,11 +26279,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="378.052"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26294,11 +26294,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="351.241"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26309,11 +26309,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="350.938"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26324,11 +26324,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="350.769"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26339,11 +26339,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="351.851"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26354,11 +26354,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="352.527"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26369,11 +26369,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="352.514"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26384,11 +26384,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="352.431"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26399,11 +26399,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="352.294"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26414,11 +26414,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="352.313"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26429,11 +26429,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="351.12"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26444,11 +26444,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="350.664"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26459,11 +26459,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="349.589"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26474,11 +26474,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="347.557"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26489,11 +26489,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="346.737"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26504,11 +26504,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="345.777"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26519,11 +26519,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="343.235"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26534,11 +26534,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="343.404"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26549,11 +26549,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="341.671"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26564,11 +26564,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="341.142"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26579,11 +26579,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="339.936"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26594,11 +26594,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="338.951"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26609,11 +26609,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="336.832"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26624,11 +26624,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="333.518"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26639,11 +26639,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="318.357"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26654,11 +26654,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="310.679"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26669,11 +26669,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="308.892"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26684,11 +26684,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="307.109"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26699,11 +26699,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="307.061"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26714,11 +26714,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="308.159"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26729,11 +26729,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="308.143"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26744,11 +26744,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="308.018"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26759,11 +26759,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="306.94"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26774,11 +26774,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="303.472"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26789,11 +26789,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="299.737"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26804,11 +26804,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="292.64"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26819,11 +26819,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="287.156"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26834,11 +26834,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="279.303"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26849,11 +26849,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="281.313"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26864,11 +26864,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="282.27"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26879,11 +26879,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="282.318"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26894,11 +26894,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="280.898"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26909,11 +26909,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="283.163"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26924,11 +26924,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="285.31"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26939,11 +26939,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="286.177"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26954,11 +26954,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="286.936"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26969,11 +26969,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="288.637"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26984,11 +26984,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="288.588"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -26999,11 +26999,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="288.353"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27014,11 +27014,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="287.894"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27029,11 +27029,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="287.6"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27044,11 +27044,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="283.038"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27059,11 +27059,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="277.717"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27074,11 +27074,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="275.772"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27089,11 +27089,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="272.643"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27104,11 +27104,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="271.587"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27119,11 +27119,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="271.51"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27134,11 +27134,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="270.866"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27149,11 +27149,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="268.403"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27164,11 +27164,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="268.008"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27179,11 +27179,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="268.027"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27194,11 +27194,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="267.153"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27209,11 +27209,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="268.997"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27224,11 +27224,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="268.859"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27239,11 +27239,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="267.8"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27254,11 +27254,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="266.253"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27269,11 +27269,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="263.258"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27284,11 +27284,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="261.972"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27299,11 +27299,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="254.476"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27314,11 +27314,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="251.583"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27329,11 +27329,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="251.624"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27344,11 +27344,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="250.023"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27359,11 +27359,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="248.479"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27374,11 +27374,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="245.988"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27389,11 +27389,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="237.066"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27404,11 +27404,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="234.192"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27419,11 +27419,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="225.238"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27434,11 +27434,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="216.029"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27449,11 +27449,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="225.646"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27464,11 +27464,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="234.335"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27479,11 +27479,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="243.056"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27494,11 +27494,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="252.227"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27509,11 +27509,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="261.982"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27524,11 +27524,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="267.13"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27539,11 +27539,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="273.315"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27554,11 +27554,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="274.161"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27569,11 +27569,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="274.486"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27584,11 +27584,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="274.486"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27599,11 +27599,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="274.786"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27614,11 +27614,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="282.097"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27629,11 +27629,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="287.141"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27644,11 +27644,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="293.967"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27659,11 +27659,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="295.236"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27674,11 +27674,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="296.12"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27689,11 +27689,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="296.133"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27704,11 +27704,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="295.393"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27719,11 +27719,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="290.583"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27734,11 +27734,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="295.587"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27749,11 +27749,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="297.623"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27764,11 +27764,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="298.26"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27779,11 +27779,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="298.423"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27794,11 +27794,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="295.038"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27809,11 +27809,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="287.861"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27824,11 +27824,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="281.52"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27839,11 +27839,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="272.059"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27854,11 +27854,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="272.371"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27869,11 +27869,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="274.786"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27884,11 +27884,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="274.697"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27899,11 +27899,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="274.614"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27914,11 +27914,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="268.655"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27929,11 +27929,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="268.776"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27944,11 +27944,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="265.842"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27959,11 +27959,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="262.594"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27974,11 +27974,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="288.831"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -27989,11 +27989,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="290.924"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28004,11 +28004,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="292.729"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28019,11 +28019,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="294.544"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28034,11 +28034,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="295.629"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28049,11 +28049,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="299.345"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28064,11 +28064,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="301.769"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28079,11 +28079,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="302.965"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28094,11 +28094,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="302.931"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28109,11 +28109,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="302.031"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28124,11 +28124,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="301.02"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28139,11 +28139,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="298.19"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28154,11 +28154,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="293.654"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28169,11 +28169,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="293.734"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28184,11 +28184,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="293.475"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28199,11 +28199,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="295.46"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28214,11 +28214,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="296.767"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28229,11 +28229,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="297.103"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28244,11 +28244,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="297.549"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28259,11 +28259,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="297.616"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28274,11 +28274,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="295.176"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28289,11 +28289,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="292.254"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28304,11 +28304,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="286.713"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28319,11 +28319,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="281.099"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28334,11 +28334,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="287.858"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28349,11 +28349,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="295.409"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28364,11 +28364,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="300.946"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28379,11 +28379,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="306.934"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28394,11 +28394,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="309.371"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28409,11 +28409,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="314.203"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28424,11 +28424,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="321.441"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28439,11 +28439,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="328.223"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28454,11 +28454,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="333.786"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28469,11 +28469,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="341.263"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28484,11 +28484,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="349.71"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28499,11 +28499,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="356.348"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28514,11 +28514,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="360.329"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28529,11 +28529,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="364.878"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28544,11 +28544,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="367.181"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28559,11 +28559,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="367.117"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28574,11 +28574,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="370.843"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28589,11 +28589,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="376.007"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28604,11 +28604,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="378.604"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28619,11 +28619,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="381.925"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28634,11 +28634,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="383.647"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28649,11 +28649,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="384.04"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28664,11 +28664,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="384.046"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28679,11 +28679,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="383.124"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28694,11 +28694,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="385.204"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28709,11 +28709,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="388.024"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28724,11 +28724,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="388.489"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28739,11 +28739,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="388.451"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28754,11 +28754,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="388.751"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28769,11 +28769,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="388.898"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28784,11 +28784,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="388.927"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28799,11 +28799,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="387.507"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28814,11 +28814,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="385.255"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28829,11 +28829,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="384.856"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28844,11 +28844,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="382.789"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28859,11 +28859,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="381.325"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28874,11 +28874,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="382.247"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28889,11 +28889,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="382.623"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28904,11 +28904,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="383.491"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28919,11 +28919,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="384.808"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28934,11 +28934,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="385.555"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28949,11 +28949,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="385.513"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28964,11 +28964,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="385.52"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28979,11 +28979,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="385.169"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -28994,11 +28994,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="384.795"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29009,11 +29009,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="384.123"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29024,11 +29024,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="382.659"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29039,11 +29039,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="381.156"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29054,11 +29054,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="381.491"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29069,11 +29069,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="381.462"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29084,11 +29084,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="382.056"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29099,11 +29099,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="383.373"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29114,11 +29114,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="383.236"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29129,11 +29129,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="384.987"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29144,11 +29144,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="387.817"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29159,11 +29159,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="391.029"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29174,11 +29174,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="392.962"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29189,11 +29189,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="396.139"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29204,11 +29204,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="398.142"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29219,11 +29219,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="399.654"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29234,11 +29234,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="400.582"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29249,11 +29249,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="401.259"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29264,11 +29264,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="401.683"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29279,11 +29279,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="402.586"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29294,11 +29294,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="403.728"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29309,11 +29309,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="404.787"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29324,11 +29324,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="405.422"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29339,11 +29339,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="405.364"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29354,11 +29354,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="405.651"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29369,11 +29369,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="406.426"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29384,11 +29384,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="406.64"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29399,11 +29399,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="406.844"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29414,11 +29414,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="406.822"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29429,11 +29429,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="406.799"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29444,11 +29444,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="406.704"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29459,11 +29459,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="406.477"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29474,11 +29474,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="406.755"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29489,11 +29489,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="406.79"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29504,11 +29504,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="406.79"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29519,11 +29519,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="406.729"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29534,11 +29534,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="406.694"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29549,11 +29549,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="406.659"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29564,11 +29564,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="406.618"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29579,11 +29579,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="406.63"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29594,11 +29594,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="406.691"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29609,11 +29609,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="406.783"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29624,11 +29624,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="406.908"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29639,11 +29639,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="406.975"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29654,11 +29654,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="407.016"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29669,11 +29669,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="407.064"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29684,11 +29684,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="407.125"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29699,11 +29699,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="407.182"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29714,11 +29714,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="407.259"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29729,11 +29729,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="407.348"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29744,11 +29744,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="407.434"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29759,11 +29759,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="407.501"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29774,11 +29774,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="407.543"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29789,11 +29789,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="407.572"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29804,11 +29804,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="421.91"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29819,11 +29819,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="421.91"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29834,11 +29834,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="421.878"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29849,11 +29849,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="421.811"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29864,11 +29864,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="421.715"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29879,11 +29879,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="421.597"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29894,11 +29894,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="421.476"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29909,11 +29909,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="421.339"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29924,11 +29924,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="421.176"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29939,11 +29939,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="420.969"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29954,11 +29954,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="420.742"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29969,11 +29969,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="420.478"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29984,11 +29984,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="420.136"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -29999,11 +29999,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="419.983"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30014,11 +30014,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="419.798"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30029,11 +30029,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="419.645"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30044,11 +30044,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="419.345"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30059,11 +30059,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="419.071"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30074,11 +30074,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="418.838"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30089,11 +30089,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="418.656"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30104,11 +30104,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="418.618"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30119,11 +30119,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="418.535"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30134,11 +30134,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="418.331"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30149,11 +30149,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="418.012"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30164,11 +30164,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="417.712"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30179,11 +30179,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="417.387"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30194,11 +30194,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="416.969"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30209,11 +30209,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="416.809"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30224,11 +30224,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="416.598"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30239,11 +30239,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="416.242"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30254,11 +30254,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="415.98"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30269,11 +30269,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="415.916"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30284,11 +30284,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="415.782"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30299,11 +30299,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="415.741"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30314,11 +30314,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="415.568"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30329,11 +30329,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="415.291"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30344,11 +30344,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="414.854"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30359,11 +30359,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="414.519"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30374,11 +30374,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="414.155"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30389,11 +30389,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="413.629"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30404,11 +30404,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="413.051"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30419,11 +30419,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="412.592"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30434,11 +30434,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="411.511"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30449,11 +30449,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="411.418"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30464,11 +30464,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="411.173"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30479,11 +30479,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="410.621"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30494,11 +30494,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="410.088"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30509,11 +30509,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="409.556"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30524,11 +30524,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="408.78"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30539,11 +30539,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="408.174"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30554,11 +30554,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="408.028"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30569,11 +30569,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="407.345"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30584,11 +30584,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="407.064"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30599,11 +30599,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="407.045"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30614,11 +30614,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="406.63"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30629,11 +30629,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="406.442"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30644,11 +30644,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="406.445"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30659,11 +30659,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="406.41"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30674,11 +30674,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="406.11"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30689,11 +30689,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="405.243"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30704,11 +30704,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="404.232"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30719,11 +30719,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="403.667"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30734,11 +30734,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="403.169"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30749,11 +30749,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="402.971"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30764,11 +30764,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="402.64"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30779,11 +30779,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="402.286"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30794,11 +30794,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="401.699"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30809,11 +30809,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="402.101"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30824,11 +30824,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="402.101"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30839,11 +30839,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="401.935"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30854,11 +30854,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="402.164"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30869,11 +30869,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="402.184"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30884,11 +30884,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="401.801"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30899,11 +30899,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="400.978"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30914,11 +30914,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="400.493"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30929,11 +30929,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="399.558"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30944,11 +30944,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="398.078"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30959,11 +30959,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="396.525"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30974,11 +30974,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="394.072"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -30989,11 +30989,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="393.97"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31004,11 +31004,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="394.212"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31019,11 +31019,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="394.879"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31034,11 +31034,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="394.863"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31049,11 +31049,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="395.36"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31064,11 +31064,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="395.36"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31079,11 +31079,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="395.029"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31094,11 +31094,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="394.789"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31109,11 +31109,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="394.052"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31124,11 +31124,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="393.127"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31139,11 +31139,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="391.737"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31154,11 +31154,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="390.729"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31169,11 +31169,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="389.944"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31184,11 +31184,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="389.941"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31199,11 +31199,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="389.36"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31214,11 +31214,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="388.477"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31229,11 +31229,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="388.604"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31244,11 +31244,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="389.584"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31259,11 +31259,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="391.408"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31274,11 +31274,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="392.49"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31289,11 +31289,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="393.903"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31304,11 +31304,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="395.367"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31319,11 +31319,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="395.928"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31334,11 +31334,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="396.085"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31349,11 +31349,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="396.094"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31364,11 +31364,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="395.651"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31379,11 +31379,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="395.581"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31394,11 +31394,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="395.07"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31409,11 +31409,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="394.25"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31424,11 +31424,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="393.475"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31439,11 +31439,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="393.073"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31454,11 +31454,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="392.034"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31469,11 +31469,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="389.947"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31484,11 +31484,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="386.505"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31499,11 +31499,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="382.904"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31514,11 +31514,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="380.703"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31529,11 +31529,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="381.048"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31544,11 +31544,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="381.073"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31559,11 +31559,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="380.202"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31574,11 +31574,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="378.078"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31589,11 +31589,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="375.819"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31604,11 +31604,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="370.582"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31619,11 +31619,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="371.213"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31634,11 +31634,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="371.638"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31649,11 +31649,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="371.624"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31664,11 +31664,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="371.532"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31679,11 +31679,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="370.805"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31694,11 +31694,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="369.411"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31709,11 +31709,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="367.162"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31724,11 +31724,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="364.479"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31739,11 +31739,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="362.275"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31754,11 +31754,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="361.394"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31769,11 +31769,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="359.65"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31784,11 +31784,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="359.223"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31799,11 +31799,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="360.482"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31814,11 +31814,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="361.206"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31829,11 +31829,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="364.186"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31844,11 +31844,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="366.6"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31859,11 +31859,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="367.931"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31874,11 +31874,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="368.974"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31889,11 +31889,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="368.948"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31904,11 +31904,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="368.802"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31919,11 +31919,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="368.824"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31934,11 +31934,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="368.285"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31949,11 +31949,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="366.82"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31964,11 +31964,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="366.84"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31979,11 +31979,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="367.404"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -31994,11 +31994,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="367.755"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32009,11 +32009,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="367.752"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32024,11 +32024,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="367.493"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32039,11 +32039,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="367.503"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32054,11 +32054,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="366.591"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32069,11 +32069,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="365.959"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32084,11 +32084,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="365.046"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32099,11 +32099,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="364.345"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32114,11 +32114,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="363.525"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32129,11 +32129,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="363.159"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32144,11 +32144,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="363.19"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32159,11 +32159,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="362.195"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32174,11 +32174,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="361.082"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32189,11 +32189,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="361.076"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32204,11 +32204,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="361.072"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32219,11 +32219,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="359.943"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32234,11 +32234,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="363.831"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32249,11 +32249,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="366.572"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32264,11 +32264,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="369.385"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32279,11 +32279,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="370.795"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32294,11 +32294,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="371.079"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32309,11 +32309,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="372.145"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32324,11 +32324,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="373.245"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32339,11 +32339,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="373.204"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32354,11 +32354,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="375.606"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32369,11 +32369,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="377.127"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32384,11 +32384,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="377.398"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32399,11 +32399,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="378.362"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32414,11 +32414,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="378.333"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32429,11 +32429,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="378.062"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32444,11 +32444,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="376.853"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32459,11 +32459,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="376.358"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32474,11 +32474,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="374.996"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32489,11 +32489,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="373.618"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32504,11 +32504,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="372.059"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32519,11 +32519,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="369.439"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32534,11 +32534,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="366.974"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32549,11 +32549,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="366.766"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32564,11 +32564,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="368.106"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32579,11 +32579,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="370.215"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32594,11 +32594,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="371.896"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32609,11 +32609,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="374.199"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32624,11 +32624,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="376.961"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32639,11 +32639,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="378.531"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32654,11 +32654,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="379.835"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32669,11 +32669,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="382.209"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32684,11 +32684,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="385.466"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32699,11 +32699,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="387.498"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32714,11 +32714,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="389.268"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32729,11 +32729,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="390.885"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32744,11 +32744,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="393.144"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32759,11 +32759,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="395.077"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32774,11 +32774,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="397.367"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32789,11 +32789,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="399.121"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32804,11 +32804,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="400.33"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32819,11 +32819,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="401.073"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32834,11 +32834,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="402.219"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32849,11 +32849,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="402.77"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32864,11 +32864,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="403.498"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32879,11 +32879,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="403.989"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32894,11 +32894,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="403.98"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32909,11 +32909,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="403.488"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32924,11 +32924,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="403.402"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32939,11 +32939,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="403.144"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32954,11 +32954,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="404.2"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32969,11 +32969,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="405.594"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32984,11 +32984,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="405.584"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -32999,11 +32999,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="405.584"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33014,11 +33014,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="405.39"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33029,11 +33029,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="405.801"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33044,11 +33044,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="406.005"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33059,11 +33059,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="406.008"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33074,11 +33074,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="405.482"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33089,11 +33089,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="407.036"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33104,11 +33104,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="407.523"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33119,11 +33119,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="407.938"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33134,11 +33134,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="408.276"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33149,11 +33149,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="408.796"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33164,11 +33164,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="409.552"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33179,11 +33179,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="409.482"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33194,11 +33194,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="409.485"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33209,11 +33209,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="408.978"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33224,11 +33224,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="409.782"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33239,11 +33239,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="411.144"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33254,11 +33254,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="411.836"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33269,11 +33269,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="411.769"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33284,11 +33284,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="411.485"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33299,11 +33299,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="411.798"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33314,11 +33314,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="412.404"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33329,11 +33329,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="412.949"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33344,11 +33344,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="412.898"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33359,11 +33359,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="413.323"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33374,11 +33374,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="414.404"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33389,11 +33389,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="415.061"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33404,11 +33404,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="416.012"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33419,11 +33419,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="416.828"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33434,11 +33434,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="417.467"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33449,11 +33449,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="417.448"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33464,11 +33464,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="417.451"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33479,11 +33479,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="416.988"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33494,11 +33494,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="416.541"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33509,11 +33509,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="417.483"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33524,11 +33524,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="418.238"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33539,11 +33539,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="418.746"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33554,11 +33554,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="418.876"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33569,11 +33569,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="419.39"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33584,11 +33584,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="419.738"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33599,11 +33599,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="419.792"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33614,11 +33614,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="419.951"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33629,11 +33629,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="419.945"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33644,11 +33644,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="419.607"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33659,11 +33659,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="419.607"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33674,11 +33674,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="418.994"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33689,11 +33689,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="419.033"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33704,11 +33704,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="419.332"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33719,11 +33719,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="419.565"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33734,11 +33734,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="420.089"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33749,11 +33749,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="420.867"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33764,11 +33764,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="421.505"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33779,11 +33779,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="422.369"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33794,11 +33794,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="423.036"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33809,11 +33809,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="423.406"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33824,11 +33824,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="424.07"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33839,11 +33839,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="424.733"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33854,11 +33854,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="425.291"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33869,11 +33869,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="425.77"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33884,11 +33884,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="426.105"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33899,11 +33899,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="426.322"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33914,11 +33914,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="426.465"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33929,11 +33929,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="426.733"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33944,11 +33944,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="426.829"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33959,11 +33959,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="426.883"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33974,11 +33974,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="427.062"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -33989,11 +33989,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="427.192"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34004,11 +34004,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="427.275"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34019,11 +34019,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="427.275"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34034,11 +34034,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="427.47"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34049,11 +34049,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="427.715"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34064,11 +34064,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="427.878"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34079,11 +34079,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="427.961"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34094,11 +34094,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="428.06"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34109,11 +34109,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="428.14"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34124,11 +34124,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="428.245"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34139,11 +34139,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="428.315"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34154,11 +34154,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="428.395"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34169,11 +34169,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="428.456"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34184,11 +34184,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="428.5"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34199,11 +34199,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="428.548"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34214,11 +34214,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="428.59"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34229,11 +34229,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="428.622"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34244,11 +34244,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="428.663"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34259,11 +34259,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="428.695"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34274,11 +34274,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="428.73"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34289,11 +34289,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="428.759"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34304,11 +34304,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="445.824"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34319,11 +34319,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="445.85"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34334,11 +34334,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="445.875"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34349,11 +34349,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="445.904"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34364,11 +34364,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="445.93"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34379,11 +34379,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="445.955"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34394,11 +34394,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="445.981"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34409,11 +34409,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.013"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34424,11 +34424,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.035"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34439,11 +34439,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.064"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34454,11 +34454,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.092"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34469,11 +34469,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.121"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34484,11 +34484,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.144"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34499,11 +34499,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.169"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34514,11 +34514,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.194"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34529,11 +34529,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.223"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34544,11 +34544,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.249"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34559,11 +34559,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.277"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34574,11 +34574,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.303"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34589,11 +34589,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.331"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34604,11 +34604,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.357"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34619,11 +34619,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.386"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34634,11 +34634,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.408"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34649,11 +34649,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.437"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34664,11 +34664,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.462"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34679,11 +34679,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.494"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34694,11 +34694,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.517"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34709,11 +34709,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.545"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34724,11 +34724,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.567"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34739,11 +34739,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.599"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34754,11 +34754,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.625"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34769,11 +34769,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.65"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34784,11 +34784,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.676"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34799,11 +34799,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.702"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34814,11 +34814,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.73"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34829,11 +34829,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.756"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34844,11 +34844,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.787"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34859,11 +34859,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.813"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34874,11 +34874,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.839"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34889,11 +34889,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.864"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34904,11 +34904,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.89"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34919,11 +34919,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.922"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34934,11 +34934,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.944"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34949,11 +34949,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.97"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34964,11 +34964,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="446.998"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34979,11 +34979,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.024"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -34994,11 +34994,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.053"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35009,11 +35009,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.078"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35024,11 +35024,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.104"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35039,11 +35039,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.132"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35054,11 +35054,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.158"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35069,11 +35069,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.19"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35084,11 +35084,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.212"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35099,11 +35099,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.238"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35114,11 +35114,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.266"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35129,11 +35129,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.292"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35144,11 +35144,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.32"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35159,11 +35159,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.349"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35174,11 +35174,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.374"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35189,11 +35189,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.4"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35204,11 +35204,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.426"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35219,11 +35219,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.454"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35234,11 +35234,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.48"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35249,11 +35249,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.508"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35264,11 +35264,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.534"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35279,11 +35279,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.56"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35294,11 +35294,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.588"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35309,11 +35309,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.617"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35324,11 +35324,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.642"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35339,11 +35339,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.668"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35354,11 +35354,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.697"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35369,11 +35369,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.722"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35384,11 +35384,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.754"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35399,11 +35399,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.777"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35414,11 +35414,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.805"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35429,11 +35429,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.831"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35444,11 +35444,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.856"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35459,11 +35459,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.885"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35474,11 +35474,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.914"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35489,11 +35489,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.939"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35504,11 +35504,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.965"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35519,11 +35519,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="447.994"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35534,11 +35534,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.022"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35549,11 +35549,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.047"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35564,11 +35564,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.073"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35579,11 +35579,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.102"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35594,11 +35594,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.128"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35609,11 +35609,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.156"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35624,11 +35624,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.185"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35639,11 +35639,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.207"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35654,11 +35654,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.236"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35669,11 +35669,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.265"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35684,11 +35684,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.29"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35699,11 +35699,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.316"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35714,11 +35714,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.344"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35729,11 +35729,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.37"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35744,11 +35744,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.399"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35759,11 +35759,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.428"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35774,11 +35774,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.453"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35789,11 +35789,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.478"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35804,11 +35804,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.51"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35819,11 +35819,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.532"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35834,11 +35834,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.562"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35849,11 +35849,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.59"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35864,11 +35864,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.615"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35879,11 +35879,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.641"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35894,11 +35894,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.673"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35909,11 +35909,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.695"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35924,11 +35924,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.724"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35939,11 +35939,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.753"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35954,11 +35954,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.778"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35969,11 +35969,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.807"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35984,11 +35984,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.836"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -35999,11 +35999,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.858"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36014,11 +36014,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.89"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36029,11 +36029,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.912"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36044,11 +36044,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.941"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36059,11 +36059,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.97"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36074,11 +36074,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="448.995"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36089,11 +36089,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.024"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36104,11 +36104,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.049"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36119,11 +36119,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.078"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36134,11 +36134,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.107"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36149,11 +36149,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.136"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36164,11 +36164,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.158"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36179,11 +36179,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.19"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36194,11 +36194,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.212"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36209,11 +36209,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.241"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36224,11 +36224,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.266"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36239,11 +36239,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.295"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36254,11 +36254,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.32"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36269,11 +36269,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.349"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36284,11 +36284,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.378"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36299,11 +36299,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.403"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36314,11 +36314,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.432"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36329,11 +36329,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.458"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36344,11 +36344,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.487"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36359,11 +36359,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.515"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36374,11 +36374,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.54"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36389,11 +36389,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.566"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36404,11 +36404,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.598"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36419,11 +36419,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.623"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36434,11 +36434,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.649"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36449,11 +36449,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.681"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36464,11 +36464,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.703"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36479,11 +36479,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.732"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36494,11 +36494,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.761"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36509,11 +36509,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.786"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36524,11 +36524,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.815"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36539,11 +36539,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.84"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36554,11 +36554,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.869"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36569,11 +36569,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.898"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36584,11 +36584,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.924"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36599,11 +36599,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.949"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36614,11 +36614,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="449.981"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36629,11 +36629,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.006"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36644,11 +36644,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.032"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36659,11 +36659,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.061"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36674,11 +36674,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.086"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36689,11 +36689,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.115"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36704,11 +36704,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.14"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36719,11 +36719,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.169"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36734,11 +36734,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.198"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36749,11 +36749,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.223"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36764,11 +36764,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.252"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36779,11 +36779,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.278"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36794,11 +36794,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.306"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36809,11 +36809,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.335"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36824,11 +36824,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.361"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36839,11 +36839,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.389"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36854,11 +36854,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.415"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36869,11 +36869,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.447"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36884,11 +36884,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.472"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36899,11 +36899,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.498"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36914,11 +36914,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.526"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36929,11 +36929,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.558"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36944,11 +36944,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.58"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36959,11 +36959,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.609"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36974,11 +36974,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.635"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -36989,11 +36989,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.663"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37004,11 +37004,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.696"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37019,11 +37019,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.718"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37034,11 +37034,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.746"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37049,11 +37049,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.772"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37064,11 +37064,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.801"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37079,11 +37079,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.829"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37094,11 +37094,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.861"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37109,11 +37109,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.884"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37124,11 +37124,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.912"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37139,11 +37139,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.938"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37154,11 +37154,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.967"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37169,11 +37169,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="450.995"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37184,11 +37184,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.021"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37199,11 +37199,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.049"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37214,11 +37214,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.078"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37229,11 +37229,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.104"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37244,11 +37244,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.132"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37259,11 +37259,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.164"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37274,11 +37274,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.187"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37289,11 +37289,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.215"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37304,11 +37304,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.244"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37319,11 +37319,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.27"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37334,11 +37334,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.298"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37349,11 +37349,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.324"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37364,11 +37364,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.352"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37379,11 +37379,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.381"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37394,11 +37394,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.407"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37409,11 +37409,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.436"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37424,11 +37424,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.468"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37439,11 +37439,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.493"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37454,11 +37454,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.518"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37469,11 +37469,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.547"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37484,11 +37484,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.579"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37499,11 +37499,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.601"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37514,11 +37514,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.63"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37529,11 +37529,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.659"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37544,11 +37544,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.684"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37559,11 +37559,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.713"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37574,11 +37574,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.745"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37589,11 +37589,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.771"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37604,11 +37604,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.796"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37619,11 +37619,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.828"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37634,11 +37634,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.856"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37649,11 +37649,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.879"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37664,11 +37664,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.908"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37679,11 +37679,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.936"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37694,11 +37694,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.962"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37709,11 +37709,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="451.991"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37724,11 +37724,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.022"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37739,11 +37739,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.045"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37754,11 +37754,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.073"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37769,11 +37769,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.106"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37784,11 +37784,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.131"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37799,11 +37799,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.159"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37814,11 +37814,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.185"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37829,11 +37829,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.214"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37844,11 +37844,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.243"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37859,11 +37859,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.268"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37874,11 +37874,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.297"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37889,11 +37889,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.326"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37904,11 +37904,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.351"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37919,11 +37919,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.383"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37934,11 +37934,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.408"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37949,11 +37949,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.437"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37964,11 +37964,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.463"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37979,11 +37979,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.491"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -37994,11 +37994,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.523"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38009,11 +38009,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.546"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38024,11 +38024,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.578"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38039,11 +38039,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.603"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38054,11 +38054,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.632"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38069,11 +38069,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.66"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38084,11 +38084,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.686"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38099,11 +38099,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.715"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38114,11 +38114,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.744"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38129,11 +38129,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.772"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38144,11 +38144,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.798"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38159,11 +38159,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.83"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38174,11 +38174,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.855"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38189,11 +38189,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.884"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38204,11 +38204,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.909"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38219,11 +38219,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.938"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38234,11 +38234,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.97"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38249,11 +38249,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="452.998"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38264,11 +38264,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.021"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38279,11 +38279,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.05"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38294,11 +38294,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.078"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38309,11 +38309,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.107"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38324,11 +38324,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.142"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38339,11 +38339,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.161"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38354,11 +38354,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.187"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38369,11 +38369,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.219"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38384,11 +38384,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.244"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38399,11 +38399,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.273"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38414,11 +38414,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.301"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38429,11 +38429,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.33"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38444,11 +38444,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.356"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38459,11 +38459,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.384"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38474,11 +38474,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.417"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38489,11 +38489,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.442"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38504,11 +38504,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.467"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38519,11 +38519,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.499"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38534,11 +38534,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.525"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38549,11 +38549,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.554"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38564,11 +38564,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.582"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38579,11 +38579,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.608"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38594,11 +38594,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.636"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38609,11 +38609,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.665"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38624,11 +38624,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.694"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38639,11 +38639,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.719"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38654,11 +38654,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.751"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38669,11 +38669,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.78"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38684,11 +38684,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.806"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38699,11 +38699,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.834"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38714,11 +38714,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.863"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38729,11 +38729,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.889"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38744,11 +38744,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.917"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38759,11 +38759,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.946"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38774,11 +38774,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="453.975"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <linearGradient
@@ -38789,11 +38789,11 @@ export function AbstractSVG(props: SVGProps<SVGSVGElement>) {
           y2="454"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="hsl(var(--primary))" />
+          <stop stopColor="hsl(var(--primary))" />
           <stop
             offset=".56"
-            stop-color="#3442D9"
-            stop-opacity=".4"
+            stopColor="#3442D9"
+            stopOpacity=".4"
           />
         </linearGradient>
         <clipPath id="a">

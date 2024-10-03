@@ -29,7 +29,6 @@ export function Footer() {
           <FooterLink href="/legal">Legal Notice</FooterLink>
           <FooterLink href="/privacy">Privacy Policy</FooterLink>
           <FooterLink href="/tos">Terms of Service</FooterLink>
-          <FooterLink href="/refunds">Refunds</FooterLink>
         </FooterList>
         <FooterList className="pr-3">
           <FooterTitle>Contacts</FooterTitle>

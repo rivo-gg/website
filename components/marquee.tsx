@@ -1,4 +1,5 @@
 import { marqueeItems } from '@/data/marquee'
+import Link from 'next/link'
 
 export function MarqueeWrapper() {
   return (
@@ -9,11 +10,15 @@ export function MarqueeWrapper() {
         </span>
         <span className="text-2xl md:text-3xl">Companies that trust Rivo.</span>
       </div>
-      <div className="relative flex gap-16 overflow-x-hidden sm:gap-24">
+      <div className="relative flex flex-col gap-12 overflow-x-hidden sm:flex-row sm:gap-24">
         {marqueeItems.map((item, index) => (
-          <div key={index}>
-            <item.svg className="h-28 w-28" />
-          </div>
+          <Link
+            href={item.href}
+            key={index}
+            target="_blank"
+          >
+            <item.svg className="h-32 w-32" />
+          </Link>
         ))}
       </div>
     </div>

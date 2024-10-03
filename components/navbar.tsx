@@ -58,7 +58,7 @@ export function Navbar() {
             </Link>
           ))}
         </div>
-        <div className="hidden h-auto min-w-fit items-center justify-center gap-2 md:flex">
+        <div className="hidden h-auto min-w-fit items-center justify-end gap-2 md:flex md:basis-1/5">
           <button
             className="hover:bg-hover-light flex h-12 w-12 items-center justify-center rounded-xl text-foreground/70 transition hover:text-primary"
             onClick={() => setTheme(theme === 'light' ? 'dark' : 'light')}

@@ -20,7 +20,7 @@ export default function Home() {
 		<OrganizationJsonLd
       type="Corporation"
       id="https://rivo.gg/"
-      logo="https://www.example.com/photos/logo.jpg"
+      logo="https://rivo.gg/Logo.png"
       legalName="Dominik Koch"
       name="Rivo"
       address={{

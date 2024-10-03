@@ -8,7 +8,7 @@ export function Testimonials() {
       id="testimonials"
       className="my-20 flex w-full max-w-6xl flex-col gap-20 px-6"
     >
-      <span className="text-center text-6xl">
+      <span className="text-center text-5xl md:text-6xl">
         Hear it from <span className="text-primary">Others</span>
       </span>
       <div className="flex flex-wrap justify-around gap-8">
@@ -98,7 +98,13 @@ const TestimonialCard = ({
         </AvatarFallback>
       </Avatar>
       <div className="flex flex-col">
-        <Link className="font-bold"href={link} target='_blank'>{author}</Link>
+        <Link
+          className="font-bold"
+          href={link}
+          target="_blank"
+        >
+          {author}
+        </Link>
         <span className="text-sm text-foreground/50">{job}</span>
       </div>
     </div>

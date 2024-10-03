@@ -24,7 +24,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={cn('w-screen', barlow.className)}>
+      <body
+        className={cn('flex min-h-screen w-screen flex-col', barlow.className)}
+      >
         <ThemeProvider
           attribute="class"
           defaultTheme="dark"

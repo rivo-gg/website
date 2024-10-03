@@ -17,19 +17,21 @@ export function MobileMenu({
   // const [open, setOpen] = React.useState(false)
 
   return (
-    <Sheet
-      open={open}
-      onOpenChange={setOpen}
-    >
-      <SheetTrigger>
-        <Menu className="h-12 w-12 p-2" />
-      </SheetTrigger>
-      <SheetContent
-        side="right"
-        className={cn('flex flex-col items-center pt-16', className)}
+    <div className={cn(className)}>
+      <Sheet
+        open={open}
+        onOpenChange={setOpen}
       >
-        {children}
-      </SheetContent>
-    </Sheet>
+        <SheetTrigger>
+          <Menu className="h-12 w-12 p-2" />
+        </SheetTrigger>
+        <SheetContent
+          side="right"
+          className={cn('flex flex-col items-center pt-16', className)}
+        >
+          {children}
+        </SheetContent>
+      </Sheet>
+    </div>
   )
 }

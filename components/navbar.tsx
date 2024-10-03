@@ -43,7 +43,7 @@ export function Navbar() {
     >
       <div className="flex w-full max-w-7xl items-center justify-between gap-4">
         <RivoLogo />
-        <div className="hidden items-center gap-6 sm:flex">
+        <div className="hidden items-center gap-6 md:flex">
           {navItems.map((item, index) => (
             <Link
               key={index}
@@ -60,7 +60,7 @@ export function Navbar() {
         </div>
         <div className="hidden h-auto min-w-fit items-center justify-center gap-2 md:flex">
           <button
-            className="hover:bg-hover-light flex h-12 w-12 items-center justify-center rounded-xl text-foreground/70 transition hover:text-foreground/90"
+            className="hover:bg-hover-light flex h-12 w-12 items-center justify-center rounded-xl text-foreground/70 transition hover:text-primary"
             onClick={() => setTheme(theme === 'light' ? 'dark' : 'light')}
           >
             {theme === 'light' ?
@@ -72,6 +72,7 @@ export function Navbar() {
         <MobileMenu
           open={open}
           setOpen={setOpen}
+          className="flex md:hidden"
         >
           {navItems.map((item, index) => (
             <Link
@@ -87,6 +88,14 @@ export function Navbar() {
               {item.label}
             </Link>
           ))}
+          <button
+            className="hover:bg-hover-light flex w-fit items-center justify-center rounded-xl text-foreground/70 transition hover:text-primary"
+            onClick={() => setTheme(theme === 'light' ? 'dark' : 'light')}
+          >
+            {theme === 'light' ?
+              <Moon className="w-6" />
+            : <Sun className="w-6" />}
+          </button>
         </MobileMenu>
       </div>
     </nav>

@@ -24,7 +24,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={cn('w-screen overflow-x-hidden', barlow.className)}>
+      <body className={cn('w-screen', barlow.className)}>
         <ThemeProvider
           attribute="class"
           defaultTheme="dark"

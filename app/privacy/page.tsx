@@ -10,9 +10,9 @@ export default function Page() {
 			<section className="flex w-full max-w-7xl flex-col gap-6 text-lg text-foreground/80">
 				<h1>Privacy Policy</h1>
 				<div className="flex flex-col gap-4">
-					<h4>Last updated and effective March 08, 2024</h4>
+					<h4>Last updated and effective October 03, 2024</h4>
 					<span>
-						Thank you for choosing to be part of our community at Would You(&quot;we,&quot; &quot;us,&quot; or
+						Thank you for choosing to be part of our community at Rivo (&quot;we,&quot; &quot;us,&quot; or
 						&quot;our&quot;). We are committed to protecting your personal information and your right to privacy. If you
 						have any questions or concerns about this privacy notice or our practices with regard to your personal
 						information, please contact us at <a href="mailto:dominik@rivo.gg">dominik@rivo.gg</a>.
@@ -50,7 +50,7 @@ export default function Page() {
 					</span>
 					<span>This policy applies to information we collect:</span>
 					<div className="flex flex-col">
-						<span>On this website and/or via our Bot:</span>
+						<span>On this website and/or via our Bots:</span>
 						<span>- Your discord user id, avatar and custom questions uploaded to our marketplace by the user.</span>
 						<span>- Questions you liked or shared on our marketplace.</span>
 						<span>
@@ -118,15 +118,6 @@ export default function Page() {
 					</span>
 				</div>
 				<div className="flex flex-col gap-4">
-					<h4>Age Limit</h4>
-					<span>
-						The Bot is not intended for use by individuals under the age of 13. The Creator does not knowingly collect
-						personal information from children under 13 years of age. If you are a parent or guardian and believe that
-						your child has provided personal information to the Bot, please contact the Creator to request deletion of
-						that information.
-					</span>
-				</div>
-				<div className="flex flex-col gap-4">
 					<h4>Analytics Provided by Others</h4>
 					<span>
 						Our website uses Plausible Analytics to help us understand visitor trends and the effectiveness of our
@@ -143,20 +134,11 @@ export default function Page() {
 				<div className="flex flex-col gap-4">
 					<h4>Information We Collect and How We Collect It</h4>
 					<span>
-						Personally Identifiable Information. On our website, we only collect personally identifiable information
-						from individuals that they provide to us voluntarily. This means we do not require you to register or
+						On our website, we only collect personally identifiable information	from individuals that they provide to us voluntarily. 
+						This means we do not require you to register or
 						provide information to us in order to view our website. Rivo only gathers personally identifiable data
 						through our website, such as an email address, when voluntarily submitted by a visitor. Once collected, we
 						may combine this information with other information collected from external sources.
-					</span>
-					<span>
-						<a href="https://en.wikipedia.org/wiki/HTTP_cookie" target="_blank" rel="noopener noreferrer">
-							Cookies (or browser cookies)
-						</a>
-						. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However,
-						if you select this setting you may be unable to access certain parts of our website. Unless you have
-						adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct
-						your browser to our website.
 					</span>
 					<h5>Third-Party Websites</h5>
 					<span>

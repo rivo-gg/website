@@ -30,6 +30,10 @@ export const metadata: Metadata = {
 		description:
 			"Rivo is a digital agency that you can trust. We work with community managers, creators, game developers, and entrepreneurs to help them achieve their goals faster.",
 	},
+	robots: {
+		index: true,
+		follow: true
+	}
 };
 
 export const viewport: Viewport = {

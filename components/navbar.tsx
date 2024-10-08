@@ -37,7 +37,7 @@ export function Navbar() {
   return (
     <nav
       className={cn(
-        "fixed left-0 top-0 z-20 flex h-auto w-screen items-center justify-center bg-background duration-300",
+        "fixed left-0 top-0 z-50 flex h-auto w-screen items-center justify-center bg-background duration-300",
         isScrolled ? "px-6 py-3" : "p-6"
       )}
     >

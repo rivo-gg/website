@@ -62,9 +62,7 @@ export async function ProjectList() {
             href={projectPath(project)}
             className={cn(
               "relative flex flex-wrap items-center justify-between rounded-lg bg-accent text-foreground/70 transition-all duration-300 hover:bg-foreground/10 sm:gap-6 gap-4 overflow-hidden group w-full max-w-[475px] h-[200px] mb-6",
-              index % 2 === 0
-                ? "order-first flex-row-reverse text-end"
-                : "order-last flex-row text-start"
+              index % 2 === 0 ? "order-first" : "order-last"
             )}
           >
             <div
@@ -72,12 +70,7 @@ export async function ProjectList() {
                 "flex flex-col items-start gap-2 w-full max-w-[300px] py-4 px-6 z-20"
               )}
             >
-              <div
-                className={cn(
-                  "flex w-full flex-wrap items-center gap-2",
-                  index % 2 === 0 ? "justify-end" : "justify-start"
-                )}
-              >
+              <div className="flex w-full flex-wrap items-center gap-2">
                 {project.data.tags.slice(0, 4).map((tag) => (
                   <span
                     key={tag}
@@ -99,21 +92,11 @@ export async function ProjectList() {
                 <Image
                   src={project.data.thumbnail.large}
                   alt={project.data.thumbnail.alt || project.data.title}
-                  className={cn(
-                    "absolute right-0 top-0 w-auto h-[200px] object-cover group-hover:opacity-80 group-hover:brightness-75 transition-all duration-300",
-                    index % 2 === 0 ? "left-0" : "right-0"
-                  )}
+                  className="absolute right-0 top-0 w-auto h-[200px] object-cover group-hover:opacity-80 group-hover:brightness-75 transition-all duration-300"
                   width={1920}
                   height={1080}
                 />
-                <div
-                  className={cn(
-                    "absolute flex items-center p-8 w-full h-full from-accent from-60%",
-                    index % 2 === 0
-                      ? "bg-gradient-to-l justify-start"
-                      : "bg-gradient-to-r justify-end"
-                  )}
-                >
+                <div className="absolute flex items-center p-8 w-full h-full from-accent from-60% bg-gradient-to-r justify-end">
                   {index % 2 === 0 ? (
                     <ArrowLeft className="w-10 h-10 text-foreground opacity-0 group-hover:opacity-100 transition-all duration-300" />
                   ) : (

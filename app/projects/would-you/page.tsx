@@ -6,7 +6,8 @@ import {
   ImageWrapper,
   Text,
   Title,
-} from "../components/elements";
+} from "@/app/projects/components/elements";
+import { PageWrapper } from "@/app/projects/components/PageWrapper";
 
 export const metadata: Metadata = {
   title: "My Next Page",
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
 
 export default function WouldYou() {
   return (
-    <>
+    <PageWrapper goBack>
       <Heading>Heading Component</Heading>
       <Title>This is a medium title</Title>
       <Text>
@@ -32,7 +33,8 @@ export default function WouldYou() {
       <ImageWrapper
         src="/projects/would-you/showcase.png"
         alt="Would You Bot Showcase"
+        size="large"
       />
-    </>
+    </PageWrapper>
   );
 }

@@ -87,16 +87,24 @@ export function Button({
 interface ImageWrapperProps {
   src: string;
   alt: string;
+  size?: "small" | "medium" | "large";
 }
 
-export function ImageWrapper({ src, alt }: ImageWrapperProps) {
+export function ImageWrapper({ src, alt, size = "medium" }: ImageWrapperProps) {
   return (
     <Image
       src={src}
       alt={alt}
       width={1920}
       height={1080}
-      className="rounded-xl max-w-md aspect-auto"
+      className={cn(
+        "rounded-xl max-w-md aspect-auto",
+        size === "large"
+          ? "max-w-xl"
+          : size === "small"
+          ? "max-w-sm"
+          : "max-w-md"
+      )}
     />
   );
 }

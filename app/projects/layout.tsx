@@ -37,8 +37,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <main className="flex flex-col flex-1 items-center pt-24 px-6">
-      <div className="w-full max-w-7xl flex flex-col gap-4">{children}</div>
+    <main className="flex flex-col flex-1 items-center pt-28 px-6">
+      {children}
     </main>
   );
 }

@@ -1,6 +1,60 @@
+"use client";
+
 import { cn } from "@/lib/utils";
 import { Button as ShadcnButton } from "@/components/ui/button";
 import Image from "next/image";
+import { createContext, useContext } from "react";
+import { usePathname, useRouter } from "next/navigation";
+import { MoveLeft, MoveRight } from "lucide-react";
+import Link from "next/link";
+
+interface PageWrapperProps {
+  children: React.ReactNode;
+  goBack?: boolean;
+}
+
+const PageWrapperContext = createContext(false);
+
+export function PageWrapper({ children, goBack = false }: PageWrapperProps) {
+  const router = useRouter();
+  const pathname = usePathname();
+
+  return (
+    <PageWrapperContext.Provider value={true}>
+      <div className="w-full max-w-7xl flex flex-col gap-4">
+        <div
+          className={cn(
+            "flex gap-4 relative",
+            goBack ? "justify-between" : "justify-end"
+          )}
+        >
+          {goBack && (
+            <Button
+              className="flex w-fit bg-background gap-2 items-center rounded-md px-4 py-2 font-normal max-w-[200px] group"
+              variant="ghost"
+              onClick={router.back}
+            >
+              <MoveLeft className="absolute top-1/2 -translate-y-1/2 left-4 -translate-x-full w-5 h-5 opacity-0 group-hover:opacity-100 group-hover:-left-0.5 sm:group-hover:-left-2 transition-all -z-10" />
+              <span className="text-lg">Go back</span>
+            </Button>
+          )}
+          {!pathname.toString().match(/\/privacy/) && (
+            <Link href={pathname + "/privacy"}>
+              <Button
+                className="flex w-fit bg-background gap-2 items-center rounded-md px-4 py-2 font-normal max-w-[200px] group"
+                variant="ghost"
+              >
+                <span className="text-lg">Privacy</span>
+                <MoveRight className="absolute top-1/2 -translate-y-1/2 right-4 translate-x-full w-5 h-5 opacity-0 group-hover:opacity-100 group-hover:-right-0.5 sm:group-hover:-right-2 transition-all -z-10" />
+              </Button>
+            </Link>
+          )}
+        </div>
+        {children}
+      </div>
+    </PageWrapperContext.Provider>
+  );
+}
 
 interface Container {
   children: React.ReactNode;
@@ -8,11 +62,17 @@ interface Container {
 }
 
 export function Container({ children, orientation = "vertical" }: Container) {
+  const isWithinPageWrapper = useContext(PageWrapperContext);
+
+  if (!isWithinPageWrapper) {
+    throw new Error("Container must be used within a PageWrapper");
+  }
+
   return (
     <div
       className={cn(
         "flex gap-4",
-        orientation === "horizontal" ? "flex-row" : "flex-col"
+        orientation === "horizontal" ? "flex-row flex-wrap" : "flex-col"
       )}
     >
       {children}
@@ -25,6 +85,12 @@ interface HeadingProps extends React.HTMLAttributes<HTMLHeadingElement> {
 }
 
 export function Heading({ children, ...props }: HeadingProps) {
+  const isWithinPageWrapper = useContext(PageWrapperContext);
+
+  if (!isWithinPageWrapper) {
+    throw new Error("Heading must be used within a PageWrapper");
+  }
+
   return <h1 {...props}>{children}</h1>;
 }
 
@@ -34,6 +100,12 @@ interface TitleProps extends React.HTMLAttributes<HTMLHeadingElement> {
 }
 
 export function Title({ children, size, ...props }: TitleProps) {
+  const isWithinPageWrapper = useContext(PageWrapperContext);
+
+  if (!isWithinPageWrapper) {
+    throw new Error("Title must be used within a PageWrapper");
+  }
+
   switch (size) {
     case "small":
       return <h4 {...props}>{children}</h4>;
@@ -48,6 +120,12 @@ interface TextProps extends React.HTMLAttributes<HTMLSpanElement> {
 }
 
 export function Text({ children, className, ...props }: TextProps) {
+  const isWithinPageWrapper = useContext(PageWrapperContext);
+
+  if (!isWithinPageWrapper) {
+    throw new Error("Text must be used within a PageWrapper");
+  }
+
   return (
     <span className={cn(className)} {...props}>
       {children}
@@ -73,6 +151,12 @@ export function Button({
   variant = "default",
   ...props
 }: ButtonProps) {
+  const isWithinPageWrapper = useContext(PageWrapperContext);
+
+  if (!isWithinPageWrapper) {
+    throw new Error("Button must be used within a PageWrapper");
+  }
+
   return (
     <ShadcnButton
       className="w-fit py-3 px-5 rounded-md"
@@ -91,6 +175,12 @@ interface ImageWrapperProps {
 }
 
 export function ImageWrapper({ src, alt, size = "medium" }: ImageWrapperProps) {
+  const isWithinPageWrapper = useContext(PageWrapperContext);
+
+  if (!isWithinPageWrapper) {
+    throw new Error("ImageWrapper must be used within a PageWrapper");
+  }
+
   return (
     <Image
       src={src}
@@ -98,12 +188,12 @@ export function ImageWrapper({ src, alt, size = "medium" }: ImageWrapperProps) {
       width={1920}
       height={1080}
       className={cn(
-        "rounded-xl max-w-md aspect-auto",
+        "rounded-xl aspect-auto",
         size === "large"
-          ? "max-w-xl"
+          ? "sm:max-w-xl"
           : size === "small"
-          ? "max-w-sm"
-          : "max-w-md"
+          ? "sm:max-w-sm"
+          : "sm:max-w-md"
       )}
     />
   );

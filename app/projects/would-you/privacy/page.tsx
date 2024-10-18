@@ -6,8 +6,8 @@ import {
   ImageWrapper,
   Text,
   Title,
+  PageWrapper,
 } from "@/app/projects/components/elements";
-import { PageWrapper } from "@/app/projects/components/PageWrapper";
 
 export const metadata: Metadata = {
   title: "My Next Page",

@@ -12,8 +12,28 @@ import {
 import Head from "next/head";
 
 export const metadata: Metadata = {
-  title: "Cavescape | Rivo Projects",
-  description: "Cavescape is a co-op survival adventure game with one of the most fun mechanics around: Grappling Hooks! You play as Fred, a miner on a mission to make it back up the cave to be reunited with his best friend, Rocky the puppy, who was violently taken from him by Gorgath, the big ugly worm monster."
+  metadataBase: new URL("https://rivo.gg"),
+  alternates: {
+    canonical: "/",
+  },
+  title: "Cavescape - Rivo Projects",
+  description:
+   "Cavescape is a co-op survival adventure game with one of the most fun mechanics around: Grappling Hooks! You play as Fred, a miner on a mission to make it back up the cave to be reunited with his best friend, Rocky the puppy, who was violently taken from him by Gorgath, the big ugly worm monster.",
+  twitter: {
+    title: "Cavescape - Rivo Projects",
+    card: "summary_large_image",
+    description:
+      "Cavescape is a co-op survival adventure game with one of the most fun mechanics around: Grappling Hooks! You play as Fred, a miner on a mission to make it back up the cave to be reunited with his best friend, Rocky the puppy, who was violently taken from him by Gorgath, the big ugly worm monster.",
+  },
+  openGraph: {
+    title: "Cavescape - Rivo Projects",
+    description:
+      "Cavescape is a co-op survival adventure game with one of the most fun mechanics around: Grappling Hooks! You play as Fred, a miner on a mission to make it back up the cave to be reunited with his best friend, Rocky the puppy, who was violently taken from him by Gorgath, the big ugly worm monster.",
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 export const viewport: Viewport = {

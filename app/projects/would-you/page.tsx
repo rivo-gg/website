@@ -14,12 +14,34 @@ import {
 } from "@paulos-ui";
 
 export const metadata: Metadata = {
-  title: "Cavescape | Rivo Projects",
+  metadataBase: new URL("https://rivo.gg"),
+  alternates: {
+    canonical: "/",
+  },
+  title: "Would You - Rivo Projects",
+  description:
+   "Cavescape is a co-op survival adventure game with one of the most fun mechanics around: Grappling Hooks! You play as Fred, a miner on a mission to make it back up the cave to be reunited with his best friend, Rocky the puppy, who was violently taken from him by Gorgath, the big ugly worm monster.",
+  openGraph: {
+    title: 'Would You - The Discord Bot',
+    description:
+      'Would you lets you play Would You Rather, Never Have I Ever, Higher or Lower, Truth or Dare and What Would You Do on Discord!',
+    type: 'website',
+  },
+  twitter: {
+    title: 'Would You - The Discord Bot',
+    description:
+      'Would you lets you play Would You Rather, Never Have I Ever, Higher or Lower, Truth or Dare and What Would You Do on Discord!',
+    site: '@WouldYouBot'
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 export const viewport: Viewport = {
   maximumScale: 5,
-  themeColor: "#4876F2",
+  themeColor: "#0598f4",
 };
 
 export default function WouldYou() {

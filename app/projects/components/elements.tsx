@@ -1,0 +1,336 @@
+"use client";
+
+import { cn } from "@/lib/utils";
+import { Button as ShadcnButton } from "@/components/ui/button";
+import Image from "next/image";
+import { createContext, useContext } from "react";
+import { usePathname, useRouter } from "next/navigation";
+import { MoveLeft, MoveRight } from "lucide-react";
+import Link from "next/link";
+import Zoom from "react-medium-image-zoom";
+import "react-medium-image-zoom/dist/styles.css";
+import React from "react";
+
+interface PageWrapperProps {
+  children: React.ReactNode;
+  goBack?: boolean;
+}
+
+const PageWrapperContext = createContext(false);
+
+export function PageWrapper({ children, goBack = false }: PageWrapperProps) {
+  const router = useRouter();
+  const pathname = usePathname();
+
+  return (
+    <PageWrapperContext.Provider value={true}>
+      <div className="w-full max-w-7xl flex flex-col gap-4">
+        <div
+          className={cn(
+            "flex gap-4 relative",
+            goBack ? "justify-between" : "justify-end"
+          )}
+        >
+          {goBack && (
+            <Button
+              className="flex w-fit bg-background gap-2 items-center rounded-md px-4 py-2 font-normal max-w-[200px] group"
+              variant="ghost"
+              onClick={router.back}
+            >
+              <MoveLeft className="hidden sm:block absolute top-1/2 -translate-y-1/2 left-4 -translate-x-full w-5 h-5 opacity-0 group-hover:opacity-100 group-hover:-left-0.5 sm:group-hover:-left-2 transition-all -z-10" />
+              <span className="text-lg">Go back</span>
+            </Button>
+          )}
+          {!pathname.toString().match(/\/privacy/) && (
+            <Link href={pathname + "/privacy"}>
+              <Button
+                className="flex w-fit bg-background gap-2 items-center rounded-md px-4 py-2 font-normal max-w-[200px] group"
+                variant="ghost"
+              >
+                <span className="text-lg">Privacy</span>
+                <MoveRight className="hidden sm:block absolute top-1/2 -translate-y-1/2 right-4 translate-x-full w-5 h-5 opacity-0 group-hover:opacity-100 group-hover:-right-0.5 sm:group-hover:-right-2 transition-all -z-10" />
+              </Button>
+            </Link>
+          )}
+        </div>
+        {children}
+      </div>
+    </PageWrapperContext.Provider>
+  );
+}
+
+interface Container extends React.HTMLAttributes<HTMLDivElement> {
+  children: React.ReactNode;
+  orientation?: "horizontal" | "vertical";
+}
+
+export function Container({
+  children,
+  className,
+  orientation = "vertical",
+  ...props
+}: Container) {
+  const isWithinPageWrapper = useContext(PageWrapperContext);
+
+  if (!isWithinPageWrapper) {
+    throw new Error("Container must be used within a PageWrapper");
+  }
+
+  return (
+    <div
+      className={cn(
+        "flex gap-4",
+        orientation === "horizontal" ? "flex-row flex-wrap" : "flex-col",
+        className
+      )}
+      {...props}
+    >
+      {children}
+    </div>
+  );
+}
+
+interface HeadingProps extends React.HTMLAttributes<HTMLHeadingElement> {
+  children: React.ReactNode;
+}
+
+export function Heading({ children, ...props }: HeadingProps) {
+  const isWithinPageWrapper = useContext(PageWrapperContext);
+
+  if (!isWithinPageWrapper) {
+    throw new Error("Heading must be used within a PageWrapper");
+  }
+
+  return <h1 {...props}>{children}</h1>;
+}
+
+interface TitleProps extends React.HTMLAttributes<HTMLHeadingElement> {
+  children: React.ReactNode;
+  size?: "small" | "medium";
+}
+
+export function Title({ children, size, ...props }: TitleProps) {
+  const isWithinPageWrapper = useContext(PageWrapperContext);
+
+  if (!isWithinPageWrapper) {
+    throw new Error("Title must be used within a PageWrapper");
+  }
+
+  switch (size) {
+    case "small":
+      return <h4 {...props}>{children}</h4>;
+    default:
+      return <h3 {...props}>{children}</h3>;
+  }
+}
+
+interface TextProps extends React.HTMLAttributes<HTMLSpanElement> {
+  children: React.ReactNode;
+}
+
+export function Text({ children, className, ...props }: TextProps) {
+  const isWithinPageWrapper = useContext(PageWrapperContext);
+
+  if (!isWithinPageWrapper) {
+    throw new Error("Text must be used within a PageWrapper");
+  }
+
+  return (
+    <span className={cn(className)} {...props}>
+      {children}
+    </span>
+  );
+}
+
+interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
+  children: React.ReactNode;
+  variant?:
+    | "default"
+    | "secondary"
+    | "destructive"
+    | "outline"
+    | "ghost"
+    | "link"
+    | null
+    | undefined;
+}
+
+export function Button({
+  children,
+  className,
+  variant = "default",
+  ...props
+}: ButtonProps) {
+  const isWithinPageWrapper = useContext(PageWrapperContext);
+
+  if (!isWithinPageWrapper) {
+    throw new Error("Button must be used within a PageWrapper");
+  }
+
+  return (
+    <ShadcnButton
+      className={cn("w-fit py-3 px-5 rounded-md", className)}
+      variant={variant}
+      {...props}
+    >
+      {children}
+    </ShadcnButton>
+  );
+}
+
+interface ImageWrapperProps {
+  src: string;
+  alt: string;
+  size?: "small" | "medium" | "large" | "auto" | "full";
+  zoom?: boolean;
+}
+
+export function ImageWrapper({
+  src,
+  alt,
+  size = "medium",
+  zoom = false,
+}: ImageWrapperProps) {
+  const isWithinPageWrapper = useContext(PageWrapperContext);
+
+  if (!isWithinPageWrapper) {
+    throw new Error("ImageWrapper must be used within a PageWrapper");
+  }
+
+  function getSizeClass(size: string) {
+    switch (size) {
+      case "large":
+        return "w-full sm:max-w-xl";
+      case "small":
+        return "w-full sm:max-w-sm";
+      case "medium":
+        return "w-full sm:max-w-md";
+      case "auto":
+        return "w-auto";
+      case "full":
+        return "w-full";
+      default:
+        return "w-full sm:max-w-md";
+    }
+  }
+
+  if (zoom)
+    return (
+      <Zoom>
+        <Image
+          src={src}
+          alt={alt}
+          width={1920}
+          height={1080}
+          className={cn("rounded-xl aspect-auto", getSizeClass(size))}
+        />
+      </Zoom>
+    );
+
+  return (
+    <Image
+      src={src}
+      alt={alt}
+      width={1920}
+      height={1080}
+      className={cn("rounded-xl aspect-auto", getSizeClass(size))}
+    />
+  );
+}
+
+const ListContext = createContext(false);
+
+interface ListProps extends React.HTMLAttributes<HTMLUListElement> {
+  children: React.ReactNode;
+  position?: "inside" | "outside";
+  listStyle?: "disc" | "decimal" | "none";
+}
+
+export function List({
+  children,
+  position = "inside",
+  listStyle = "disc",
+  className,
+  ...props
+}: ListProps) {
+  const isWithinPageWrapper = useContext(PageWrapperContext);
+
+  if (!isWithinPageWrapper) {
+    throw new Error("List must be used within a PageWrapper");
+  }
+
+  return (
+    <ListContext.Provider value={true}>
+      <ul
+        className={cn(`list-${listStyle} list-${position}`, className)}
+        {...props}
+      >
+        {children}
+      </ul>
+    </ListContext.Provider>
+  );
+}
+
+interface ListItemProps extends React.HTMLAttributes<HTMLLIElement> {
+  children: React.ReactNode;
+}
+
+export function ListItem({ children, ...props }: ListItemProps) {
+  const isWithinList = useContext(ListContext);
+
+  if (!isWithinList) {
+    throw new Error("ListItem must be used within a List");
+  }
+
+  return (
+    <li {...props}>
+      <Text>{children}</Text>
+    </li>
+  );
+}
+
+const GridContext = createContext(false);
+
+interface GridProps extends React.HTMLAttributes<HTMLDivElement> {
+  children: React.ReactNode;
+}
+
+export function Grid({ children, className, ...props }: GridProps) {
+  const isWithinPageWrapper = useContext(PageWrapperContext);
+
+  if (!isWithinPageWrapper) {
+    throw new Error("List must be used within a PageWrapper");
+  }
+
+  return (
+    <GridContext.Provider value={true}>
+      <div
+        className={cn(
+          "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4",
+          className
+        )}
+        {...props}
+      >
+        {children}
+      </div>
+    </GridContext.Provider>
+  );
+}
+
+interface GridItemProps extends React.HTMLAttributes<HTMLDivElement> {
+  children: React.ReactNode;
+}
+
+export function GridItem({ children, className, ...props }: GridItemProps) {
+  const isWithinGrid = useContext(GridContext);
+
+  if (!isWithinGrid) {
+    throw new Error("GridItem must be used within a Grid");
+  }
+
+  return (
+    <div className={cn("max-w-full", className)} {...props}>
+      {children}
+    </div>
+  );
+}

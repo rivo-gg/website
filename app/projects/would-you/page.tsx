@@ -1,4 +1,4 @@
-import { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import {
   Button,
   Container,
@@ -14,7 +14,12 @@ import {
 } from "@paulos-ui";
 
 export const metadata: Metadata = {
-  title: "My Next Page",
+  title: "Cavescape | Rivo Projects",
+};
+
+export const viewport: Viewport = {
+  maximumScale: 5,
+  themeColor: "#4876F2",
 };
 
 export default function WouldYou() {

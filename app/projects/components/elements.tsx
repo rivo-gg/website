@@ -9,7 +9,7 @@ import { MoveLeft, MoveRight } from "lucide-react";
 import Link from "next/link";
 import Zoom from "react-medium-image-zoom";
 import "react-medium-image-zoom/dist/styles.css";
-import React from "react";
+import type React from "react";
 
 interface PageWrapperProps {
   children: React.ReactNode;
@@ -42,7 +42,7 @@ export function PageWrapper({ children, goBack = false }: PageWrapperProps) {
             </Button>
           )}
           {!pathname.toString().match(/\/privacy/) && (
-            <Link href={pathname + "/privacy"}>
+            <Link href={`${pathname}/privacy`}>
               <Button
                 className="flex w-fit bg-background gap-2 items-center rounded-md px-4 py-2 font-normal max-w-[200px] group"
                 variant="ghost"

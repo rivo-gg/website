@@ -6,6 +6,8 @@ import { useTheme } from "next-themes";
 import { Barlow } from "next/font/google";
 import { AbstractSVG } from "./abstract-svg";
 import Link from "next/link";
+import { useState, useEffect } from "react";
+import Image from "next/image";
 
 const barlow = Barlow({
   subsets: ["latin"],
@@ -14,6 +16,22 @@ const barlow = Barlow({
 
 export function Hero() {
   const { theme } = useTheme();
+	const [isMobile, setIsMobile] = useState(false);
+
+  useEffect(() => {
+    const handleResize = () => {
+      setIsMobile(window.innerWidth < 768); // Set the breakpoint for mobile (768px)
+    };
+
+    // Check the screen size on initial load
+    handleResize();
+
+    // Add event listener for screen resizing
+    window.addEventListener('resize', handleResize);
+
+    // Cleanup event listener on component unmount
+    return () => window.removeEventListener('resize', handleResize);
+  }, []);
   return (
     <section
       id="hero"
@@ -79,7 +97,20 @@ export function Hero() {
           <Button>Contact Us</Button>
         </div>
       </div>
-      <AbstractSVG className="opacity-100% absolute bottom-0 left-1/2 h-full !w-[1800px] -translate-x-1/2 md:w-10/12" />
+			{isMobile ? (
+        // Render PNG on mobile devices
+        <Image
+          src="/Abstract-Design.png"
+          alt="Abstract Background Design"
+					layout="intrinsic"
+          width="1596"
+					height="448"
+          className="absolute bottom-0 left-1/2 transform -translate-x-1/2 w-[1800px] md:w-10/12 h-auto"
+        />
+      ) : (
+        // Render AbstractSVG on larger screens
+        <AbstractSVG className="opacity-100% absolute bottom-0 left-1/2 h-full !w-[1800px] -translate-x-1/2 md:w-10/12" />
+      )}
     </section>
   );
 }

@@ -7,7 +7,11 @@ import {
   Text,
   Title,
   PageWrapper,
-} from "@/app/projects/components/elements";
+  List,
+  ListItem,
+  Grid,
+  GridItem,
+} from "@paulos-ui";
 
 export const metadata: Metadata = {
   title: "My Next Page",
@@ -34,7 +38,40 @@ export default function WouldYou() {
         src="/projects/would-you/showcase.png"
         alt="Would You Bot Showcase"
         size="large"
+        zoom
       />
+      <List>
+        <ListItem>Item 1</ListItem>
+        <ListItem>Item 2</ListItem>
+        <ListItem>Item 3</ListItem>
+        <ListItem>Item 4</ListItem>
+      </List>
+      <Grid>
+        <GridItem>
+          <ImageWrapper
+            src="/projects/would-you/showcase.png"
+            alt="Would You Bot Showcase"
+            size="auto"
+            zoom
+          />
+        </GridItem>
+        <GridItem>
+          <ImageWrapper
+            src="/projects/would-you/showcase.png"
+            alt="Would You Bot Showcase"
+            size="auto"
+            zoom
+          />
+        </GridItem>
+        <GridItem>
+          <ImageWrapper
+            src="/projects/would-you/showcase.png"
+            alt="Would You Bot Showcase"
+            size="auto"
+            zoom
+          />
+        </GridItem>
+      </Grid>
     </PageWrapper>
   );
 }

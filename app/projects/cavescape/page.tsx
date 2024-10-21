@@ -47,20 +47,24 @@ export const viewport: Viewport = {
 
 const requirements: SystemRequirements = {
   minimum: {
-    os: " Windows 10",
-    processor: "Core i5 2.8GHz or equivalent",
+    info: "Requires a 64-bit processor and operating system",
+    os: " Windows 10 or later (64-Bit)",
+    processor: "i5-3570 3.4 Ghz 4 Core",
     memory: "8 GB RAM",
     graphics:
-      "NVIDIA GeForce GTX 660, AMD Radeon HD 7870 or equivalent DX11 GPU",
-    storage: "5 GB available space",
+      "NVIDIA GeForce GTX 1660/GTX 1050-Ti, or AMD RX 470/RX 570, or equivalent performance & VRAM",
+    storage: "20 GB available space",
+    additional: "Internet connection required for multiplayer.",
   },
   recommended: {
-    os: "Windows 10",
-    processor: "Core i5 2.8GHz or equivalent",
-    memory: "8 GB RAM",
-    graphics:
-      "NVIDIA GeForce GTX 660 or AMD Radeon HD 7870 or equivalent DX11 GPU",
-    storage: "5 GB available space",
+    info: "Requires a 64-bit processor and operating system",
+    os: " Windows 11 or later (64-Bit)",
+    processor:
+      "Ryzen 5 5600X or i5-12400 or equivalent performance, 6 physical cores minimum",
+    memory: "16 GB RAM",
+    graphics: "NVIDIA RTX 2070 or RX 5700, or equivalent performance & VRAM",
+    storage: "20 GB available space",
+    additional: "Internet connection required for multiplayer.",  
   },
 };
 

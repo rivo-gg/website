@@ -107,9 +107,15 @@ export function Heading({ children, ...props }: HeadingProps) {
 interface TitleProps extends React.HTMLAttributes<HTMLHeadingElement> {
   children: React.ReactNode;
   size?: "small" | "medium";
+  separator?: boolean;
 }
 
-export function Title({ children, size, ...props }: TitleProps) {
+export function Title({
+  children,
+  size,
+  separator = false,
+  ...props
+}: TitleProps) {
   const isWithinPageWrapper = useContext(PageWrapperContext);
 
   if (!isWithinPageWrapper) {
@@ -118,9 +124,23 @@ export function Title({ children, size, ...props }: TitleProps) {
 
   switch (size) {
     case "small":
-      return <h4 {...props}>{children}</h4>;
+      return separator ? (
+        <div className="flex flex-col">
+          <h4 {...props}> {children}</h4>
+          <hr className="mb-4 mt-2" />
+        </div>
+      ) : (
+        <h4 {...props}>{children}</h4>
+      );
     default:
-      return <h3 {...props}>{children}</h3>;
+      return separator ? (
+        <div className="flex flex-col">
+          <h3 {...props}> {children}</h3>
+          <hr className="mb-4 mt-2" />
+        </div>
+      ) : (
+        <h3 {...props}>{children}</h3>
+      );
   }
 }
 
@@ -334,3 +354,118 @@ export function GridItem({ children, className, ...props }: GridItemProps) {
     </div>
   );
 }
+
+interface SystemRequirementsWrapperProps {
+  requirements: SystemRequirements;
+}
+
+export interface SystemRequirements {
+  minimum: {
+    info?: string;
+    os: string;
+    processor: string;
+    memory: string;
+    graphics: string;
+    storage: string;
+    additional?: string;
+  };
+  recommended?: {
+    info?: string;
+    os: string;
+    processor: string;
+    memory: string;
+    graphics: string;
+    storage: string;
+    additional?: string;
+  };
+}
+
+export function SystemRequirementsWrapper({
+  requirements,
+}: SystemRequirementsWrapperProps) {
+  const isWithinPageWrapper = useContext(PageWrapperContext);
+
+  if (!isWithinPageWrapper) {
+    throw new Error("List must be used within a PageWrapper");
+  }
+
+  const rm = requirements.minimum;
+  const rr = requirements.recommended;
+  return (
+    <div className="flex flex-col">
+      <Title separator>System Requirements</Title>
+      <div className="flex flex-col gap-4 sm:flex-row sm:gap-12">
+        {rm && (
+          <div className="flex flex-col max-w-md gap-1.5">
+            <Text className="text-xl">Minimum:</Text>
+            {rm.info && (
+              <ItemWrapper>
+                <Text>{rm.info}</Text>
+              </ItemWrapper>
+            )}
+            <ItemWrapper>
+              <SubText>OS:</SubText> <Text>{rm.os}</Text>
+            </ItemWrapper>
+            <ItemWrapper>
+              <SubText>Processor:</SubText> <Text>{rm.processor}</Text>
+            </ItemWrapper>
+            <ItemWrapper>
+              <SubText>Memory:</SubText> <Text>{rm.memory}</Text>
+            </ItemWrapper>
+            <ItemWrapper>
+              <SubText>Graphics:</SubText> <Text>{rm.graphics}</Text>
+            </ItemWrapper>
+            <ItemWrapper>
+              <SubText>Storage:</SubText> <Text>{rm.storage}</Text>
+            </ItemWrapper>
+            {rm.additional && (
+              <ItemWrapper>
+                <SubText>Additional Notes:</SubText>{" "}
+                <Text>{rm.additional}</Text>
+              </ItemWrapper>
+            )}
+          </div>
+        )}
+        {rr && (
+          <div className="flex flex-col max-w-md gap-1.5">
+            <Text className="text-xl">Recommended:</Text>
+            {rr.info && (
+              <ItemWrapper>
+                <Text>{rr.info}</Text>
+              </ItemWrapper>
+            )}
+            <ItemWrapper>
+              <SubText>OS:</SubText> <Text>{rr.os}</Text>
+            </ItemWrapper>
+            <ItemWrapper>
+              <SubText>Processor:</SubText> <Text>{rr.processor}</Text>
+            </ItemWrapper>
+            <ItemWrapper>
+              <SubText>Memory:</SubText> <Text>{rr.memory}</Text>
+            </ItemWrapper>
+            <ItemWrapper>
+              <SubText>Graphics:</SubText> <Text>{rr.graphics}</Text>
+            </ItemWrapper>
+            <ItemWrapper>
+              <SubText>Storage:</SubText> <Text>{rr.storage}</Text>
+            </ItemWrapper>
+            {rr.additional && (
+              <ItemWrapper>
+                <SubText>Additional Notes:</SubText>{" "}
+                <Text>{rr.additional}</Text>
+              </ItemWrapper>
+            )}
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
+
+const SubText = ({ children }: { children: React.ReactNode }) => (
+  <Text className="text-foreground/50">{children}</Text>
+);
+
+const ItemWrapper = ({ children }: { children: React.ReactNode }) => (
+  <span className="leading-tight">{children}</span>
+);

@@ -10,6 +10,8 @@ import {
   GridItem,
   List,
   ListItem,
+  SystemRequirementsWrapper,
+  SystemRequirements,
 } from "@paulos-ui";
 import Head from "next/head";
 
@@ -41,6 +43,25 @@ export const metadata: Metadata = {
 export const viewport: Viewport = {
   maximumScale: 5,
   themeColor: "#4876F2",
+};
+
+const requirements: SystemRequirements = {
+  minimum: {
+    os: " Windows 10",
+    processor: "Core i5 2.8GHz or equivalent",
+    memory: "8 GB RAM",
+    graphics:
+      "NVIDIA GeForce GTX 660, AMD Radeon HD 7870 or equivalent DX11 GPU",
+    storage: "5 GB available space",
+  },
+  recommended: {
+    os: "Windows 10",
+    processor: "Core i5 2.8GHz or equivalent",
+    memory: "8 GB RAM",
+    graphics:
+      "NVIDIA GeForce GTX 660 or AMD Radeon HD 7870 or equivalent DX11 GPU",
+    storage: "5 GB available space",
+  },
 };
 
 export default function Cavescape() {
@@ -81,11 +102,12 @@ export default function Cavescape() {
           The indie world is getting a fresh new entry in the realm of
           destructive procedurally-generated environments from an exciting new
           talent. Founded in 2024 by Viktor Anschütz, GargantuaGames is now home
-          to his son Joshua&apos;s dream project, Cavescape. The game is also in good
-          hands with publisher Rivo, an indie company founded in 2023 by Dominik
-          Koch. With a track record of working with major brands like Universal
-          Music Group and earning recognition on platforms like Discord, Koch
-          brings valuable experience and credibility to the project.
+          to his son Joshua&apos;s dream project, Cavescape. The game is also in
+          good hands with publisher Rivo, an indie company founded in 2023 by
+          Dominik Koch. With a track record of working with major brands like
+          Universal Music Group and earning recognition on platforms like
+          Discord, Koch brings valuable experience and credibility to the
+          project.
         </Text>
 
         <Title>Key Features of Cavescape:</Title>
@@ -93,30 +115,30 @@ export default function Cavescape() {
           <ListItem>● Engaging co-op gameplay </ListItem>
           <ListItem>● Unique grappling hook mechanics </ListItem>
           <ListItem>
-            ● Innovative checkpoint system for strategic choices{" "}
+            ● Innovative checkpoint system for strategic choices
           </ListItem>
           <ListItem>● Fully destructible environments</ListItem>
         </List>
 
         <Title>Man&apos;s Best Friend </Title>
         <Text>
-          Let&apos;s get to the biggest selling point of Cavescape: the game has a
-          dog. Players can grab a friend in engaging co-op gameplay and take on
-          the role of Fred, a determined miner whose best friend, Rocky, has
+          Let&apos;s get to the biggest selling point of Cavescape: the game has
+          a dog. Players can grab a friend in engaging co-op gameplay and take
+          on the role of Fred, a determined miner whose best friend, Rocky, has
           been snatched by the terrifying Gorgath, adding an emotional layer to
           the adventure. This mission to rescue Rocky fuels the journey, driving
           players to race upward through the dangerous caves, master the unique
-          grappling hook mechanics, and outsmart the cave&apos;s many threats—all for
-          man&apos;s best friend.
+          grappling hook mechanics, and outsmart the cave&apos;s many
+          threats—all for man&apos;s best friend.
         </Text>
         <Title>A Unique Checkpoint System</Title>
         <Text>
-          It isn&apos;t enough to rescue a beloved dog and dig a way up. Cavescape
-          features a unique checkpoint system designed to add an exciting,
-          albeit anxiety-inducing, twist to the game. Players must make the
-          treacherous climb to the top deciding whether to claim a respawn point
-          or destroy it for cash to upgrade their weapons. Having a unique
-          checkpoint system encourages players to develop their own
+          It isn&apos;t enough to rescue a beloved dog and dig a way up.
+          Cavescape features a unique checkpoint system designed to add an
+          exciting, albeit anxiety-inducing, twist to the game. Players must
+          make the treacherous climb to the top deciding whether to claim a
+          respawn point or destroy it for cash to upgrade their weapons. Having
+          a unique checkpoint system encourages players to develop their own
           cave-climbing strategies. Will survival be the priority, or will the
           thrill of risk for more power? Do players prefer hardcore gameplay
           that involves taking big risks, or is it safer to play cautiously and
@@ -190,6 +212,7 @@ export default function Cavescape() {
             />
           </GridItem>
         </Grid>
+        <SystemRequirementsWrapper requirements={requirements} />
       </PageWrapper>
     </>
   );

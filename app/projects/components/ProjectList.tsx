@@ -107,7 +107,7 @@ export async function ProjectList() {
               <span className="text-xl text-foreground line-clamp-2">
                 {project.title}
               </span>
-              <span className="text-sm max-w-xs line-clamp-3">
+              <span className="text-sm max-w-[225px] line-clamp-5">
                 {project.description}
               </span>
             </div>

@@ -47,26 +47,26 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <><head>
       <script
         defer
         data-domain="rivo.gg"
-        src="https://stats.wouldyoubot.gg/js/script.js"
-      />
-      <body
-        className={cn("flex min-h-screen w-screen flex-col", barlow.className)}
-      >
-        <ThemeProvider
-          attribute="class"
-          defaultTheme="dark"
-          enableSystem
-          disableTransitionOnChange
+        src="https://stats.wouldyoubot.gg/js/script.js" />
+    </head><html lang="en">
+        <body
+          className={cn("flex min-h-screen w-screen flex-col", barlow.className)}
         >
-          <Navbar />
-          {children}
-          <Footer />
-        </ThemeProvider>
-      </body>
-    </html>
+          <ThemeProvider
+            attribute="class"
+            defaultTheme="dark"
+            enableSystem
+            disableTransitionOnChange
+          >
+            <Navbar />
+            {children}
+            <Footer />
+          </ThemeProvider>
+        </body>
+      </html></>
   );
 }

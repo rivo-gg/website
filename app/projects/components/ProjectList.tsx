@@ -1,6 +1,6 @@
 "use server";
 
-import { ArrowLeft, ArrowRight } from "lucide-react";
+import { ArrowRight } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import { cn } from "@/lib/utils";
@@ -30,7 +30,7 @@ export async function ProjectList() {
     <div className="w-full relative flex flex-col items-center lg:items-start overflow-hidden gap-[2px]">
       {projects.map((project, index) => (
         <div
-          key={index}
+          key={project.title}
           className="flex flex-col sm:flex-row gap-2 justify-between w-full max-w-2xl lg:max-w-full"
         >
           <div className="hidden sm:flex flex-col lg:items-center justify-center w-fit relative min-w-[200px] lg:min-w-[250px] pb-6">
@@ -39,14 +39,14 @@ export async function ProjectList() {
                 "absolute left-0 lg:left-1/2 lg:-translate-x-1/2 top-0 w-8 h-32 bg-gradient-to-b from-background z-20",
                 index === 0 ? "block" : "hidden"
               )}
-            ></div>
+            />
             <div
               className={cn(
                 "absolute left-0 lg:left-1/2 lg:-translate-x-1/2 bottom-0 w-8 h-32 bg-gradient-to-t from-background z-20",
                 index === projects.length - 1 ? "block" : "hidden"
               )}
-            ></div>
-            <div className="absolute left-[9px] lg:left-1/2 lg:-translate-x-1/2 top-0 h-full border border-foreground/25 border-dashed"></div>
+            />
+            <div className="absolute left-[9px] lg:left-1/2 lg:-translate-x-1/2 top-0 h-full border border-foreground/25 border-dashed" />
             <div className="w-5 h-5 rounded-full bg-primary z-30 relative">
               <span
                 className={cn(
@@ -78,7 +78,7 @@ export async function ProjectList() {
               "hidden relative lg:flex flex-wrap items-center justify-between rounded-lg sm:flex-row sm:gap-6 gap-4 overflow-hidden group w-full max-w-[425px] h-[200px]",
               index % 2 === 0 ? "order-last" : "order-first"
             )}
-          ></div>
+          />
           <span className="sm:hidden text-lg order-first text-center">
             {project.date.toLocaleDateString("en-US", dateOptions)}
           </span>

@@ -2,6 +2,7 @@ import { Hero } from "@/components/hero";
 import { SocialProfileJsonLd, OrganizationJsonLd } from "next-seo";
 import { MarqueeWrapper } from "@/components/marquee";
 import { Testimonials } from "@/components/testimonials";
+import { AboutOwnerBox } from "@/components/ownerBox";
 
 export default function Home() {
 	return (
@@ -42,6 +43,7 @@ export default function Home() {
 			<Hero />
 			<MarqueeWrapper />
 			<Testimonials />
+			<AboutOwnerBox />
 		</main>
 	);
 }

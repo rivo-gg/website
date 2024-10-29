@@ -81,7 +81,7 @@ export default function Cavescape() {
         }
       `}
       />
-      <PageWrapper goBack>
+      <PageWrapper goBack hasPrivacy>
         <Heading>Cavescape</Heading>
 
         <Text>

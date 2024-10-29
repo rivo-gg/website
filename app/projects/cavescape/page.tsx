@@ -13,7 +13,6 @@ import {
 	type SystemRequirements,
 } from "@paulos-ui";
 import { Schema } from "@/components/Schema";
-import { Head } from "next/document";
 
 export const metadata: Metadata = {
 	metadataBase: new URL("https://rivo.gg"),
@@ -69,7 +68,6 @@ const requirements: SystemRequirements = {
 export default function Cavescape() {
 	return (
 		<>
-			<Head>
 				<Schema
 					json={`
         {
@@ -81,7 +79,6 @@ export default function Cavescape() {
         }
       `}
 				/>
-			</Head>
 			<PageWrapper goBack>
 				<Heading>Cavescape</Heading>
 

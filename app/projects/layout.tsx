@@ -1,15 +1,6 @@
-import { Footer } from "@/components/footer";
-import { Navbar } from "@/components/navbar";
-import { cn } from "@/lib/utils";
 import type { Metadata, Viewport } from "next";
-import { ThemeProvider } from "next-themes";
-import { Barlow } from "next/font/google";
 import "@/app/globals.css";
-
-const barlow = Barlow({
-  subsets: ["latin"],
-  weight: ["400", "500", "600", "700"],
-});
+import "./styles.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://rivo.gg"),
@@ -37,7 +28,7 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = {
-  maximumScale: 5,
+  maximumScale: 1,
   themeColor: "#4876F2",
 };
 
@@ -47,26 +38,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <><head>
-      <script
-        defer
-        data-domain="rivo.gg"
-        src="https://stats.wouldyoubot.gg/js/script.js" />
-    </head><html lang="en">
-        <body
-          className={cn("flex min-h-screen w-screen flex-col", barlow.className)}
-        >
-          <ThemeProvider
-            attribute="class"
-            defaultTheme="dark"
-            enableSystem
-            disableTransitionOnChange
-          >
-            <Navbar />
-            {children}
-            <Footer />
-          </ThemeProvider>
-        </body>
-      </html></>
+    <main className="flex flex-col flex-1 items-center pt-28 px-6">
+      {children}
+    </main>
   );
 }

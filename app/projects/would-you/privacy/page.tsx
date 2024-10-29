@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-	title: "Rivo - Privacy Policy",
+	title: "Would You - Privacy Policy",
 };
 
 export default function Page() {

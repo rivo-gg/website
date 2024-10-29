@@ -72,13 +72,13 @@ const TestimonialCard = ({ author, job, link, avatar, content, className }: Test
 		>
 			<span className="text-lg font-extralight">
 				<span className="text-xl text-primary">&quot;</span>
-				{parts.map((part) =>
+				{parts.map((part, index) =>
 					part === "Rivo" ? (
-						<span key={part} className="text-primary">
+						<span key={index} className="text-primary">
 							{part}
 						</span>
 					) : (
-						<span key={part}>{part}</span>
+						<span key={index}>{part}</span>
 					),
 				)}
 				<span className="text-xl text-primary">&quot;</span>

@@ -1,7 +1,7 @@
 {
 	"$schema": "https://biomejs.dev/schemas/1.9.3/schema.json",
 	"files": {
-		"ignore": [".vscode/launch.json", "packages/api/bruno/", "patches/", "mee6-levels.json"],
+		"ignore": [".vscode/launch.json"],
 		"ignoreUnknown": true,
 		"maxSize": 5000000
 	},

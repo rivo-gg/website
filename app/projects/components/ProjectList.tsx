@@ -6,6 +6,7 @@ import Link from "next/link";
 import { cn } from "@/lib/utils";
 import { ProjectArrow } from "@/icons";
 import { projects } from "@/data/projects";
+import type { Project } from "@/interfaces/projects";
 
 export async function ProjectList() {
   const projectPath = (project: any) => {
@@ -28,7 +29,11 @@ export async function ProjectList() {
 
   return (
     <div className="w-full relative flex flex-col items-center lg:items-start overflow-hidden gap-[2px]">
-      {projects.map((project, index) => (
+      {projects
+      .sort((olderProject: Project, newerProject: Project) => 
+        newerProject.date.getTime() - olderProject.date.getTime()
+      )
+      .map((project, index) => (
         <div
           key={project.title}
           className="flex flex-col sm:flex-row gap-2 justify-between w-full max-w-2xl lg:max-w-full"

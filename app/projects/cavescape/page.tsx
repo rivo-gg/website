@@ -13,6 +13,7 @@ import {
   SystemRequirementsWrapper,
   type SystemRequirements,
 } from "@paulos-ui";
+import Head from "next/head";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://rivo.gg"),
@@ -70,6 +71,7 @@ const requirements: SystemRequirements = {
 export default function Cavescape() {
   return (
     <>
+    <Head>
         <VideoGameJsonLd
           name="Cavescape"
           languageName={["English", "German"]}
@@ -96,6 +98,7 @@ export default function Cavescape() {
           applicationCategory="GameApplication"
           keywords="cavescape, indie, action, adventure"
         />
+        </Head>
       <PageWrapper goBack>
         <Heading>Cavescape</Heading>
 

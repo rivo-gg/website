@@ -14,11 +14,16 @@ import type React from "react";
 interface PageWrapperProps {
   children: React.ReactNode;
   goBack?: boolean;
+  hasPrivacy?: boolean;
 }
 
 const PageWrapperContext = createContext(false);
 
-export function PageWrapper({ children, goBack = false }: PageWrapperProps) {
+export function PageWrapper({
+  children,
+  goBack = false,
+  hasPrivacy = false,
+}: PageWrapperProps) {
   const router = useRouter();
   const pathname = usePathname();
 
@@ -41,7 +46,7 @@ export function PageWrapper({ children, goBack = false }: PageWrapperProps) {
               <span className="text-lg">Go back</span>
             </Button>
           )}
-          {!pathname.toString().match(/\/privacy/) && (
+          {hasPrivacy && !pathname.toString().match(/\/privacy/) && (
             <Link href={`${pathname}/privacy`}>
               <Button
                 className="flex w-fit bg-background gap-2 items-center rounded-md px-4 py-2 font-normal max-w-[200px] group"

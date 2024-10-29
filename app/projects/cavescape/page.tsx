@@ -72,7 +72,7 @@ export default function Cavescape() {
 					json={`
         {
   "@context": "https://schema.org",
-  "@type": ["VideoGame", "MobileApplication", "GameApplication"],
+  "@type": "GameApplication",
   "name": "Cavescape",
   "description": "Cavescape is a co-op survival adventure game with one of the most fun mechanics around: Grappling Hooks! You play as Fred, a miner on a mission to make it back up the cave to be reunited with his best friend, Rocky the puppy, who was violently taken from him by Gorgath, the big ugly worm monster.",
   "operatingSystem": ["ANDROID", "IOS", "WINDOWS"],
@@ -82,7 +82,17 @@ export default function Cavescape() {
     "@type": "Organization",
     "name": "Rivo",
     "legalName": "Dominik Koch",
-    "founder": "Dominik Koch",
+    "founder": "Dominik Koch"
+  },
+	"developer": {
+    "@type": "Organization",
+    "name": "GargantuaGames",
+    "legalName": "GargantuaGames",
+    "founder": "Joshua Anschütz",
+    "parentOrganization": {
+      "@type": "Person",
+      "name": "Viktor Anschütz"
+    }
   },
   "offers": {
     "@type": "Offer",
@@ -95,12 +105,7 @@ export default function Cavescape() {
   "platform": ["PC", "Mobile"],
   "gamePlatform": ["ANDROID", "IOS", "WINDOWS"],
   "softwareVersion": "1.0",
-  "url": "https://store.steampowered.com/app/3094540/Cavescape/",
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "TBA",
-    "reviewCount": "0"
-  }
+  "url": "https://store.steampowered.com/app/3094540/Cavescape/"
 }
 
       `}

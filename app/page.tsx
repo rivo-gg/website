@@ -2,7 +2,7 @@ import { Hero } from "@/components/hero";
 import { SocialProfileJsonLd, OrganizationJsonLd } from "next-seo";
 import { MarqueeWrapper } from "@/components/marquee";
 import { Testimonials } from "@/components/testimonials";
-import { AboutOwnerBox } from "@/components/ownerBox";
+import { AboutOwnerBox } from "@/components/founder-box";
 
 export default function Home() {
 	return (

@@ -89,7 +89,7 @@ export default function Cavescape() {
           The indie world is getting a fresh new entry in the realm of
           destructive procedurally-generated environments from an exciting new
           talent. Founded in 2024 by Viktor Anschütz, GargantuaGames is now home
-          to his son Joshua&apos;s dream project, Cavescape. The game is also in
+          to his son Joshua Anschütz&apos;s dream project, Cavescape. The game is also in
           good hands with publisher Rivo, an indie company founded in 2023 by
           Dominik Koch. With a track record of working with major brands like
           Universal Music Group and earning recognition on platforms like

@@ -11,6 +11,9 @@ import {
   ListItem,
   Grid,
   GridItem,
+  ImageGallery,
+  AccordionWrapper,
+  SteamWishlistButton,
 } from "@paulos-ui";
 
 export const metadata: Metadata = {
@@ -20,18 +23,18 @@ export const metadata: Metadata = {
   },
   title: "Would You - Rivo Projects",
   description:
-   "Cavescape is a co-op survival adventure game with one of the most fun mechanics around: Grappling Hooks! You play as Fred, a miner on a mission to make it back up the cave to be reunited with his best friend, Rocky the puppy, who was violently taken from him by Gorgath, the big ugly worm monster.",
+    "Cavescape is a co-op survival adventure game with one of the most fun mechanics around: Grappling Hooks! You play as Fred, a miner on a mission to make it back up the cave to be reunited with his best friend, Rocky the puppy, who was violently taken from him by Gorgath, the big ugly worm monster.",
   openGraph: {
-    title: 'Would You - The Discord Bot',
+    title: "Would You - The Discord Bot",
     description:
-      'Would you lets you play Would You Rather, Never Have I Ever, Higher or Lower, Truth or Dare and What Would You Do on Discord!',
-    type: 'website',
+      "Would you lets you play Would You Rather, Never Have I Ever, Higher or Lower, Truth or Dare and What Would You Do on Discord!",
+    type: "website",
   },
   twitter: {
-    title: 'Would You - The Discord Bot',
+    title: "Would You - The Discord Bot",
     description:
-      'Would you lets you play Would You Rather, Never Have I Ever, Higher or Lower, Truth or Dare and What Would You Do on Discord!',
-    site: '@WouldYouBot'
+      "Would you lets you play Would You Rather, Never Have I Ever, Higher or Lower, Truth or Dare and What Would You Do on Discord!",
+    site: "@WouldYouBot",
   },
   robots: {
     index: true,
@@ -43,6 +46,17 @@ export const viewport: Viewport = {
   maximumScale: 5,
   themeColor: "#0598f4",
 };
+
+const images = [
+  { src: "/projects/would-you/showcase.png", alt: "Would You Bot Showcase" },
+  { src: "/projects/would-you/showcase.png", alt: "Would You Bot Showcase" },
+  { src: "/projects/would-you/showcase.png", alt: "Would You Bot Showcase" },
+  { src: "/projects/would-you/showcase.png", alt: "Would You Bot Showcase" },
+  { src: "/projects/would-you/showcase.png", alt: "Would You Bot Showcase" },
+  { src: "/projects/would-you/showcase.png", alt: "Would You Bot Showcase" },
+  { src: "/projects/would-you/showcase.png", alt: "Would You Bot Showcase" },
+  { src: "/projects/would-you/showcase.png", alt: "Would You Bot Showcase" },
+];
 
 export default function WouldYou() {
   return (
@@ -99,6 +113,30 @@ export default function WouldYou() {
           />
         </GridItem>
       </Grid>
+      <ImageGallery images={images} />
+      <AccordionWrapper
+        title="Frequently Asked Questions"
+        questions={[
+          {
+            question: "Who is more handsome, Paulos or Dominik?",
+            answer: "It's a tough question but I'd say it's Paulos.",
+          },
+          {
+            question: "Who is more handsome, Paulos or Dominik?",
+            answer: "Logically it's Paulos.",
+          },
+          {
+            question: "Who is more handsome, Paulos or Dominik?",
+            answer: "Well to be honest, i believe it's Paulos.",
+          },
+          {
+            question: "Who is more handsome, Paulos or Dominik?",
+            answer:
+              "Now you got me there, but in my most honest opinion, it's not Dominik.",
+          },
+        ]}
+      />
+      <SteamWishlistButton url="" />
     </PageWrapper>
   );
 }

@@ -153,7 +153,7 @@ export default function Cavescape() {
           <GridItem>
             <ImageWrapper
               src="/projects/cavescape/Screenshot_1.png"
-              alt="Would You Bot Showcase"
+              alt="Cavescape Showcase 1"
               size="auto"
               zoom
             />
@@ -161,7 +161,7 @@ export default function Cavescape() {
           <GridItem>
             <ImageWrapper
               src="/projects/cavescape/Screenshot_2.png"
-              alt="Would You Bot Showcase"
+              alt="Cavescape Showcase 2"
               size="auto"
               zoom
             />
@@ -169,7 +169,7 @@ export default function Cavescape() {
           <GridItem>
             <ImageWrapper
               src="/projects/cavescape/Screenshot_3.png"
-              alt="Would You Bot Showcase"
+              alt="Cavescape Showcase 3"
               size="auto"
               zoom
             />
@@ -177,7 +177,7 @@ export default function Cavescape() {
           <GridItem>
             <ImageWrapper
               src="/projects/cavescape/Screenshot_4.png"
-              alt="Would You Bot Showcase"
+              alt="Cavescape Showcase 4"
               size="auto"
               zoom
             />
@@ -185,7 +185,7 @@ export default function Cavescape() {
           <GridItem>
             <ImageWrapper
               src="/projects/cavescape/Screenshot_5.png"
-              alt="Would You Bot Showcase"
+              alt="Cavescape Showcase 5"
               size="auto"
               zoom
             />
@@ -193,7 +193,7 @@ export default function Cavescape() {
           <GridItem>
             <ImageWrapper
               src="/projects/cavescape/Screenshot_6.png"
-              alt="Would You Bot Showcase"
+              alt="Cavescape Showcase 6"
               size="auto"
               zoom
             />

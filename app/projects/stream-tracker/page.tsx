@@ -31,7 +31,6 @@ export const metadata: Metadata = {
     title: 'Would You - The Discord Bot',
     description:
       'Would you lets you play Would You Rather, Never Have I Ever, Higher or Lower, Truth or Dare and What Would You Do on Discord!',
-    site: '@WouldYouBot'
   },
   robots: {
     index: true,
@@ -41,13 +40,13 @@ export const metadata: Metadata = {
 
 export const viewport: Viewport = {
   maximumScale: 5,
-  themeColor: "#0598f4",
+  themeColor: "#7AAA52",
 };
 
-export default function WouldYou() {
+export default function StreamTracker() {
   return (
     <PageWrapper goBack>
-      <Heading>Would You - Discord Bot</Heading>
+      <Heading>Heading Component</Heading>
       <Title>This is a medium title</Title>
       <Text>
         The default title size is <code>"medium"</code>

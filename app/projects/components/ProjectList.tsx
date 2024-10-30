@@ -91,7 +91,7 @@ export async function ProjectList() {
             <Link
               href={project.path}
               className={cn(
-                "relative flex flex-wrap items-center justify-between rounded-lg bg-accent text-foreground/70 transition-all duration-300 hover:bg-foreground/10 sm:gap-6 gap-4 overflow-hidden group w-full max-w-[375px] lg:max-w-[425px] min-h-[200px] mb-6 order-first mx-auto sm:mx-0",
+                "relative flex flex-wrap items-center justify-between rounded-lg bg-accent text-foreground/70 transition-all duration-300 hover:bg-foreground/10 sm:gap-6 overflow-hidden group w-full max-w-[375px] lg:max-w-[425px] min-h-[200px] mb-6 order-first mx-auto sm:mx-0",
                 index % 2 === 0 ? "order-first" : "lg:order-last"
               )}
             >
@@ -136,15 +136,24 @@ export async function ProjectList() {
                   <Image
                     src={project.thumbnail.large}
                     alt={project.thumbnail.alt || project.title}
-                    className="absolute right-0 top-0 w-auto h-[200px] object-cover group-hover:opacity-80 group-hover:brightness-75 transition-all duration-300"
+                    className="hidden sm:block absolute right-0 top-0 w-auto h-[200px] object-cover group-hover:opacity-80 group-hover:brightness-75 transition-all duration-300"
                     width={1920}
                     height={1080}
                   />
-                  <div className="absolute flex items-center p-8 w-full h-full from-accent from-60% bg-gradient-to-r justify-end">
+                  <div className="hidden sm:flex absolute items-center p-8 w-full h-full from-accent from-60% bg-gradient-to-r justify-end">
                     <ArrowRight className="w-10 h-10 text-foreground opacity-0 group-hover:opacity-100 transition-all duration-300" />
                   </div>
                 </>
               )}
+              <div className="block sm:hidden p-4 pt-0">
+                <Image
+                  src={project.thumbnail.large}
+                  alt={project.thumbnail.alt || project.title}
+                  className="w-full aspect-video rounded-md object-cover transition-all duration-300"
+                  width={1920}
+                  height={1080}
+                />
+              </div>
             </Link>
           </div>
         ))}

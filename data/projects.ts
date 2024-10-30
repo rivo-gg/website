@@ -34,7 +34,7 @@ export const projects: Project[] = [
       large: "/projects/stream-tracker/showcase.png",
       alt: "Stream Tracker (Glass Animals)",
     },
-    tags: ["Node.js", "MongoDB", "Discord", "testing"],
+    tags: ["Node.js", "MongoDB", "Discord"],
     path: "/projects/stream-tracker",
   },
 ];

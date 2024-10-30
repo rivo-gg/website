@@ -73,53 +73,23 @@ export default function Cavescape() {
       <Schema
         json={`
         {
-  "@context": "https://schema.org",
-  "@type": "GameApplication",
-  "name": "Cavescape",
-  "description": "Cavescape is a co-op survival adventure game with one of the most fun mechanics around: Grappling Hooks! You play as Fred, a miner on a mission to make it back up the cave to be reunited with his best friend, Rocky the puppy, who was violently taken from him by Gorgath, the big ugly worm monster.",
-  "operatingSystem": ["ANDROID", "IOS", "WINDOWS"],
-  "applicationCategory": "GameApplication",
-  "genre": "Adventure",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Rivo",
-    "legalName": "Dominik Koch",
-    "founder": "Dominik Koch"
-  },
-	"developer": {
-    "@type": "Organization",
-    "name": "GargantuaGames",
-    "legalName": "GargantuaGames",
-    "founder": "Joshua Anschütz",
-    "parentOrganization": {
-      "@type": "Person",
-      "name": "Viktor Anschütz"
-    }
-  },
-  "offers": {
-    "@type": "Offer",
-    "price": "TBA",
-    "priceCurrency": "USD",
-    "availability": "https://schema.org/PreOrder",
-    "url": "https://store.steampowered.com/app/3094540/Cavescape/"
-  },
-  "releaseDate": "2025-06",
-  "platform": ["PC", "Mobile"],
-  "gamePlatform": ["ANDROID", "IOS", "WINDOWS"],
-  "softwareVersion": "1.0",
-  "url": "https://store.steampowered.com/app/3094540/Cavescape/"
-}
-
+          "@context": "https://schema.org",
+          "@type": "SoftwareApplication",
+          "name": "Cavescape",
+          "description": "Cavescape is a co-op survival adventure game with one of the most fun mechanics around: Grappling Hooks! You play as Fred, a miner on a mission to make it back up the cave to be reunited with his best friend, Rocky the puppy, who was violently taken from him by Gorgath, the big ugly worm monster.",
+          "operatingSystem": "ANDROID, IOS, WINDOWS",
+          "applicationCategory": "GameApplication"
+        }
       `}
       />
-      <PageWrapper goBack hasPrivacy>
+      <PageWrapper goBack>
         <Heading>Cavescape</Heading>
 
         <Text>
           The indie world is getting a fresh new entry in the realm of
           destructive procedurally-generated environments from an exciting new
           talent. Founded in 2024 by Viktor Anschütz, GargantuaGames is now home
-          to his son Joshua&apos;s dream project, Cavescape. The game is also in
+          to his son Joshua Anschütz&apos;s dream project, Cavescape. The game is also in
           good hands with publisher Rivo, an indie company founded in 2023 by
           Dominik Koch. With a track record of working with major brands like
           Universal Music Group and earning recognition on platforms like

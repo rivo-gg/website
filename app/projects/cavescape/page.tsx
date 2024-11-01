@@ -11,6 +11,7 @@ import {
   ListItem,
   SystemRequirementsWrapper,
   type SystemRequirements,
+  SteamWishlistButton,
 } from "@paulos-ui";
 import { Schema } from "@/components/Schema";
 
@@ -198,6 +199,15 @@ export default function Cavescape() {
             />
           </GridItem>
         </Grid>
+
+        <Title>Wishlist on Steam</Title>
+        <Text>
+          Cavescape is currently in development and will be available on Steam
+          soon. Wishlist the game on Steam to get notified when it&apos;s
+          released!
+        </Text>
+        <SteamWishlistButton url="https://store.steampowered.com/app/3094540/Cavescape/" />
+
         <SystemRequirementsWrapper requirements={requirements} />
       </PageWrapper>
     </>

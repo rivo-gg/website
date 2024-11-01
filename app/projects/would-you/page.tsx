@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   },
   title: "Would You - Rivo Projects",
   description:
-    "Cavescape is a co-op survival adventure game with one of the most fun mechanics around: Grappling Hooks! You play as Fred, a miner on a mission to make it back up the cave to be reunited with his best friend, Rocky the puppy, who was violently taken from him by Gorgath, the big ugly worm monster.",
+  "Would you lets you play Would You Rather, Never Have I Ever, Higher or Lower, Truth or Dare and What Would You Do on Discord!",
   openGraph: {
     title: "Would You - The Discord Bot",
     description:
@@ -119,7 +119,7 @@ export default function WouldYou() {
         questions={[
           {
             question: "Who is more handsome, Paulos or Dominik?",
-            answer: "It's a tough question but I'd say it's Paulos.",
+            answer: "It's a tough question but I'd say it's Dominik.",
           },
           {
             question: "Who is more handsome, Paulos or Dominik?",

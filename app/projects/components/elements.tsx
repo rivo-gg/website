@@ -9,7 +9,7 @@ import { MoveLeft, MoveRight } from "lucide-react";
 import Link from "next/link";
 import Zoom from "react-medium-image-zoom";
 import "react-medium-image-zoom/dist/styles.css";
-import React from "react";
+import type React from "react";
 import {
   Carousel,
   CarouselContent,
@@ -17,14 +17,13 @@ import {
   CarouselNext,
   CarouselPrevious,
 } from "@/components/ui/carousel";
-import { type CarouselApi } from "@/components/ui/carousel";
+import type { CarouselApi } from "@/components/ui/carousel";
 import {
   Accordion,
   AccordionContent,
   AccordionItem,
   AccordionTrigger,
 } from "@/components/ui/accordion";
-import { SteamLogo } from "@/icons";
 
 interface PageWrapperProps {
   children: React.ReactNode;
@@ -538,9 +537,9 @@ export function ImageGallery({ images }: ImageGalleryProps) {
           <CarouselNext className="static translate-y-0 size-8 md:size-12 [&_svg]:size-4 md:[&_svg]:size-5" />
         </div>
         <div className="flex items-center gap-2">
-          {images.map((_, index) => (
+          {images.map((image, index) => (
             <span
-              key={index}
+              key={image.src}
               className={cn(
                 "size-3 md:size-4 rounded-full cursor-pointer",
                 index === current - 1
@@ -548,6 +547,10 @@ export function ImageGallery({ images }: ImageGalleryProps) {
                   : "border md:border-2 border-white/25"
               )}
               onClick={() => handleIndex(index)}
+              onKeyUp={(e) => e.key === 'Enter' && handleIndex(index)}
+              tabIndex={0}
+              role="button"
+              aria-label={`Go to image ${index + 1}`}
             />
           ))}
         </div>

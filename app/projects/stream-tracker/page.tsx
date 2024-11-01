@@ -1,16 +1,9 @@
 import type { Metadata, Viewport } from "next";
 import {
-  Button,
-  Container,
   Heading,
-  ImageWrapper,
   Text,
   Title,
   PageWrapper,
-  List,
-  ListItem,
-  Grid,
-  GridItem,
 } from "@paulos-ui";
 
 export const metadata: Metadata = {
@@ -18,19 +11,19 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "/",
   },
-  title: "Would You - Rivo Projects",
+  title: "Stream Tracker- Rivo Projects",
   description:
-    "Cavescape is a co-op survival adventure game with one of the most fun mechanics around: Grappling Hooks! You play as Fred, a miner on a mission to make it back up the cave to be reunited with his best friend, Rocky the puppy, who was violently taken from him by Gorgath, the big ugly worm monster.",
+    "Universal Music Group and Polydor Records partnered with the Roblox game 'Pls Donate' and their discord server for their popular band Glass Animals. Rivo built the Spotify stream tracker that was used to distribute rewards to the community and track the progress of the album.",
   openGraph: {
-    title: "Would You - The Discord Bot",
+    title: "Stream Tracker- Rivo Projects",
     description:
-      "Would you lets you play Would You Rather, Never Have I Ever, Higher or Lower, Truth or Dare and What Would You Do on Discord!",
+      "Universal Music Group and Polydor Records partnered with the Roblox game 'Pls Donate' and their discord server for their popular band Glass Animals. Rivo built the Spotify stream tracker that was used to distribute rewards to the community and track the progress of the album.",
     type: "website",
   },
   twitter: {
-    title: "Would You - The Discord Bot",
+    title: "Stream Tracker- Rivo Projects",
     description:
-      "Would you lets you play Would You Rather, Never Have I Ever, Higher or Lower, Truth or Dare and What Would You Do on Discord!",
+      "Universal Music Group and Polydor Records partnered with the Roblox game 'Pls Donate' and their discord server for their popular band Glass Animals. Rivo built the Spotify stream tracker that was used to distribute rewards to the community and track the progress of the album.",
   },
   robots: {
     index: true,
@@ -46,58 +39,14 @@ export const viewport: Viewport = {
 export default function StreamTracker() {
   return (
     <PageWrapper goBack>
-      <Heading>Heading Component</Heading>
-      <Title>This is a medium title</Title>
+      <Heading>Stream Tracker (Glass Animals)</Heading>
       <Text>
-        The default title size is <code>"medium"</code>
+      Universal Music Group and Polydor Records partnered with the Roblox game 'Pls Donate' and their discord server for their popular band Glass Animals. Rivo built the Spotify stream tracker that was used to distribute rewards to the community and track the progress of the album.
       </Text>
-      <Container>
-        <Title size="small">This is a small title</Title>
-        <Text>This a text inside a container with spacing between items</Text>
-      </Container>
-      <Container orientation="horizontal">
-        <Button>Default Button</Button>
-        <Button variant="secondary">Secondary Button</Button>
-        <Button variant="outline">Outline Button</Button>
-      </Container>
-      <ImageWrapper
-        src="/projects/would-you/showcase.png"
-        alt="Would You Bot Showcase"
-        size="large"
-        zoom
-      />
-      <List>
-        <ListItem>Item 1</ListItem>
-        <ListItem>Item 2</ListItem>
-        <ListItem>Item 3</ListItem>
-        <ListItem>Item 4</ListItem>
-      </List>
-      <Grid>
-        <GridItem>
-          <ImageWrapper
-            src="/projects/would-you/showcase.png"
-            alt="Would You Bot Showcase"
-            size="auto"
-            zoom
-          />
-        </GridItem>
-        <GridItem>
-          <ImageWrapper
-            src="/projects/would-you/showcase.png"
-            alt="Would You Bot Showcase"
-            size="auto"
-            zoom
-          />
-        </GridItem>
-        <GridItem>
-          <ImageWrapper
-            src="/projects/would-you/showcase.png"
-            alt="Would You Bot Showcase"
-            size="auto"
-            zoom
-          />
-        </GridItem>
-      </Grid>
+      <Title>What is Stream Tracker?</Title>
+      <Text>
+      Stream Tracker was a discord bot that listened to discord status changes and tracked the progress of the new Glass Animals album "I Love You So Fucking Much". Once a user listened to 
+      </Text>
     </PageWrapper>
   );
 }

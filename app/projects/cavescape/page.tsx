@@ -1,12 +1,9 @@
 import type { Metadata, Viewport } from "next";
 import {
   Heading,
-  ImageWrapper,
   Text,
   Title,
   PageWrapper,
-  Grid,
-  GridItem,
   List,
   ListItem,
   SystemRequirementsWrapper,

@@ -61,8 +61,13 @@ export default function StreamTracker() {
           </Grid>
         <Title>Challenges</Title>
       <Text>
-      Due to the huge size of the Hazem Discord Server the bot had to listen to hundrets of thousands of events by discord to 
+      Due to the sheer size of the Hazem Discord server, the bot had to listen to hundreds of thousands of Discord events in order to correctly process people's progress based on the songs they listened to.
       </Text>
+      <Title>Tech Stack</Title>
+      <Text>
+        The bot itself was written in JavaScript with the popular discord.js library, this probably wanst the smartest choice but it ended up working out. Database wise we used mongodb together with the mongoose package for node.js 
+      </Text>
+      <Title>The Bot in Action</Title>
       <Grid>
           <GridItem>
             <ImageWrapper

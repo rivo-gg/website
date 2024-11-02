@@ -12,6 +12,7 @@ import {
   SystemRequirementsWrapper,
   type SystemRequirements,
   SteamWishlistButton,
+  ImageGallery,
 } from "@paulos-ui";
 import { Schema } from "@/components/Schema";
 
@@ -67,6 +68,15 @@ const requirements: SystemRequirements = {
     additional: "Internet connection required for multiplayer.",
   },
 };
+
+const images = [
+  { src: "/projects/cavescape/Screenshot_1.png", alt: "Cavescape Showcase 1" },
+  { src: "/projects/cavescape/Screenshot_2.png", alt: "Cavescape Showcase 2" },
+  { src: "/projects/cavescape/Screenshot_3.png", alt: "Cavescape Showcase 3" },
+  { src: "/projects/cavescape/Screenshot_4.png", alt: "Cavescape Showcase 4" },
+  { src: "/projects/cavescape/Screenshot_5.png", alt: "Cavescape Showcase 5" },
+  { src: "/projects/cavescape/Screenshot_6.png", alt: "Cavescape Showcase 6" },
+];
 
 export default function Cavescape() {
   return (
@@ -149,56 +159,7 @@ export default function Cavescape() {
           the same.
         </Text>
         <Title>Screenshots</Title>
-        <Grid>
-          <GridItem>
-            <ImageWrapper
-              src="/projects/cavescape/Screenshot_1.png"
-              alt="Cavescape Showcase 1"
-              size="auto"
-              zoom
-            />
-          </GridItem>
-          <GridItem>
-            <ImageWrapper
-              src="/projects/cavescape/Screenshot_2.png"
-              alt="Cavescape Showcase 2"
-              size="auto"
-              zoom
-            />
-          </GridItem>
-          <GridItem>
-            <ImageWrapper
-              src="/projects/cavescape/Screenshot_3.png"
-              alt="Cavescape Showcase 3"
-              size="auto"
-              zoom
-            />
-          </GridItem>
-          <GridItem>
-            <ImageWrapper
-              src="/projects/cavescape/Screenshot_4.png"
-              alt="Cavescape Showcase 4"
-              size="auto"
-              zoom
-            />
-          </GridItem>
-          <GridItem>
-            <ImageWrapper
-              src="/projects/cavescape/Screenshot_5.png"
-              alt="Cavescape Showcase 5"
-              size="auto"
-              zoom
-            />
-          </GridItem>
-          <GridItem>
-            <ImageWrapper
-              src="/projects/cavescape/Screenshot_6.png"
-              alt="Cavescape Showcase 6"
-              size="auto"
-              zoom
-            />
-          </GridItem>
-        </Grid>
+        <ImageGallery images={images} />
 
         <Title>Wishlist on Steam</Title>
         <Text>

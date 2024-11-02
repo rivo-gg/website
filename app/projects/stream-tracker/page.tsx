@@ -4,6 +4,9 @@ import {
   Text,
   Title,
   PageWrapper,
+  Grid,
+  GridItem,
+  ImageWrapper,
 } from "@paulos-ui";
 
 export const metadata: Metadata = {
@@ -45,8 +48,55 @@ export default function StreamTracker() {
       </Text>
       <Title>What is Stream Tracker?</Title>
       <Text>
-      Stream Tracker was a discord bot that listened to discord status changes and tracked the progress of the new Glass Animals album "I Love You So Fucking Much". Once a user listened to 
+      Stream Tracker was a discord bot that listened to discord status changes and tracked the progress of the new Glass Animals album "I Love You So Fucking Much". Once a user listened to 5 songs they got a code for the limited Roblox UGC "Glass Animals Turquoise Eye Head"
       </Text>
+      <Grid>
+          <GridItem>
+            <ImageWrapper
+              src="/projects/stream-tracker/ugc.webp"
+              alt="Glass Animals Roblox UGC"
+              size="small"
+            />
+          </GridItem>
+          </Grid>
+        <Title>Challenges</Title>
+      <Text>
+      Due to the huge size of the Hazem Discord Server the bot had to listen to hundrets of thousands of events by discord to 
+      </Text>
+      <Grid>
+          <GridItem>
+            <ImageWrapper
+              src="/projects/stream-tracker/Screenshot_1.png"
+              alt="Glass Animals Bot Screenshot 1"
+              size="auto"
+              zoom
+            />
+          </GridItem>
+          <GridItem>
+            <ImageWrapper
+              src="/projects/stream-tracker/Screenshot_2.png"
+              alt="Glass Animals Bot Screenshot 2"
+              size="auto"
+              zoom
+            />
+          </GridItem>
+          <GridItem>
+            <ImageWrapper
+              src="/projects/stream-tracker/Screenshot_3.png"
+              alt="Glass Animals Bot Screenshot 3"
+              size="auto"
+              zoom
+            />
+          </GridItem>
+          <GridItem>
+            <ImageWrapper
+              src="/projects/stream-tracker/Screenshot_4.png"
+              alt="Glass Animals Bot Screenshot 4"
+              size="auto"
+              zoom
+            />
+          </GridItem>
+          </Grid>
     </PageWrapper>
   );
 }

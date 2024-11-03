@@ -43,5 +43,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 1,
     },
+    {
+      url: 'https://rivo.gg/projects/stream-tracker',
+      lastModified: new Date(),
+      changeFrequency: 'yearly',
+      priority: 1,
+    },
+    {
+      url: 'https://rivo.gg/projects/would-you',
+      lastModified: new Date(),
+      changeFrequency: 'yearly',
+      priority: 1,
+    },
   ]
 }

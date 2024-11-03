@@ -3,13 +3,27 @@
 import { cn } from "@/lib/utils";
 import { Button as ShadcnButton } from "@/components/ui/button";
 import Image from "next/image";
-import { createContext, useContext } from "react";
+import { createContext, useContext, useEffect, useState } from "react";
 import { usePathname, useRouter } from "next/navigation";
 import { MoveLeft, MoveRight } from "lucide-react";
 import Link from "next/link";
 import Zoom from "react-medium-image-zoom";
 import "react-medium-image-zoom/dist/styles.css";
 import type React from "react";
+import {
+  Carousel,
+  CarouselContent,
+  CarouselItem,
+  CarouselNext,
+  CarouselPrevious,
+} from "@/components/ui/carousel";
+import type { CarouselApi } from "@/components/ui/carousel";
+import {
+  Accordion,
+  AccordionContent,
+  AccordionItem,
+  AccordionTrigger,
+} from "@/components/ui/accordion";
 
 interface PageWrapperProps {
   children: React.ReactNode;
@@ -474,3 +488,131 @@ const SubText = ({ children }: { children: React.ReactNode }) => (
 const ItemWrapper = ({ children }: { children: React.ReactNode }) => (
   <span className="leading-tight">{children}</span>
 );
+
+interface ImageGalleryProps {
+  images: {
+    src: string;
+    alt: string;
+  }[];
+}
+
+export function ImageGallery({ images }: ImageGalleryProps) {
+  const [api, setApi] = useState<CarouselApi>();
+  const [current, setCurrent] = useState(0);
+
+  useEffect(() => {
+    if (!api) {
+      return;
+    }
+
+    setCurrent(api.selectedScrollSnap() + 1);
+
+    api.on("select", () => {
+      setCurrent(api.selectedScrollSnap() + 1);
+    });
+  }, [api]);
+
+  const handleIndex = (index: number) => {
+    api?.scrollTo(index);
+  };
+
+  return (
+    <Carousel className="rounded-lg overflow-hidden" setApi={setApi}>
+      <CarouselContent>
+        {images.map((image, index) => (
+          <CarouselItem key={index}>
+            <Image
+              src={image.src}
+              alt={image.alt}
+              width={1920}
+              height={1080}
+              className="rounded-lg"
+            />
+          </CarouselItem>
+        ))}
+      </CarouselContent>
+      <div className="flex gap-4 justify-between py-2">
+        <div className="flex gap-2">
+          <CarouselPrevious className="static translate-y-0 size-8 md:size-12 [&_svg]:size-4 md:[&_svg]:size-5" />
+          <CarouselNext className="static translate-y-0 size-8 md:size-12 [&_svg]:size-4 md:[&_svg]:size-5" />
+        </div>
+        <div className="flex items-center gap-2">
+          {images.map((image, index) => (
+            <span
+              key={image.src}
+              className={cn(
+                "size-3 md:size-4 rounded-full cursor-pointer",
+                index === current - 1
+                  ? "bg-primary"
+                  : "border md:border-2 border-white/25"
+              )}
+              onClick={() => handleIndex(index)}
+              onKeyUp={(e) => e.key === 'Enter' && handleIndex(index)}
+              tabIndex={0}
+              role="button"
+              aria-label={`Go to image ${index + 1}`}
+            />
+          ))}
+        </div>
+      </div>
+    </Carousel>
+  );
+}
+
+interface AccordionWrapperProps {
+  title: string;
+  questions: {
+    question: string;
+    answer: string;
+  }[];
+}
+
+export function AccordionWrapper({ title, questions }: AccordionWrapperProps) {
+  return (
+    <div className="flex flex-col">
+      <Title>{title}</Title>
+      <Accordion type="single" collapsible>
+        {questions.map((q, index) => (
+          <AccordionItem key={index} value={`item-${index}`}>
+            <AccordionTrigger className="text-xl">
+              <Title size="small">{q.question}</Title>
+            </AccordionTrigger>
+            <AccordionContent className="text-lg">
+              <Text>{q.answer}</Text>
+            </AccordionContent>
+          </AccordionItem>
+        ))}
+      </Accordion>
+    </div>
+  );
+}
+
+interface SteamWishlistButtonProps {
+  url: string;
+}
+
+export function SteamWishlistButton({ url }: SteamWishlistButtonProps) {
+  return (
+    // <Link
+    //   href={url}
+    //   target="_blank"
+    //   rel="noreferrer"
+    //   className="flex gap-2 w-fit items-center bg-black text-white dark:bg-white dark:text-black p-2 rounded-xl"
+    // >
+    //   <SteamLogo className="size-12 text-white dark:text-black" />
+    //   <div className="flex flex-col">
+    //     <span className="text-lg font-bold">Wishlist on</span>
+    //     <span className="text-2xl font-black uppercase">Steam™</span>
+    //   </div>
+    // </Link>
+    <Link href={url} target="_blank" rel="noreferrer">
+      <Image
+        src="/steambutton.png"
+        alt="Wishlist on Steam"
+        width={1920}
+        height={1080}
+        className="w-52 invert dark:invert-0"
+      />
+    </Link>
+  );
+}

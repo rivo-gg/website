@@ -1,16 +1,15 @@
 import type { Metadata, Viewport } from "next";
 import {
   Heading,
-  ImageWrapper,
   Text,
   Title,
   PageWrapper,
-  Grid,
-  GridItem,
   List,
   ListItem,
   SystemRequirementsWrapper,
   type SystemRequirements,
+  SteamWishlistButton,
+  ImageGallery,
 } from "@paulos-ui";
 import { Schema } from "@/components/Schema";
 
@@ -67,6 +66,15 @@ const requirements: SystemRequirements = {
   },
 };
 
+const images = [
+  { src: "/projects/cavescape/Screenshot_1.png", alt: "Cavescape Showcase 1" },
+  { src: "/projects/cavescape/Screenshot_2.png", alt: "Cavescape Showcase 2" },
+  { src: "/projects/cavescape/Screenshot_3.png", alt: "Cavescape Showcase 3" },
+  { src: "/projects/cavescape/Screenshot_4.png", alt: "Cavescape Showcase 4" },
+  { src: "/projects/cavescape/Screenshot_5.png", alt: "Cavescape Showcase 5" },
+  { src: "/projects/cavescape/Screenshot_6.png", alt: "Cavescape Showcase 6" },
+];
+
 export default function Cavescape() {
   return (
     <>
@@ -84,15 +92,14 @@ export default function Cavescape() {
       />
       <PageWrapper goBack>
         <Heading>Cavescape</Heading>
-
         <Text>
           The indie world is getting a fresh new entry in the realm of
           destructive procedurally-generated environments from an exciting new
           talent. Founded in 2024 by Viktor Anschütz, GargantuaGames is now home
-          to his son Joshua Anschütz&apos;s dream project, Cavescape. The game is also in
-          good hands with publisher Rivo, an indie company founded in 2023 by
-          Dominik Koch. With a track record of working with major brands like
-          Universal Music Group and earning recognition on platforms like
+          to his son Joshua Anschütz&apos;s dream project, Cavescape. The game
+          is also in good hands with publisher Rivo, an indie company founded in
+          2023 by Dominik Koch. With a track record of working with major brands
+          like Universal Music Group and earning recognition on platforms like
           Discord, Koch brings valuable experience and credibility to the
           project.
         </Text>
@@ -149,56 +156,16 @@ export default function Cavescape() {
           the same.
         </Text>
         <Title>Screenshots</Title>
-        <Grid>
-          <GridItem>
-            <ImageWrapper
-              src="/projects/cavescape/Screenshot_1.png"
-              alt="Would You Bot Showcase"
-              size="auto"
-              zoom
-            />
-          </GridItem>
-          <GridItem>
-            <ImageWrapper
-              src="/projects/cavescape/Screenshot_2.png"
-              alt="Would You Bot Showcase"
-              size="auto"
-              zoom
-            />
-          </GridItem>
-          <GridItem>
-            <ImageWrapper
-              src="/projects/cavescape/Screenshot_3.png"
-              alt="Would You Bot Showcase"
-              size="auto"
-              zoom
-            />
-          </GridItem>
-          <GridItem>
-            <ImageWrapper
-              src="/projects/cavescape/Screenshot_4.png"
-              alt="Would You Bot Showcase"
-              size="auto"
-              zoom
-            />
-          </GridItem>
-          <GridItem>
-            <ImageWrapper
-              src="/projects/cavescape/Screenshot_5.png"
-              alt="Would You Bot Showcase"
-              size="auto"
-              zoom
-            />
-          </GridItem>
-          <GridItem>
-            <ImageWrapper
-              src="/projects/cavescape/Screenshot_6.png"
-              alt="Would You Bot Showcase"
-              size="auto"
-              zoom
-            />
-          </GridItem>
-        </Grid>
+        <ImageGallery images={images} />
+
+        <Title>Wishlist on Steam</Title>
+        <Text>
+          Cavescape is currently in development and will be available on Steam
+          soon. Wishlist the game on Steam to get notified when it&apos;s
+          released!
+        </Text>
+        <SteamWishlistButton url="https://store.steampowered.com/app/3094540/Cavescape/" />
+
         <SystemRequirementsWrapper requirements={requirements} />
       </PageWrapper>
     </>

@@ -12,7 +12,7 @@ export default function Page() {
 				<h1>Impressum</h1>
 				<span>Informationen gemäß § 5 TMG.</span>
 				<div>
-					<h4 className="mb-1">Contact</h4>
+					<h4 className="mb-1">Kontakt</h4>
 					<ul className="pl-4">
 						<li>Dominik Koch</li>
 						<li>Parkstraße 5</li>

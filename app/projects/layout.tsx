@@ -4,9 +4,6 @@ import "./styles.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://rivo.gg"),
-  alternates: {
-    canonical: "/",
-  },
   title: "Rivo - The Digital Product Agency you can trust",
   description:
     "Rivo is a digital agency that you can trust. We work with community managers, creators, game developers, and entrepreneurs to help them achieve their goals faster.",

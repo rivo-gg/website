@@ -13,9 +13,6 @@ import {
 
 export const metadata: Metadata = {
 	metadataBase: new URL("https://rivo.gg"),
-	alternates: {
-		canonical: "/",
-	},
 	title: "Would You - Rivo Projects",
 	description:
 		"Would you lets you play Would You Rather, Never Have I Ever, Higher or Lower, Truth or Dare and What Would You Do on Discord!",

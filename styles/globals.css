@@ -150,3 +150,9 @@
 ::-webkit-scrollbar-track {
   background-color: transparent;
 }
+
+
+iframe {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}

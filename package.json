@@ -30,7 +30,7 @@
 		"framer-motion": "^11.0.8",
 		"gray-matter": "^4.0.3",
 		"lucide-react": "^0.414.0",
-		"next": "15.0.2",
+		"next": "15.2.3",
 		"next-mdx-remote": "^5.0.0",
 		"next-seo": "^6.6.0",
 		"next-themes": "^0.3.0",

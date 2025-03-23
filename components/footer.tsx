@@ -4,6 +4,8 @@ import Link from "next/link";
 import type React from "react";
 
 export function Footer() {
+	const currentYear = new Date().getFullYear();
+	
 	return (
 		<footer className="mt-24 flex items-center justify-center border-t-2 px-6 pb-12 pt-24">
 			<div className="flex w-fit max-w-7xl flex-col items-center gap-12 md:w-full md:flex-row md:items-start md:justify-between md:gap-4">
@@ -13,7 +15,7 @@ export function Footer() {
 						<span className="text-3xl font-bold">Rivo</span>
 					</Link>
 					<span className="ml-3 max-w-[175px] text-center text-foreground/70 md:max-w-full md:text-start">
-						© 2023 - Present Rivo. All rights reserved.
+						© 2023 - {currentYear} Rivo. All rights reserved.
 					</span>
 					<div className="ml-2 flex gap-1">
 						<Link href="https://www.linkedin.com/company/rivo-gg/" target="_blank">

@@ -11,9 +11,6 @@ import {
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://rivo.gg"),
-  alternates: {
-    canonical: "/",
-  },
   title: "Stream Tracker- Rivo Projects",
   description:
     "Universal Music Group and Polydor Records partnered with the Roblox game 'Pls Donate' and their discord server for their popular band Glass Animals. Rivo built the Spotify stream tracker that was used to distribute rewards to the community and track the progress of the album.",

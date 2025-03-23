@@ -1,16 +1,27 @@
-import createMDX from "@next/mdx";
 import type { NextConfig } from 'next';
- 
+
 const nextConfig: NextConfig = {
-	output: "standalone",
+  output: 'standalone',
   reactStrictMode: true,
-  pageExtensions: ["js", "jsx", "md", "mdx", "ts", "tsx"],
+  pageExtensions: ['js', 'jsx', 'md', 'mdx', 'ts', 'tsx'],
   compiler: {
 		removeConsole: process.env.NODE_ENV === 'production' && {
 			exclude: ['error']
 		}
     
 	},
+   images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'images.marblecms.com',
+      },
+      {
+        protocol: 'https',
+        hostname: 'lh3.googleusercontent.com',
+      },
+    ],
+  },
   async headers() {
 		return [
 			{
@@ -42,6 +53,4 @@ const nextConfig: NextConfig = {
 	},
 };
 
-const withMDX = createMDX();
-
-export default withMDX(nextConfig);
+export default nextConfig;

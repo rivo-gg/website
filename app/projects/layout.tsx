@@ -1,22 +1,23 @@
 import type { Metadata, Viewport } from "next";
-import "@/app/globals.css";
+import "@/styles/globals.css";
 import "./styles.css";
+import { SITE } from "@/lib/seo";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://rivo.gg"),
-  title: "Rivo - The Digital Product Agency you can trust",
-  description:
-    "Rivo is a digital agency that you can trust. We work with community managers, creators, game developers, and entrepreneurs to help them achieve their goals faster.",
+  alternates: {
+    canonical: "/",
+  },
+  title: SITE.title2,
+  description: SITE.description,
   twitter: {
-    title: "Rivo - The Digital Product Agency you can trust",
+    title: SITE.title2,
     card: "summary_large_image",
-    description:
-      "Rivo is a digital agency that you can trust. We work with community managers, creators, game developers, and entrepreneurs to help them achieve their goals faster.",
+    description: SITE.description,
   },
   openGraph: {
-    title: "Rivo - The Digital Product Agency you can trust",
-    description:
-      "Rivo is a digital agency that you can trust. We work with community managers, creators, game developers, and entrepreneurs to help them achieve their goals faster.",
+    title: SITE.title2,
+    description: SITE.description,
   },
   robots: {
     index: true,

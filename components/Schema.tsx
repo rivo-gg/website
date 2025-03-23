@@ -1,9 +1,9 @@
+import type { JSX } from 'react'
 export function Schema({ json }: { json: string }): JSX.Element {
-  return (
-    <script
-      type="application/ld+json"
-      // biome-ignore lint/security/noDangerouslySetInnerHtml: <explanation>
-      dangerouslySetInnerHTML={{ __html: json }}
-    />
-  )
+	return (
+		<script
+			type="application/ld+json"
+			dangerouslySetInnerHTML={{ __html: json }}
+		/>
+	)
 }

@@ -1,31 +1,38 @@
-import { Footer } from "@/components/footer";
-import { Navbar } from "@/components/navbar";
-import { cn } from "@/lib/utils";
-import type { Metadata, Viewport } from "next";
-import { ThemeProvider } from "next-themes";
-import { Barlow } from "next/font/google";
-import "@/app/globals.css";
+import { Footer } from '@/components/footer';
+import { Navbar } from '@/components/navbar';
+import { cn } from '@/lib/utils';
+import type { Metadata, Viewport } from 'next';
+import { ThemeProvider } from 'next-themes';
+import { Barlow,  } from 'next/font/google';
+import '@/styles/globals.css';
+import { SITE } from '@/lib/seo';
 
 const barlow = Barlow({
-  subsets: ["latin"],
-  weight: ["400", "500", "600", "700"],
+  variable: '--font-sans',
+  subsets: ['latin'],
+  weight: ['400', '500', '600', '700'],
 });
 
+// const geistMono = Geist_Mono({
+//   variable: '--font-mono',
+//   subsets: ['latin'],
+// });
+
 export const metadata: Metadata = {
-  metadataBase: new URL("https://rivo.gg"),
-  title: "Rivo - The Digital Product Agency you can trust",
-  description:
-    "Rivo is a digital agency that you can trust. We work with community managers, creators, game developers, and entrepreneurs to help them achieve their goals faster.",
+  metadataBase: new URL('https://rivo.gg'),
+  alternates: {
+    canonical: '/',
+  },
+  title: SITE.title2,
+  description: SITE.description,
   twitter: {
-    title: "Rivo - The Digital Product Agency you can trust",
-    card: "summary_large_image",
-    description:
-      "Rivo is a digital agency that you can trust. We work with community managers, creators, game developers, and entrepreneurs to help them achieve their goals faster.",
+    title: SITE.title2,
+    card: 'summary_large_image',
+    description: SITE.description,
   },
   openGraph: {
-    title: "Rivo - The Digital Product Agency you can trust",
-    description:
-      "Rivo is a digital agency that you can trust. We work with community managers, creators, game developers, and entrepreneurs to help them achieve their goals faster.",
+    title: SITE.title2,
+    description: SITE.description,
   },
   robots: {
     index: true,
@@ -35,7 +42,7 @@ export const metadata: Metadata = {
 
 export const viewport: Viewport = {
   maximumScale: 5,
-  themeColor: "#4876F2",
+  themeColor: '#4876F2',
 };
 
 export default function RootLayout({
@@ -44,18 +51,24 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <><head>
-      <script
-        defer
-        data-domain="rivo.gg"
-        src="https://stats.wouldyoubot.gg/js/script.js" />
-    </head><html lang="en">
+    <>
+      <head>
+        <script
+          defer
+          data-domain='rivo.gg'
+          src='https://stats.wouldyoubot.gg/js/script.js'
+        />
+      </head>
+      <html lang='en'>
         <body
-          className={cn("flex min-h-screen w-screen flex-col", barlow.className)}
+          className={cn(
+            'flex min-h-screen w-screen flex-col',
+            barlow.className
+          )}
         >
           <ThemeProvider
-            attribute="class"
-            defaultTheme="dark"
+            attribute='class'
+            defaultTheme='dark'
             enableSystem
             disableTransitionOnChange
           >
@@ -64,6 +77,7 @@ export default function RootLayout({
             <Footer />
           </ThemeProvider>
         </body>
-      </html></>
+      </html>
+    </>
   );
 }

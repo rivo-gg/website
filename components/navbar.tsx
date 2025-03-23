@@ -18,8 +18,11 @@ export function Navbar() {
   const { setTheme, theme } = useTheme();
   const pathname = usePathname();
   const [isScrolled, setIsScrolled] = useState(false);
+  const isBlogPost = pathname.startsWith('/blog/');
 
   useEffect(() => {
+    if (isBlogPost) return;
+
     const handleScroll = () => {
       window.scrollY > 150 ? setIsScrolled(true) : setIsScrolled(false);
     };
@@ -30,7 +33,7 @@ export function Navbar() {
     return () => {
       window.removeEventListener("scroll", handleScroll);
     };
-  }, []);
+  }, [isBlogPost]);
 
   const [open, setOpen] = useState(false);
 
@@ -38,7 +41,8 @@ export function Navbar() {
     <nav
       className={cn(
         "fixed left-0 top-0 z-50 flex h-auto w-screen items-center justify-center bg-background duration-300",
-        isScrolled ? "px-6 py-3" : "p-6"
+        !isBlogPost && (isScrolled ? "px-6 py-3" : "p-6"),
+        isBlogPost && "p-6 static"
       )}
     >
       <div className="flex w-full max-w-7xl items-center justify-between gap-4">

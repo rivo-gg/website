@@ -1,7 +1,6 @@
-import { Post } from '@/types/blog';
+import type { Post } from '@/types/blog';
 import Link from 'next/link';
 import Image from 'next/image';
-import React from 'react';
 import { calculateReadTime } from '@/lib/blog';
 
 interface PostCardProps {
@@ -43,15 +42,15 @@ function PostCard({ post }: PostCardProps) {
           <div className='flex items-center gap-2'>
             <div className='flex items-center gap-2'>
               <Image
-                src={post.author.image}
-                alt={post.author.name}
+                src={post.authors[0].image}
+                alt={post.authors[0].name}
                 width={36}
                 height={36}
                 loading='eager'
                 className='aspect-square shrink-0 size-9 rounded-full'
               />
               <div className='flex flex-col gap-1 text-sm'>
-                <p className='text-muted-foreground'>{post.author.name}</p>
+                <p className='text-muted-foreground'>{post.authors[0].name}</p>
                 <time dateTime={post.publishedAt.toString()}>
                   {formattedDate}
                 </time>

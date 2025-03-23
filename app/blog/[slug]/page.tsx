@@ -9,7 +9,7 @@ import {
 } from '@/lib/blog';
 import { SITE } from '@/lib/seo';
 import type { Post } from '@/types/blog';
-import type { Metadata, ResolvingMetadata } from 'next';
+import type { Metadata } from 'next';
 import Image from 'next/image';
 import { notFound } from 'next/navigation';
 
@@ -20,7 +20,6 @@ type PageProps = {
 
 export async function generateMetadata(
   { params }: PageProps,
-  parent: ResolvingMetadata
 ): Promise<Metadata> {
   const url = process.env.MARBLE_API_URL;
   const key = process.env.MARBLE_WORKSPACE_KEY;
@@ -30,8 +29,6 @@ export async function generateMetadata(
   const post: Post = await fetch(`${url}/${key}/posts/${slug}`).then((res) =>
     res.json()
   );
-
-  const previousImages = (await parent).openGraph?.images || [];
 
   return {
     metadataBase: new URL(SITE.url),
@@ -49,7 +46,6 @@ export async function generateMetadata(
           height: '630',
           alt: post.title,
         },
-        ...previousImages,
       ],
     },
     openGraph: {
@@ -62,7 +58,6 @@ export async function generateMetadata(
           height: '630',
           alt: post.title,
         },
-        ...previousImages,
       ],
       title: post.title,
       description: post.description,

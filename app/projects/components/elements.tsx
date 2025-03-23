@@ -1,29 +1,29 @@
-"use client";
+'use client';
 
-import { cn } from "@/lib/utils";
-import { Button as ShadcnButton } from "@/components/ui/button";
-import Image from "next/image";
-import { createContext, useContext, useEffect, useState } from "react";
-import { usePathname, useRouter } from "next/navigation";
-import { MoveLeft, MoveRight } from "lucide-react";
-import Link from "next/link";
-import Zoom from "react-medium-image-zoom";
-import "react-medium-image-zoom/dist/styles.css";
-import type React from "react";
+import { cn } from '@/lib/utils';
+import { Button as ShadcnButton } from '@/components/ui/button';
+import Image from 'next/image';
+import { createContext, useContext, useEffect, useState } from 'react';
+import { usePathname, useRouter } from 'next/navigation';
+import { MoveLeft, MoveRight } from 'lucide-react';
+import Link from 'next/link';
+import Zoom from 'react-medium-image-zoom';
+import 'react-medium-image-zoom/dist/styles.css';
+import type React from 'react';
 import {
   Carousel,
   CarouselContent,
   CarouselItem,
   CarouselNext,
   CarouselPrevious,
-} from "@/components/ui/carousel";
-import type { CarouselApi } from "@/components/ui/carousel";
+} from '@/components/ui/carousel';
+import type { CarouselApi } from '@/components/ui/carousel';
 import {
   Accordion,
   AccordionContent,
   AccordionItem,
   AccordionTrigger,
-} from "@/components/ui/accordion";
+} from '@/components/ui/accordion';
 
 interface PageWrapperProps {
   children: React.ReactNode;
@@ -43,31 +43,31 @@ export function PageWrapper({
 
   return (
     <PageWrapperContext.Provider value={true}>
-      <div className="w-full max-w-7xl flex flex-col gap-4">
+      <div className='w-full max-w-7xl flex flex-col gap-4'>
         <div
           className={cn(
-            "flex gap-4 relative",
-            goBack ? "justify-between" : "justify-end"
+            'flex gap-4 relative',
+            goBack ? 'justify-between' : 'justify-end'
           )}
         >
           {goBack && (
             <Button
-              className="flex w-fit bg-background gap-2 items-center rounded-md px-4 py-2 font-normal max-w-[200px] group"
-              variant="ghost"
+              className='flex w-fit bg-background gap-2 items-center rounded-md px-4 py-2 font-normal max-w-[200px] group'
+              variant='ghost'
               onClick={router.back}
             >
-              <MoveLeft className="hidden sm:block absolute top-1/2 -translate-y-1/2 left-4 -translate-x-full w-5 h-5 opacity-0 group-hover:opacity-100 group-hover:-left-0.5 sm:group-hover:-left-2 transition-all -z-10" />
-              <span className="text-lg">Go back</span>
+              <MoveLeft className='hidden sm:block absolute top-1/2 -translate-y-1/2 left-4 -translate-x-full w-5 h-5 opacity-0 group-hover:opacity-100 group-hover:-left-0.5 sm:group-hover:-left-2 transition-all -z-10' />
+              <span className='text-lg'>Go back</span>
             </Button>
           )}
           {hasPrivacy && !pathname.toString().match(/\/privacy/) && (
             <Link href={`${pathname}/privacy`}>
               <Button
-                className="flex w-fit bg-background gap-2 items-center rounded-md px-4 py-2 font-normal max-w-[200px] group"
-                variant="ghost"
+                className='flex w-fit bg-background gap-2 items-center rounded-md px-4 py-2 font-normal max-w-[200px] group'
+                variant='ghost'
               >
-                <span className="text-lg">Privacy</span>
-                <MoveRight className="hidden sm:block absolute top-1/2 -translate-y-1/2 right-4 translate-x-full w-5 h-5 opacity-0 group-hover:opacity-100 group-hover:-right-0.5 sm:group-hover:-right-2 transition-all -z-10" />
+                <span className='text-lg'>Privacy</span>
+                <MoveRight className='hidden sm:block absolute top-1/2 -translate-y-1/2 right-4 translate-x-full w-5 h-5 opacity-0 group-hover:opacity-100 group-hover:-right-0.5 sm:group-hover:-right-2 transition-all -z-10' />
               </Button>
             </Link>
           )}
@@ -80,26 +80,26 @@ export function PageWrapper({
 
 interface Container extends React.HTMLAttributes<HTMLDivElement> {
   children: React.ReactNode;
-  orientation?: "horizontal" | "vertical";
+  orientation?: 'horizontal' | 'vertical';
 }
 
 export function Container({
   children,
   className,
-  orientation = "vertical",
+  orientation = 'vertical',
   ...props
 }: Container) {
   const isWithinPageWrapper = useContext(PageWrapperContext);
 
   if (!isWithinPageWrapper) {
-    throw new Error("Container must be used within a PageWrapper");
+    throw new Error('Container must be used within a PageWrapper');
   }
 
   return (
     <div
       className={cn(
-        "flex gap-4",
-        orientation === "horizontal" ? "flex-row flex-wrap" : "flex-col",
+        'flex gap-4',
+        orientation === 'horizontal' ? 'flex-row flex-wrap' : 'flex-col',
         className
       )}
       {...props}
@@ -117,7 +117,7 @@ export function Heading({ children, ...props }: HeadingProps) {
   const isWithinPageWrapper = useContext(PageWrapperContext);
 
   if (!isWithinPageWrapper) {
-    throw new Error("Heading must be used within a PageWrapper");
+    throw new Error('Heading must be used within a PageWrapper');
   }
 
   return <h1 {...props}>{children}</h1>;
@@ -125,7 +125,7 @@ export function Heading({ children, ...props }: HeadingProps) {
 
 interface TitleProps extends React.HTMLAttributes<HTMLHeadingElement> {
   children: React.ReactNode;
-  size?: "small" | "medium";
+  size?: 'small' | 'medium';
   separator?: boolean;
 }
 
@@ -138,24 +138,24 @@ export function Title({
   const isWithinPageWrapper = useContext(PageWrapperContext);
 
   if (!isWithinPageWrapper) {
-    throw new Error("Title must be used within a PageWrapper");
+    throw new Error('Title must be used within a PageWrapper');
   }
 
   switch (size) {
-    case "small":
+    case 'small':
       return separator ? (
-        <div className="flex flex-col">
+        <div className='flex flex-col'>
           <h4 {...props}> {children}</h4>
-          <hr className="mb-4 mt-2" />
+          <hr className='mb-4 mt-2' />
         </div>
       ) : (
         <h4 {...props}>{children}</h4>
       );
     default:
       return separator ? (
-        <div className="flex flex-col">
+        <div className='flex flex-col'>
           <h3 {...props}> {children}</h3>
-          <hr className="mb-4 mt-2" />
+          <hr className='mb-4 mt-2' />
         </div>
       ) : (
         <h3 {...props}>{children}</h3>
@@ -171,7 +171,7 @@ export function Text({ children, className, ...props }: TextProps) {
   const isWithinPageWrapper = useContext(PageWrapperContext);
 
   if (!isWithinPageWrapper) {
-    throw new Error("Text must be used within a PageWrapper");
+    throw new Error('Text must be used within a PageWrapper');
   }
 
   return (
@@ -184,12 +184,12 @@ export function Text({ children, className, ...props }: TextProps) {
 interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
   children: React.ReactNode;
   variant?:
-    | "default"
-    | "secondary"
-    | "destructive"
-    | "outline"
-    | "ghost"
-    | "link"
+    | 'default'
+    | 'secondary'
+    | 'destructive'
+    | 'outline'
+    | 'ghost'
+    | 'link'
     | null
     | undefined;
 }
@@ -197,18 +197,18 @@ interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
 export function Button({
   children,
   className,
-  variant = "default",
+  variant = 'default',
   ...props
 }: ButtonProps) {
   const isWithinPageWrapper = useContext(PageWrapperContext);
 
   if (!isWithinPageWrapper) {
-    throw new Error("Button must be used within a PageWrapper");
+    throw new Error('Button must be used within a PageWrapper');
   }
 
   return (
     <ShadcnButton
-      className={cn("w-fit py-3 px-5 rounded-md", className)}
+      className={cn('w-fit py-3 px-5 rounded-md', className)}
       variant={variant}
       {...props}
     >
@@ -220,36 +220,36 @@ export function Button({
 interface ImageWrapperProps {
   src: string;
   alt: string;
-  size?: "small" | "medium" | "large" | "auto" | "full";
+  size?: 'small' | 'medium' | 'large' | 'auto' | 'full';
   zoom?: boolean;
 }
 
 export function ImageWrapper({
   src,
   alt,
-  size = "medium",
+  size = 'medium',
   zoom = false,
 }: ImageWrapperProps) {
   const isWithinPageWrapper = useContext(PageWrapperContext);
 
   if (!isWithinPageWrapper) {
-    throw new Error("ImageWrapper must be used within a PageWrapper");
+    throw new Error('ImageWrapper must be used within a PageWrapper');
   }
 
   function getSizeClass(size: string) {
     switch (size) {
-      case "large":
-        return "w-full sm:max-w-xl";
-      case "small":
-        return "w-full sm:max-w-sm";
-      case "medium":
-        return "w-full sm:max-w-md";
-      case "auto":
-        return "w-auto";
-      case "full":
-        return "w-full";
+      case 'large':
+        return 'w-full sm:max-w-xl';
+      case 'small':
+        return 'w-full sm:max-w-sm';
+      case 'medium':
+        return 'w-full sm:max-w-md';
+      case 'auto':
+        return 'w-auto';
+      case 'full':
+        return 'w-full';
       default:
-        return "w-full sm:max-w-md";
+        return 'w-full sm:max-w-md';
     }
   }
 
@@ -261,7 +261,7 @@ export function ImageWrapper({
           alt={alt}
           width={1920}
           height={1080}
-          className={cn("rounded-xl aspect-auto", getSizeClass(size))}
+          className={cn('rounded-xl aspect-auto', getSizeClass(size))}
         />
       </Zoom>
     );
@@ -272,7 +272,7 @@ export function ImageWrapper({
       alt={alt}
       width={1920}
       height={1080}
-      className={cn("rounded-xl aspect-auto", getSizeClass(size))}
+      className={cn('rounded-xl aspect-auto', getSizeClass(size))}
     />
   );
 }
@@ -281,21 +281,21 @@ const ListContext = createContext(false);
 
 interface ListProps extends React.HTMLAttributes<HTMLUListElement> {
   children: React.ReactNode;
-  position?: "inside" | "outside";
-  listStyle?: "disc" | "decimal" | "none";
+  position?: 'inside' | 'outside';
+  listStyle?: 'disc' | 'decimal' | 'none';
 }
 
 export function List({
   children,
-  position = "inside",
-  listStyle = "disc",
+  position = 'inside',
+  listStyle = 'disc',
   className,
   ...props
 }: ListProps) {
   const isWithinPageWrapper = useContext(PageWrapperContext);
 
   if (!isWithinPageWrapper) {
-    throw new Error("List must be used within a PageWrapper");
+    throw new Error('List must be used within a PageWrapper');
   }
 
   return (
@@ -318,7 +318,7 @@ export function ListItem({ children, ...props }: ListItemProps) {
   const isWithinList = useContext(ListContext);
 
   if (!isWithinList) {
-    throw new Error("ListItem must be used within a List");
+    throw new Error('ListItem must be used within a List');
   }
 
   return (
@@ -338,14 +338,14 @@ export function Grid({ children, className, ...props }: GridProps) {
   const isWithinPageWrapper = useContext(PageWrapperContext);
 
   if (!isWithinPageWrapper) {
-    throw new Error("List must be used within a PageWrapper");
+    throw new Error('List must be used within a PageWrapper');
   }
 
   return (
     <GridContext.Provider value={true}>
       <div
         className={cn(
-          "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4",
+          'grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4',
           className
         )}
         {...props}
@@ -364,11 +364,11 @@ export function GridItem({ children, className, ...props }: GridItemProps) {
   const isWithinGrid = useContext(GridContext);
 
   if (!isWithinGrid) {
-    throw new Error("GridItem must be used within a Grid");
+    throw new Error('GridItem must be used within a Grid');
   }
 
   return (
-    <div className={cn("max-w-full", className)} {...props}>
+    <div className={cn('max-w-full', className)} {...props}>
       {children}
     </div>
   );
@@ -405,18 +405,18 @@ export function SystemRequirementsWrapper({
   const isWithinPageWrapper = useContext(PageWrapperContext);
 
   if (!isWithinPageWrapper) {
-    throw new Error("List must be used within a PageWrapper");
+    throw new Error('List must be used within a PageWrapper');
   }
 
   const rm = requirements.minimum;
   const rr = requirements.recommended;
   return (
-    <div className="flex flex-col">
+    <div className='flex flex-col'>
       <Title separator>System Requirements</Title>
-      <div className="flex flex-col gap-4 sm:flex-row sm:gap-12">
+      <div className='flex flex-col gap-4 sm:flex-row sm:gap-12'>
         {rm && (
-          <div className="flex flex-col max-w-md gap-1.5">
-            <Text className="text-xl">Minimum:</Text>
+          <div className='flex flex-col max-w-md gap-1.5'>
+            <Text className='text-xl'>Minimum:</Text>
             {rm.info && (
               <ItemWrapper>
                 <Text>{rm.info}</Text>
@@ -439,15 +439,15 @@ export function SystemRequirementsWrapper({
             </ItemWrapper>
             {rm.additional && (
               <ItemWrapper>
-                <SubText>Additional Notes:</SubText>{" "}
+                <SubText>Additional Notes:</SubText>{' '}
                 <Text>{rm.additional}</Text>
               </ItemWrapper>
             )}
           </div>
         )}
         {rr && (
-          <div className="flex flex-col max-w-md gap-1.5">
-            <Text className="text-xl">Recommended:</Text>
+          <div className='flex flex-col max-w-md gap-1.5'>
+            <Text className='text-xl'>Recommended:</Text>
             {rr.info && (
               <ItemWrapper>
                 <Text>{rr.info}</Text>
@@ -470,7 +470,7 @@ export function SystemRequirementsWrapper({
             </ItemWrapper>
             {rr.additional && (
               <ItemWrapper>
-                <SubText>Additional Notes:</SubText>{" "}
+                <SubText>Additional Notes:</SubText>{' '}
                 <Text>{rr.additional}</Text>
               </ItemWrapper>
             )}
@@ -482,11 +482,11 @@ export function SystemRequirementsWrapper({
 }
 
 const SubText = ({ children }: { children: React.ReactNode }) => (
-  <Text className="text-foreground/50">{children}</Text>
+  <Text className='text-foreground/50'>{children}</Text>
 );
 
 const ItemWrapper = ({ children }: { children: React.ReactNode }) => (
-  <span className="leading-tight">{children}</span>
+  <span className='leading-tight'>{children}</span>
 );
 
 interface ImageGalleryProps {
@@ -507,7 +507,7 @@ export function ImageGallery({ images }: ImageGalleryProps) {
 
     setCurrent(api.selectedScrollSnap() + 1);
 
-    api.on("select", () => {
+    api.on('select', () => {
       setCurrent(api.selectedScrollSnap() + 1);
     });
   }, [api]);
@@ -517,39 +517,39 @@ export function ImageGallery({ images }: ImageGalleryProps) {
   };
 
   return (
-    <Carousel className="rounded-lg overflow-hidden" setApi={setApi}>
+    <Carousel className='rounded-lg overflow-hidden' setApi={setApi}>
       <CarouselContent>
         {images.map((image, index) => (
-          <CarouselItem key={index}>
+          <CarouselItem key={`${image.alt}-${index}`}>
             <Image
               src={image.src}
               alt={image.alt}
               width={1920}
               height={1080}
-              className="rounded-lg"
+              className='rounded-lg'
             />
           </CarouselItem>
         ))}
       </CarouselContent>
-      <div className="flex gap-4 justify-between py-2">
-        <div className="flex gap-2">
-          <CarouselPrevious className="static translate-y-0 size-8 md:size-12 [&_svg]:size-4 md:[&_svg]:size-5" />
-          <CarouselNext className="static translate-y-0 size-8 md:size-12 [&_svg]:size-4 md:[&_svg]:size-5" />
+      <div className='flex gap-4 justify-between py-2'>
+        <div className='flex gap-2'>
+          <CarouselPrevious className='static translate-y-0 size-8 md:size-12 [&_svg]:size-4 md:[&_svg]:size-5' />
+          <CarouselNext className='static translate-y-0 size-8 md:size-12 [&_svg]:size-4 md:[&_svg]:size-5' />
         </div>
-        <div className="flex items-center gap-2">
+        <div className='flex items-center gap-2'>
           {images.map((image, index) => (
             <span
               key={image.src}
               className={cn(
-                "size-3 md:size-4 rounded-full cursor-pointer",
+                'size-3 md:size-4 rounded-full cursor-pointer',
                 index === current - 1
-                  ? "bg-primary"
-                  : "border md:border-2 border-white/25"
+                  ? 'bg-primary'
+                  : 'border md:border-2 border-white/25'
               )}
               onClick={() => handleIndex(index)}
               onKeyUp={(e) => e.key === 'Enter' && handleIndex(index)}
               tabIndex={0}
-              role="button"
+              role='button'
               aria-label={`Go to image ${index + 1}`}
             />
           ))}
@@ -569,15 +569,15 @@ interface AccordionWrapperProps {
 
 export function AccordionWrapper({ title, questions }: AccordionWrapperProps) {
   return (
-    <div className="flex flex-col">
+    <div className='flex flex-col'>
       <Title>{title}</Title>
-      <Accordion type="single" collapsible>
+      <Accordion type='single' collapsible>
         {questions.map((q, index) => (
-          <AccordionItem key={index} value={`item-${index}`}>
-            <AccordionTrigger className="text-xl">
-              <Title size="small">{q.question}</Title>
+          <AccordionItem key={`${q.question}-${index}`} value={`item-${index}`}>
+            <AccordionTrigger className='text-xl'>
+              <Title size='small'>{q.question}</Title>
             </AccordionTrigger>
-            <AccordionContent className="text-lg">
+            <AccordionContent className='text-lg'>
               <Text>{q.answer}</Text>
             </AccordionContent>
           </AccordionItem>
@@ -605,13 +605,13 @@ export function SteamWishlistButton({ url }: SteamWishlistButtonProps) {
     //     <span className="text-2xl font-black uppercase">Steam™</span>
     //   </div>
     // </Link>
-    <Link href={url} target="_blank" rel="noreferrer">
+    <Link href={url} target='_blank' rel='noreferrer'>
       <Image
-        src="/steambutton.png"
-        alt="Wishlist on Steam"
+        src='/steambutton.png'
+        alt='Wishlist on Steam'
         width={1920}
         height={1080}
-        className="w-52 invert dark:invert-0"
+        className='w-52 invert dark:invert-0'
       />
     </Link>
   );

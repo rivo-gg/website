@@ -63,15 +63,16 @@
   * {
     @apply border-border;
   }
-
+  html {
+    @apply scroll-smooth;
+  }
   body {
     @apply overflow-x-hidden bg-background text-foreground;
-    scroll-behavior: smooth;
   }
 
   .nav-link::before {
     @apply absolute bottom-0 block h-0.5 w-0 bg-primary transition-[width] duration-300;
-    content: "";
+    content: '';
   }
 
   .nav-link.active::before {
@@ -149,4 +150,9 @@
 
 ::-webkit-scrollbar-track {
   background-color: transparent;
+}
+
+iframe {
+  width: 100%;
+  aspect-ratio: 16 / 9;
 }

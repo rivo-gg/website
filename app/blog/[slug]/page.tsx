@@ -96,7 +96,7 @@ async function Page({ params }: PageProps) {
   });
 
   return (
-    <BlogContainer className='py-28'>
+    <BlogContainer className='pt-10 pb-28'>
       <section className='space-y-6 lg:space-y-8'>
         <div className='relative w-full'>
           <Image

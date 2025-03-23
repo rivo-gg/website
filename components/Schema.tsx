@@ -1,9 +1,8 @@
-export function Schema({ json }: { json: string }): JSX.Element {
+export function Schema({ json }: { json: string }) {
   return (
     <script
-      type="application/ld+json"
-      // biome-ignore lint/security/noDangerouslySetInnerHtml: <explanation>
+      type='application/ld+json'
       dangerouslySetInnerHTML={{ __html: json }}
     />
-  )
+  );
 }

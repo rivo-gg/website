@@ -13,11 +13,6 @@ const barlow = Barlow({
   weight: ['400', '500', '600', '700'],
 });
 
-// const geistMono = Geist_Mono({
-//   variable: '--font-mono',
-//   subsets: ['latin'],
-// });
-
 export const metadata: Metadata = {
   metadataBase: new URL('https://rivo.gg'),
   alternates: {
@@ -56,7 +51,7 @@ export default function RootLayout({
         <script
           defer
           data-domain='rivo.gg'
-          src='https://stats.wouldyoubot.gg/js/script.js'
+          src='https://stats.rivo.gg/js/script.js'
         />
       </head>
       <html lang='en'>

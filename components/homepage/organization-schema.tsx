@@ -1,13 +1,13 @@
-'use server';
+"use server";
 
-import { Schema } from '../Schema';
+import { Schema } from "../Schema";
 
 export async function OrganizationSchemaMetadata() {
-  return (
-    <>
-      {/* Social Profile Schema (formerly SocialProfileJsonLd) */}
-      <Schema
-        json={`
+	return (
+		<>
+			{/* Social Profile Schema (formerly SocialProfileJsonLd) */}
+			<Schema
+				json={`
           {
             "@context": "https://schema.org",
             "@type": "Organization",
@@ -20,11 +20,11 @@ export async function OrganizationSchemaMetadata() {
             ]
           }
         `}
-      />
+			/>
 
-      {/* Organization Schema (formerly OrganizationJsonLd) */}
-      <Schema
-        json={`
+			{/* Organization Schema (formerly OrganizationJsonLd) */}
+			<Schema
+				json={`
           {
             "@context": "https://schema.org",
             "@type": "Corporation",
@@ -54,7 +54,7 @@ export async function OrganizationSchemaMetadata() {
             "url": "https://rivo.gg/"
           }
         `}
-      />
-    </>
-  );
+			/>
+		</>
+	);
 }

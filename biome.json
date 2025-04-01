@@ -13,8 +13,8 @@
 		"rules": {
 			"recommended": true,
 			"security": {
-        "noDangerouslySetInnerHtml": "off"
-      },
+				"noDangerouslySetInnerHtml": "off"
+			},
 			"correctness": {
 				"noUnusedImports": "error"
 			},

@@ -5,7 +5,7 @@ import type React from "react";
 
 export function Footer() {
 	const currentYear = new Date().getFullYear();
-	
+
 	return (
 		<footer className="mt-24 flex items-center justify-center border-t-2 px-6 pb-12 pt-24">
 			<div className="flex w-fit max-w-7xl flex-col items-center gap-12 md:w-full md:flex-row md:items-start md:justify-between md:gap-4">

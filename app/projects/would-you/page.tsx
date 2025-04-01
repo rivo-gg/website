@@ -1,15 +1,5 @@
 import type { Metadata, Viewport } from "next";
-import {
-	Heading,
-	ImageWrapper,
-	Text,
-	Title,
-	PageWrapper,
-	List,
-	ListItem,
-	Grid,
-	GridItem,
-} from "@paulos-ui";
+import { Heading, ImageWrapper, Text, Title, PageWrapper, List, ListItem, Grid, GridItem } from "@paulos-ui";
 
 export const metadata: Metadata = {
 	metadataBase: new URL("https://rivo.gg"),
@@ -84,7 +74,7 @@ export default function WouldYou() {
 				fun game to play with your friends. We are constantly updating the bot with new features and games to play. We
 				also have a support server where you can ask for help or suggest new features for the bot.
 			</Text>
-      <Title>Showcase</Title>
+			<Title>Showcase</Title>
 			<Grid>
 				<GridItem>
 					<ImageWrapper src="/projects/would-you/showcase.png" alt="Would You Bot Showcase" size="auto" zoom />

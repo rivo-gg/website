@@ -59,6 +59,9 @@ export async function generateMetadata({
       publishedTime: new Date(data.post.publishedAt).toISOString(),
       authors: data.post.authors.map((author) => author.name),
     },
+    pinterest: {
+      richPin: true,
+    },
     robots: {
       index: true,
       follow: true,

@@ -5,9 +5,9 @@ import Link from "next/link";
 export function Testimonials() {
 	return (
 		<section id="testimonials" className="my-20 flex w-full max-w-6xl flex-col gap-20 px-6">
-			<span className="text-center text-5xl md:text-6xl">
+			<h2 className="text-center text-5xl md:text-6xl">
 				Hear it from <span className="text-primary">Others</span>
-			</span>
+			</h2>
 			<div className="flex flex-wrap justify-around gap-8">
 				{testimonials.map((testimonial) => (
 					<TestimonialCard key={testimonial.author} {...testimonial} className="my-auto h-fit w-full" />

@@ -19,6 +19,9 @@ export const metadata: Metadata = {
     title: SITE.title2,
     description: SITE.description,
   },
+  pinterest: {
+    richPin: true,
+  },
   robots: {
     index: true,
     follow: true,

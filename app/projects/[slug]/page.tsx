@@ -66,6 +66,9 @@ export async function generateMetadata({
         },
       ],
     },
+    pinterest: {
+      richPin: true,
+    },
     robots: {
       index: true,
       follow: true,

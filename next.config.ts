@@ -9,7 +9,7 @@ const nextConfig: NextConfig = {
 			exclude: ["error"],
 		},
 	},
-	transpilePackages: ['next-mdx-remote'],
+	transpilePackages: ["next-mdx-remote"],
 	images: {
 		remotePatterns: [
 			{

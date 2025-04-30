@@ -29,21 +29,21 @@ export type Post = {
 };
 
 export type Pagination = {
-  limit: number;
-  currpage: number;
-  nextPage: number | null;
-  prevPage: number | null;
-  totalItems: number;
-  totalPages: number;
+	limit: number;
+	currpage: number;
+	nextPage: number | null;
+	prevPage: number | null;
+	totalItems: number;
+	totalPages: number;
 };
 
 export type MarblePostList = {
-  posts: Post[];
-  pagination: Pagination;
+	posts: Post[];
+	pagination: Pagination;
 };
 
 export type MarblePost = {
-  post: Post;
+	post: Post;
 };
 
 export type Tag = {

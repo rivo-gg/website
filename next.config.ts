@@ -37,7 +37,7 @@ const nextConfig: NextConfig = {
 					},
 					{
 						key: "Content-Security-Policy",
-						value: "frame-ancestors 'self'",
+						value: "frame-ancestors 'self' https://wave.webaim.org",
 					},
 					{
 						key: "X-Frame-Options",

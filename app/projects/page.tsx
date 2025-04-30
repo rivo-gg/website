@@ -4,7 +4,7 @@ import { Suspense } from "react";
 
 const ProjectPage = async () => {
   return (
-    <div className="w-full mx-auto max-w-7xl mt-8">
+    <main className="w-full mx-auto max-w-7xl mt-8">
       <span className="text-4xl font-bold text-primary flex justify-center">
         Projects
       </span>
@@ -13,7 +13,7 @@ const ProjectPage = async () => {
           <ProjectList />
         </Suspense>
       </div>
-    </div>
+    </main>
   );
 };
 

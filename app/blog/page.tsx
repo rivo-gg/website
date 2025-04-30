@@ -8,13 +8,13 @@ export default async function HomePage() {
   if (!data || !data.posts) return <div>No posts yet</div>;
 
   return (
-    <BlogContainer className='py-28 max-w-none'>
+    <BlogContainer className='py-28 w-full max-w-7xl mx-auto'>
       <section className='mb-12 text-center space-y-2'>
         <h1 className='text-3xl lg:text-5xl xl:text-6xl font-semibold text-primary'>
           Blog
         </h1>
         <p className='text-lg text-muted-foreground'>
-          Latest insights and updates from the Rivo digital product agency
+          Check out the latest insights and updates from <span>Rivo</span>!
         </p>
       </section>
       <section>

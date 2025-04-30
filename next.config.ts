@@ -9,7 +9,7 @@ const nextConfig: NextConfig = {
 			exclude: ["error"],
 		},
 	},
-	transpilePackages: ['next-mdx-remote'],
+	transpilePackages: ["next-mdx-remote"],
 	images: {
 		remotePatterns: [
 			{
@@ -37,7 +37,7 @@ const nextConfig: NextConfig = {
 					},
 					{
 						key: "Content-Security-Policy",
-						value: "frame-ancestors 'self'",
+						value: "frame-ancestors 'self' https://wave.webaim.org",
 					},
 					{
 						key: "X-Frame-Options",

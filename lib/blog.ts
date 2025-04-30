@@ -1,4 +1,4 @@
-import type { MarblePost, MarblePostList, Tag } from '@/types/blog';
+import type { MarblePost, MarblePostList, Tag } from "@/types/blog";
 import { unified } from "unified";
 import rehypeParse from "rehype-parse";
 import rehypeStringify from "rehype-stringify";

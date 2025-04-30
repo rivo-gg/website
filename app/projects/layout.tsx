@@ -4,43 +4,39 @@ import "./styles.css";
 import { SITE } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://rivo.gg"),
-  alternates: {
-    canonical: "/",
-  },
-  title: SITE.title2,
-  description: SITE.description,
-  twitter: {
-    title: SITE.title2,
-    card: "summary_large_image",
-    description: SITE.description,
-  },
-  openGraph: {
-    title: SITE.title2,
-    description: SITE.description,
-  },
-  pinterest: {
-    richPin: true,
-  },
-  robots: {
-    index: true,
-    follow: true,
-  },
+	metadataBase: new URL("https://rivo.gg"),
+	alternates: {
+		canonical: "/",
+	},
+	title: SITE.title2,
+	description: SITE.description,
+	twitter: {
+		title: SITE.title2,
+		card: "summary_large_image",
+		description: SITE.description,
+	},
+	openGraph: {
+		title: SITE.title2,
+		description: SITE.description,
+	},
+	pinterest: {
+		richPin: true,
+	},
+	robots: {
+		index: true,
+		follow: true,
+	},
 };
 
 export const viewport: Viewport = {
-  maximumScale: 1,
-  themeColor: "#4876F2",
+	maximumScale: 1,
+	themeColor: "#4876F2",
 };
 
 export default function RootLayout({
-  children,
+	children,
 }: Readonly<{
-  children: React.ReactNode;
+	children: React.ReactNode;
 }>) {
-  return (
-    <main className="flex flex-col flex-1 items-center pt-28 px-6">
-      {children}
-    </main>
-  );
+	return <main className="flex flex-col flex-1 items-center pt-28 px-6">{children}</main>;
 }

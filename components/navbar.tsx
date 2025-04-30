@@ -67,7 +67,9 @@ export function Navbar() {
 					>
 						{theme === "light" ? <Moon className="h-6 w-6 sm:h-8 sm:w-8" /> : <Sun className="h-6 w-6 sm:h-8 sm:w-8" />}
 					</button>
-					<Button>Contact Us</Button>
+					<Link href="mailto:hello@rivo.gg">
+						<Button>Contact Us</Button>
+					</Link>
 				</div>
 				<MobileMenu open={open} setOpen={setOpen} className="flex md:hidden">
 					{navItems.map((item) => (

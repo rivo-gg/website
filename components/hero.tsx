@@ -2,7 +2,6 @@
 
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
-import { useTheme } from "next-themes";
 import { Barlow } from "next/font/google";
 import { AbstractSVG } from "./abstract-svg";
 import Link from "next/link";
@@ -13,7 +12,6 @@ const barlow = Barlow({
 });
 
 export function Hero() {
-	const { theme } = useTheme();
 	return (
 		<section
 			id="hero"
@@ -21,14 +19,14 @@ export function Hero() {
 		>
 			<div className="z-10 flex w-auto flex-col gap-12 md:mt-16">
 				<div className={cn("flex flex-col items-center gap-8", barlow.className)}>
-					<div className="text-center text-5xl font-semibold leading-[1.15] md:text-6xl">
+					<h1 className="text-center text-5xl font-semibold leading-[1.15] md:text-6xl">
 						<span>The </span>
 						<span className="text-primary">Digital </span>
 						<span>
 							Product Agency <br /> you can{" "}
 						</span>
 						<span className="text-primary">trust</span>
-					</div>
+					</h1>
 					<div className="hidden w-fit flex-wrap items-center gap-2 whitespace-nowrap rounded-lg border bg-background/25 px-8 py-4 text-lg backdrop-blur-xl md:flex">
 						<span className="text-foreground/50">For</span>
 						<span className="rounded-md bg-foreground/5 px-2.5 py-1.5">Community Managers</span>
@@ -58,7 +56,9 @@ export function Hero() {
 					<Link href="/projects">
 						<Button variant="outline">Our Work</Button>
 					</Link>
-					<Button>Contact Us</Button>
+					<Link href="mailto:hello@rivo.gg">
+						<Button>Contact Us</Button>
+					</Link>
 				</div>
 			</div>
 			<AbstractSVG className="opacity-100% absolute bottom-0 left-1/2 h-full !w-[1800px] -translate-x-1/2 md:w-10/12" />

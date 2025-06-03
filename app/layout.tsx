@@ -60,6 +60,7 @@ export default function RootLayout({
           src="https://app.databuddy.cc/databuddy.js"
           data-client-id="KDmDhITAlxwmhmTsbgiKX"
           data-api-url="https://basket.databuddy.cc"
+          data-track-web-vitals="true"
           defer
         />
       </head>

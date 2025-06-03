@@ -10,7 +10,7 @@ export default function Page() {
       <section className="flex w-full max-w-7xl flex-col gap-6 text-lg text-foreground/80">
         <h1>Privacy Policy</h1>
         <div className="flex flex-col gap-4">
-          <h4>Last updated and effective May 31, 2025</h4>
+          <h4>Last updated and effective June 03, 2025</h4>
           <span>
             Thank you for choosing to be part of our community at Rivo
             (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;). We are
@@ -155,11 +155,11 @@ export default function Page() {
         <div className="flex flex-col gap-4">
           <h4>Analytics Provided by Others</h4>
           <span>
-            Our website uses Rybbit Analytics to help us understand visitor
+            Our website uses Rybbit and Databuddy Analytics to help us understand visitor
             trends and the effectiveness of our marketing outreach. We chose
-            Rybbit Analytics because it is a privacy-focused company and
+            Rybbit and Databuddy Analytics because they are privacy-focused companies and
             platform that eschews personally identifiable information in favor
-            of anonymous aggregate data. We do not use Rybbit Analytics to track
+            of anonymous aggregate data. We do not use Rybbit or Databuddy Analytics to track
             or collect any personally identifiable information about you. Rybbit
             is self-hosted and does not use cookies nor store any personal
             information.{" "}
@@ -169,6 +169,14 @@ export default function Page() {
               rel="noopener noreferrer"
             >
               See the Rybbit Analytics Data Policy
+            </a>
+            Databuddy is hosted in the EU and does not use cookies nor store any personal information.{" "}
+            <a
+              href="https://databuddy.cc/privacy"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              See the Databuddy Analytics Data Policy
             </a>
             .
           </span>

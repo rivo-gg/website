@@ -10,7 +10,7 @@ export default function Page() {
       <section className="flex w-full max-w-7xl flex-col gap-6 text-lg text-foreground/80">
         <h1>Privacy Policy</h1>
         <div className="flex flex-col gap-4">
-          <h4>Last updated and effective June 03, 2025</h4>
+          <h2>Last updated and effective <strong>June 03, 2025</strong></h2>
           <span>
             Thank you for choosing to be part of our community at Rivo
             (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;). We are
@@ -54,7 +54,7 @@ export default function Page() {
           </span>
         </div>
         <div className="flex flex-col gap-4">
-          <h4>Privacy Statement</h4>
+          <h3>Privacy Statement</h3>
           <span>
             We respect the privacy of your information. We provide this
             explanation about our information practices as a show of our
@@ -112,7 +112,7 @@ export default function Page() {
           </div>
         </div>
         <div className="flex flex-col gap-4">
-          <h4>What are your Privacy rights?</h4>
+          <h3>What are your Privacy rights?</h3>
           <span>
             In some regions (like the PEA and UK), you have certain rights under
             applicable data protection laws. These may include the right (i) to
@@ -153,7 +153,7 @@ export default function Page() {
           </span>
         </div>
         <div className="flex flex-col gap-4">
-          <h4>Analytics Provided by Others</h4>
+          <h3>Analytics Provided by Others</h3>
           <span>
             Our website uses Rybbit and Databuddy Analytics to help us understand visitor
             trends and the effectiveness of our marketing outreach. We chose
@@ -182,7 +182,7 @@ export default function Page() {
           </span>
         </div>
         <div className="flex flex-col gap-4">
-          <h4>Information We Collect and How We Collect It</h4>
+          <h3>Information We Collect and How We Collect It</h3>
           <span>
             On our website, we only collect personally identifiable information
             from individuals that they provide to us voluntarily. This means we
@@ -211,7 +211,7 @@ export default function Page() {
           </span>
         </div>
         <div className="flex flex-col gap-4">
-          <h4>The Way We Use Information</h4>
+          <h3>The Way We Use Information</h3>
           <div className="flex flex-col">
             <span>
               This Privacy Statement governs use of the information that you
@@ -301,7 +301,7 @@ export default function Page() {
           </div>
         </div>
         <div className="flex flex-col gap-4">
-          <h4>Do we make updates to this notice?</h4>
+          <h3>Do we make updates to this notice?</h3>
           <span>
             We may update this privacy notice from time to time. The updated
             version will be indicated by an updated &quot;Revised&quot; date and
@@ -314,16 +314,16 @@ export default function Page() {
           </span>
         </div>
         <div className="flex flex-col gap-4">
-          <h4>How can you contact us about this notice?</h4>
+          <h3>How can you contact us about this notice?</h3>
           <span>
             If you have any questions or comments about this notice, you may
             email us at <a href="mailto:dominik@rivo.gg">dominik@rivo.gg</a>.
           </span>
         </div>
         <div className="flex flex-col gap-4">
-          <h4>
+          <h3>
             How can you review, update, or delete the data we collect from you?
-          </h4>
+          </h3>
           <span>
             Based on the applicable laws of your country, you may have the right
             to request access to the personal information we collect from you,

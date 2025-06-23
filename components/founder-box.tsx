@@ -28,7 +28,7 @@ export function AboutOwnerBox() {
               </div>
             </div>
             <div className="flex-1">
-              <a href="https://dominikoch.dev/" target="_blank">
+              <a href="https://dominikkoch.dev/" target="_blank">
                 <h3 className="text-3xl font-semibold mb-4 text-primary">
                   Dominik Koch
                 </h3>

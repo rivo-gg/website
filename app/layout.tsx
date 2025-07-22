@@ -57,7 +57,7 @@ export default function RootLayout({
           defer
         />
         <script
-          src="https://app.databuddy.cc/databuddy.js"
+          src="https://cdn.databuddy.cc/databuddy.js"
           data-client-id="KDmDhITAlxwmhmTsbgiKX"
           data-api-url="https://basket.databuddy.cc"
           data-track-web-vitals="true"

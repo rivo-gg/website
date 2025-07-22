@@ -28,20 +28,6 @@ export default function Page() {
 						<li className="text-yellow-200">🛈 No acceptance of parcels or packages.</li>
 					</ul>
 				</div>
-				<div className="flex flex-col">
-					<h4>Online dispute resolution</h4>
-					<span>
-						The European Comission provides a platform for online dispute resolution, available at{" "}
-						<a href="https://ec.europa.eu/consumers/odr" target="_blank" rel="noopener noreferrer">
-							https://ec.europa.eu/consumers/odr
-						</a>
-						.
-					</span>
-					<span>
-						I am neither willing nor obliged to participate in dispute resolution proceedings in front of a consumer
-						arbitration board.
-					</span>
-				</div>
 				<div>
 					<h4>Privacy Policy</h4>
 					<Link href="/privacy">https://rivo.gg/privacy</Link>

@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 
 export const metadata: Metadata = {
 	title: "Rivo - Impressum",
@@ -24,20 +25,9 @@ export default function Page() {
 						<li className="text-yellow-200">🛈 Keine Annahme von Paketen oder Päckchen.</li>
 					</ul>
 				</div>
-				<div className="flex flex-col">
-					<h4>Online dispute resolution</h4>
-					<span>
-						Die Europäische Kommission bietet eine Plattform für die Online-Streitbeilegung Streitbeilegung, die hier zu
-						finden ist:{" "}
-						<a href="https://ec.europa.eu/consumers/odr" target="_blank" rel="noopener noreferrer">
-							https://ec.europa.eu/consumers/odr
-						</a>
-						.
-					</span>
-					<span>
-						Ich bin weder bereit noch verpflichtet, an einem Streitbeilegungsverfahren an einem
-						Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
-					</span>
+				<div>
+					<h4>Datenschutzerklärung</h4>
+					<Link href="/privacy">https://rivo.gg/privacy</Link>
 				</div>
 			</section>
 		</main>

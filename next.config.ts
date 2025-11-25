@@ -9,6 +9,7 @@ const nextConfig: NextConfig = {
 			exclude: ["error"],
 		},
 	},
+	reactCompiler: true,
 	transpilePackages: ["next-mdx-remote"],
 	images: {
 		remotePatterns: [

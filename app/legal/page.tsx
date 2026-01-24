@@ -18,8 +18,9 @@ export default function Page() {
 					<h4 className="mb-1">Contact</h4>
 					<ul className="pl-4">
 						<li>Dominik Koch</li>
-						<li>Parkstraße 5</li>
-						<li>88499 Riedlingen</li>
+						<li>c/o IP-Management #8532</li>
+						<li>Ludwig-Erhard-Str. 18</li>
+						<li>20459 Hamburg</li>
 						<li>Germany</li>
 						<li>
 							Email: <a href="mailto:dominik@rivo.gg">dominik@rivo.gg</a>

@@ -18,10 +18,10 @@ export function Footer() {
 						© 2023 - {currentYear} Rivo. All rights reserved.
 					</span>
 					<div className="ml-2 flex gap-1">
-						<Link href="https://www.linkedin.com/company/rivo-gg/" target="_blank">
+						<Link href="https://www.linkedin.com/company/rivo-gg/" target="_blank" rel="noreferrer noopener">
 							<LinkedInIcon className="h-8 w-8 text-primary transition hover:-translate-y-0.5" />
 						</Link>
-						<Link href="https://github.com/rivo-gg" target="_blank">
+						<Link href="https://github.com/rivo-gg" target="_blank" rel="noreferrer noopener">
 							<GithubIcon className="h-8 w-8 text-primary transition hover:-translate-y-0.5" />
 						</Link>
 					</div>
@@ -31,6 +31,15 @@ export function Footer() {
 					<FooterLink href="/legal">Legal Notice</FooterLink>
 					<FooterLink href="/privacy">Privacy Policy</FooterLink>
 					<FooterLink href="/tos">Terms of Service</FooterLink>
+				</FooterList>
+				<FooterList>
+					<FooterTitle>Other Products</FooterTitle>
+					<FooterLink href="https://usenotra.com" target="_blank" rel="noreferrer noopener">
+						Notra
+					</FooterLink>
+					<FooterLink href="https://wouldyoubot.gg" target="_blank" rel="noreferrer noopener">
+						Would You Bot
+					</FooterLink>
 				</FooterList>
 				<FooterList className="pr-3">
 					<FooterTitle>Contacts</FooterTitle>
@@ -68,12 +77,21 @@ const FooterLink = ({
 	href,
 	children,
 	className,
+	target,
+	rel,
 }: {
 	href: string;
 	children: React.ReactNode;
 	className?: string;
+	target?: string;
+	rel?: string;
 }) => (
-	<Link href={href} className={cn("w-fit text-lg transition hover:text-blue-500", className)}>
+	<Link
+		href={href}
+		className={cn("w-fit text-lg transition hover:text-blue-500", className)}
+		target={target}
+		rel={rel}
+	>
 		{children}
 	</Link>
 );

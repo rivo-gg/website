@@ -11,17 +11,23 @@ export default function Page() {
 			<section className="flex w-full max-w-7xl flex-col gap-6 text-lg text-foreground/80">
 				<div className="mb-3">
 					<h1 className="mb-2">Terms of Service</h1>
-					<span className="text-base">Last updated and effective: May 16, 2024</span>
+					<span className="text-base">Last updated and effective: July 8, 2026</span>
 				</div>
 				<div className="flex flex-col gap-4">
 					<h4>Agreement to Terms</h4>
 					<span>
-						These terms of service (the &quot;Terms&quot;) apply to the Rivo Discord bot. By using Rivo, you agree to be
-						bound by these Terms and any additional terms that may be provided by the Company. If you do not agree to
-						these Terms, you may not use Rivo.
+						These terms of service (the &quot;Terms&quot;) govern your access to and use of the services provided by
+						Rivo (&quot;Rivo&quot;, the &quot;Company&quot;, &quot;we&quot;, &quot;us&quot;, or &quot;our&quot;),
+						including the Rivo Discord bot (the &quot;Bot&quot;) and the &quot;Truth or Dare&quot; mobile application
+						(the &quot;App&quot;), together with our related websites, content, and features (collectively, the
+						&quot;Services&quot;). References in these Terms to the &quot;Site&quot;, the &quot;Services&quot;, or the
+						&quot;Marketplace Offerings&quot; apply to all of the Services, including the Bot and the App, unless the
+						context clearly relates to a single product. By using any of the Services, you agree to be bound by these
+						Terms and any additional terms that may be provided by the Company. If you do not agree to these Terms, you
+						may not use the Services.
 					</span>
 					<span>
-						Rivo is a bot for the chat and social platform &quot;Discord&quot; (accessible at{" "}
+						The Bot is a bot for the chat and social platform &quot;Discord&quot; (accessible at{" "}
 						<Link href="https://discord.com" target={"_blank"} className="text-foreground underline">
 							https://discord.com
 						</Link>
@@ -34,15 +40,22 @@ export default function Page() {
 						&quot;Developer terms&quot;, does not want, is not trying to and is not knowingly abusing any of
 						Discord&apos;s services.
 					</span>
+					<span>
+						The App is a mobile application published by the Company through third-party app stores (such as the Apple
+						App Store and Google Play). Your download and use of the App is also subject to the terms, policies, and
+						age ratings of the applicable app store.
+					</span>
 				</div>
 				<div className="flex flex-col gap-4">
 					<h4>1. Age Restriction</h4>
 					<span>
-						The Rivo Bot is not intended for use by individuals under the age of 13. By using the Rivo Bot, you
-						represent and warrant that you are at least 13 years of age. If you are under 13 years of age, you are not
-						permitted to use the Rivo Bot. If we become aware that a user is under the age of 13, we will take steps to
-						terminate their access to the Rivo Bot and delete any personal information collected from them, if
-						applicable.
+						The Services are not intended for use by individuals under the age of 13. By using the Services, you
+						represent and warrant that you are at least 13 years of age. In addition, the App is intended for users
+						within the age range stated on the applicable app store listing, and certain content categories are
+						age-gated within the App as described in Section 13. If you are under the applicable minimum age, you are
+						not permitted to use the relevant Service. If we become aware that a user is under the applicable minimum
+						age, we will take steps to terminate their access and delete any personal information collected from them,
+						where applicable.
 					</span>
 				</div>
 				<div className="flex flex-col gap-4">
@@ -103,15 +116,17 @@ export default function Page() {
 				<div className="flex flex-col gap-4">
 					<h4>5. Warranty Disclaimer</h4>
 					<span>
-						1. The bot may experience downtime, errors, or technical issues beyond our control. We do not accept
-						responsibility for any inconvenience, loss of data, or damages resulting from the use of this bot.
+						1. The Services may experience downtime, errors, or technical issues beyond our control. To the maximum
+						extent permitted by applicable law, we do not accept responsibility for any inconvenience, loss of data, or
+						damages resulting from the use of the Services.
 					</span>
 					<span>
-						2. Your use of this bot is at your own risk. We disclaim all warranties, express or implied, including but
-						not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement.
+						2. Your use of the Services is at your own risk. To the maximum extent permitted by applicable law, we
+						disclaim all warranties, express or implied, including but not limited to warranties of merchantability,
+						fitness for a particular purpose, and non-infringement.
 					</span>
 					<span>
-						3. We reserve the right to modify, suspend, or terminate the bot service at any time without prior notice.
+						3. We reserve the right to modify, suspend, or terminate the Services at any time without prior notice.
 					</span>
 				</div>
 				<div className="flex flex-col gap-4">
@@ -193,23 +208,59 @@ export default function Page() {
 				<div className="flex flex-col gap-4">
 					<h4>11. Disclaimer</h4>
 					<span>
-						Rivo is provided &quot;as is&quot; and &quot;as available&quot;, and the Company makes no warranties of any
-						kind, express or implied, including but not limited to warranties of merchantability, fitness for a
-						particular purpose, and non-infringement. The Company does not guarantee that Rivo will be available at all
-						times or that it will be error-free. In no event shall we be liable for any damages arising from the use of
-						the Discord Bot. It is therefore recommended to use it only with the required permissions.
+						The Services are provided &quot;as is&quot; and &quot;as available&quot;, and the Company makes no
+						warranties of any kind, express or implied, including but not limited to warranties of merchantability,
+						fitness for a particular purpose, and non-infringement. The Company does not guarantee that the Services
+						will be available at all times or that they will be error-free. To the maximum extent permitted by
+						applicable law, in no event shall we be liable for any damages arising from the use of the Services. Where
+						a Service requires permissions to function (for example, Discord permissions for the Bot), it is
+						recommended to grant only the permissions required.
 					</span>
 				</div>
 				<div className="flex flex-col gap-4">
 					<h4>12. Limitation of Liability</h4>
 					<span>
-						The Company will not be liable to you or any third party for any damages arising out of or in connection
-						with your use of Rivo, including but not limited to direct, indirect, incidental, consequential, and
-						punitive damages.
+						To the maximum extent permitted by applicable law, the Company will not be liable to you or any third party
+						for any damages arising out of or in connection with your use of the Services, including but not limited to
+						direct, indirect, incidental, consequential, and punitive damages. Nothing in these Terms excludes or
+						limits any liability that cannot be excluded or limited under applicable law, including liability for death
+						or personal injury caused by our negligence and liability for intent or gross negligence.
 					</span>
 				</div>
 				<div className="flex flex-col gap-4">
-					<h4>13. Miscellaneous</h4>
+					<h4>13. Truth or Dare App Safety and Assumption of Risk</h4>
+					<span>
+						This section applies to the &quot;Truth or Dare&quot; mobile application provided by Rivo (the
+						&quot;App&quot;), which offers party-game prompts, including &quot;truth&quot; questions and
+						&quot;dare&quot; challenges.
+					</span>
+					<span>
+						1. The App provides entertainment prompts only. All dares and other prompts are suggestions, and
+						participation is entirely voluntary. You may skip, decline, or end any prompt at any time, and you are
+						never required to perform a dare.
+					</span>
+					<span>
+						2. You are solely responsible for deciding whether a given prompt is safe, appropriate, and legal for you
+						and for everyone involved before acting on it. This includes taking account of allergies, medical
+						conditions, physical limitations, intoxication, your physical surroundings, and any other relevant
+						circumstances, as well as obtaining the freely given consent of every person involved.
+					</span>
+					<span>
+						3. You must not perform any prompt that would violate applicable law or endanger the health, safety, or
+						property of yourself or others. To the maximum extent permitted by applicable law, the Company accepts no
+						liability for any injury, illness, death, property damage, or other loss or harm resulting from
+						performing, attempting, or declining any prompt. This does not affect any liability that cannot be
+						excluded or limited under applicable law, and it applies in addition to, and is to be read together with,
+						the Warranty Disclaimer (Section 5) and the Limitation of Liability (Section 12) set out above.
+					</span>
+					<span>
+						4. The App is intended for users within the age range stated on the applicable app store listing. Content
+						categories that contain mature or adult themes are age-gated within the App, and you must not enable or
+						access such categories unless you meet the applicable age requirement.
+					</span>
+				</div>
+				<div className="flex flex-col gap-4">
+					<h4>14. Miscellaneous</h4>
 					<span>
 						These Terms of Use and any policies or operating rules posted by us on the Site or in respect to the Site
 						constitute the entire agreement and understanding between you and us. Our failure to exercise or enforce any

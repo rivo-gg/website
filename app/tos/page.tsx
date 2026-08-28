@@ -11,7 +11,7 @@ export default function Page() {
 			<section className="flex w-full max-w-7xl flex-col gap-6 text-lg text-foreground/80">
 				<div className="mb-3">
 					<h1 className="mb-2">Terms of Service</h1>
-					<span className="text-base">Last updated and effective: July 8, 2026</span>
+					<span className="text-base">Last updated and effective: August 28, 2026</span>
 				</div>
 				<div className="flex flex-col gap-4">
 					<h4>Agreement to Terms</h4>
@@ -59,28 +59,55 @@ export default function Page() {
 					</span>
 				</div>
 				<div className="flex flex-col gap-4">
-					<h4>2. Premium Subscription</h4>
+					<h4>2. Premium Subscriptions</h4>
 					<span>
-						The Rivo discord Bot offers a premium subscription model (&quot;Premium Model&quot;) that provides
-						additional features and benefits. By subscribing to the Premium Model, you agree to pay the specified
-						subscription fee on a recurring basis using the payment processing services of Stripe, Inc.
-						(&quot;Stripe&quot;).
+						The Bot and the App may each offer separate premium subscriptions that provide additional features and
+						benefits. The price, currency, billing period, and benefits of each subscription are shown before you
+						confirm a purchase.
 					</span>
 				</div>
 				<div className="flex flex-col gap-4">
-					<h4>2.1 Payment Processing</h4>
+					<h4>2.1 Bot Subscription</h4>
 					<span>
-						All payments for the Premium Service are processed securely through Stripe. By subscribing to the Premium
-						Model, you authorise the Creator to automatically charge the applicable subscription fee to your chosen
-						payment method on a recurring basis until you cancel your subscription.{" "}
+						The Rivo Discord Bot offers a premium subscription model (&quot;Bot Premium&quot;). Payments for Bot Premium
+						are processed by Stripe, Inc. (&quot;Stripe&quot;). By subscribing, you authorise Rivo and Stripe to charge
+						the displayed subscription fee to your selected payment method on a recurring basis until you cancel.
+					</span>
+					<span>
+						You may cancel Bot Premium by following Stripe&apos;s cancellation instructions or by contacting Rivo.
+						Cancellation takes effect at the end of the current paid period. Fees already paid are non-refundable except
+						where required by applicable law.
 					</span>
 				</div>
 				<div className="flex flex-col gap-4">
-					<h4>2.2 Cancellation and Refunds</h4>
+					<h4>2.2 App Subscription</h4>
 					<span>
-						You may cancel your subscription to the Premium Model at any time by following the cancellation instructions
-						provided by Stripe or by contacting the Creator directly. No refunds will be given for any unused portion of
-						the subscription period.
+						The App may offer auto-renewable subscriptions, including weekly and yearly options, that unlock Truth or
+						Dare Pro features. Purchases are processed by the app store through which you obtain the App
+						(&quot;Store&quot;), not directly by Rivo. By confirming a purchase, you authorise the Store to charge your
+						Store account at the price and frequency shown before purchase.
+					</span>
+					<span>
+						An App subscription renews automatically unless you cancel it through your Store account settings before the
+						end of the current billing period. Deleting the App does not cancel a subscription. After cancellation, you
+						retain access to the subscription benefits until the end of the period already paid for. The Store handles
+						billing, renewal, cancellation, and refund requests under its own terms and policies. Nothing in these Terms
+						limits any refund or cancellation right you have under applicable law.
+					</span>
+				</div>
+				<div className="flex flex-col gap-4">
+					<h4>2.3 Apple App Store Terms</h4>
+					<span>
+						If you obtain the App through Apple&apos;s App Store, Apple&apos;s{" "}
+						<Link
+							href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/"
+							target={"_blank"}
+							className="text-foreground underline"
+						>
+							Standard End User License Agreement
+						</Link>{" "}
+						governs your license to use the App. These Terms supplement that agreement for Rivo&apos;s Services and do
+						not replace or limit any rights or obligations that apply under Apple&apos;s terms or applicable law.
 					</span>
 				</div>
 				<div className="flex flex-col gap-4">
